@@ -1,0 +1,5510 @@
+[
+  {
+    "id": 21,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number in the series: 1, 3, 7, 13, 21, ?",
+      "hi": "श्रृंखला में लुप्त संख्या खोजें: 1, 3, 7, 13, 21, ?"
+    },
+    "options": {
+      "en": ["29", "31", "33", "35"],
+      "hi": ["29", "31", "33", "35"]
+    },
+    "answer": {
+      "en": "31",
+      "hi": "31"
+    }
+  },
+  {
+    "id": 22,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'EAT' is coded as '318', what is 'SIT' coded as?",
+      "hi": "यदि 'EAT' को '318' के रूप में कोड किया जाता है, तो 'SIT' को क्या कोड किया जाता है?"
+    },
+    "options": {
+      "en": ["19920", "19918", "191020", "191920"],
+      "hi": ["19920", "19918", "191020", "191920"]
+    },
+    "answer": {
+      "en": "19920",
+      "hi": "19920"
+    }
+  },
+  {
+    "id": 23,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Cow : Herd :: Fish : ?",
+      "hi": "सादृश्य पूरा करें: गाय : झुंड :: मछली : ?"
+    },
+    "options": {
+      "en": ["Pack", "School", "Swarm", "Flock"],
+      "hi": ["समूह", "मत्स्य समूह", "झुंड", "पंक्ति"]
+    },
+    "answer": {
+      "en": "School",
+      "hi": "मत्स्य समूह"
+    }
+  },
+  {
+    "id": 24,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Keyboard, Mouse, Monitor, Printer, CPU",
+      "hi": "अलग चुनें: कीबोर्ड, माउस, मॉनिटर, प्रिंटर, सीपीयू"
+    },
+    "options": {
+      "en": ["Keyboard", "Mouse", "Monitor", "Printer", "CPU"],
+      "hi": ["कीबोर्ड", "माउस", "मॉनिटर", "प्रिंटर", "सीपीयू"]
+    },
+    "answer": {
+      "en": "CPU",
+      "hi": "सीपीयू"
+    }
+  },
+  {
+    "id": 25,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "In a certain code, 'RIVER' is written as 'REVIR'. How is 'OCEAN' written?",
+      "hi": "एक निश्चित कोड में, 'RIVER' को 'REVIR' लिखा जाता है। 'OCEAN' कैसे लिखा जाता है?"
+    },
+    "options": {
+      "en": ["NAECO", "NAECO", "NAOC", "NAOCE"],
+      "hi": ["NAECO", "NAECO", "NAOC", "NAOCE"]
+    },
+    "answer": {
+      "en": "NAECO",
+      "hi": "NAECO"
+    }
+  },
+  {
+    "id": 26,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'A' stands for addition, 'B' for subtraction, 'C' for multiplication, and 'D' for division, what is the value of 10C5A(6D3)?",
+      "hi": "यदि 'A' जोड़ के लिए, 'B' घटाव के लिए, 'C' गुणा के लिए, और 'D' भाग के लिए है, तो 10C5A(6D3) का मान क्या है?"
+    },
+    "options": {
+      "en": ["52", "54", "50", "48"],
+      "hi": ["52", "54", "50", "48"]
+    },
+    "answer": {
+      "en": "52",
+      "hi": "52"
+    }
+  },
+  {
+    "id": 27,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number: 1, 8, 27, 64, ?",
+      "hi": "लुप्त संख्या खोजें: 1, 8, 27, 64, ?"
+    },
+    "options": {
+      "en": ["100", "125", "144", "169"],
+      "hi": ["100", "125", "144", "169"]
+    },
+    "answer": {
+      "en": "125",
+      "hi": "125"
+    }
+  },
+  {
+    "id": 28,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "A is the father of B. C is the daughter of A. D is the sister of B. How is D related to C?",
+      "hi": "A, B का पिता है। C, A की बेटी है। D, B की बहन है। D का C से क्या रिश्ता है?"
+    },
+    "options": {
+      "en": ["Sister", "Brother", "Daughter", "Mother"],
+      "hi": ["बहन", "भाई", "बेटी", "माँ"]
+    },
+    "answer": {
+      "en": "Sister",
+      "hi": "बहन"
+    }
+  },
+  {
+    "id": 29,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Choose the odd one out: Ostrich, Penguin, Bat, Kiwi",
+      "hi": "अलग चुनें: शुतुरमुर्ग, पेंगुइन, चमगादड़, कीवी"
+    },
+    "options": {
+      "en": ["Ostrich", "Penguin", "Bat", "Kiwi"],
+      "hi": ["शुतुरमुर्ग", "पेंगुइन", "चमगादड़", "कीवी"]
+    },
+    "answer": {
+      "en": "Bat",
+      "hi": "चमगादड़"
+    }
+  },
+  {
+    "id": 30,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which letter replaces the question mark in the series: A, B, D, G, ?",
+      "hi": "श्रृंखला में प्रश्न चिह्न के स्थान पर कौन सा अक्षर आएगा: A, B, D, G, ?"
+    },
+    "options": {
+      "en": ["K", "L", "M", "N"],
+      "hi": ["K", "L", "M", "N"]
+    },
+    "answer": {
+      "en": "K",
+      "hi": "K"
+    }
+  },
+  {
+    "id": 31,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If the day before yesterday was Thursday, what will be the day after tomorrow?",
+      "hi": "यदि परसों गुरुवार था, तो परसों कौन सा दिन होगा?"
+    },
+    "options": {
+      "en": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+      "hi": ["रविवार", "सोमवार", "मंगलवार", "बुधवार"]
+    },
+    "answer": {
+      "en": "Sunday",
+      "hi": "रविवार"
+    }
+  },
+  {
+    "id": 32,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Doctor : Hospital :: Teacher : ?",
+      "hi": "सादृश्य पूरा करें: डॉक्टर : अस्पताल :: शिक्षक : ?"
+    },
+    "options": {
+      "en": ["School", "College", "University", "Student"],
+      "hi": ["स्कूल", "कॉलेज", "विश्वविद्यालय", "छात्र"]
+    },
+    "answer": {
+      "en": "School",
+      "hi": "स्कूल"
+    }
+  },
+  {
+    "id": 33,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number: 10, 100, 1000, ?",
+      "hi": "लुप्त संख्या खोजें: 10, 100, 1000, ?"
+    },
+    "options": {
+      "en": ["10000", "100000", "1000000", "10000000"],
+      "hi": ["10000", "100000", "1000000", "10000000"]
+    },
+    "answer": {
+      "en": "10000",
+      "hi": "10000"
+    }
+  },
+  {
+    "id": 34,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'GREEN' is coded as 'HFSFO', what is 'WHITE' coded as?",
+      "hi": "यदि 'GREEN' को 'HFSFO' कोड किया जाता है, तो 'WHITE' को क्या कोड किया जाता है?"
+    },
+    "options": {
+      "en": ["XHJUF", "XIJUF", "XHIVF", "XIHVF"],
+      "hi": ["XHJUF", "XIJUF", "XHIVF", "XIHVF"]
+    },
+    "answer": {
+      "en": "XHJUF",
+      "hi": "XHJUF"
+    }
+  },
+  {
+    "id": 35,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Choose the odd one out: Triangle, Square, Pentagon, Hexagon, Circle",
+      "hi": "अलग चुनें: त्रिभुज, वर्ग, पंचभुज, षट्भुज, वृत्त"
+    },
+    "options": {
+      "en": ["Triangle", "Square", "Pentagon", "Hexagon", "Circle"],
+      "hi": ["त्रिभुज", "वर्ग", "पंचभुज", "षट्भुज", "वृत्त"]
+    },
+    "answer": {
+      "en": "Circle",
+      "hi": "वृत्त"
+    }
+  },
+  {
+    "id": 36,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If A=1, B=2, C=3 and so on, what is the value of 'E+A+T'?",
+      "hi": "यदि A=1, B=2, C=3 इत्यादि, तो 'E+A+T' का मान क्या है?"
+    },
+    "options": {
+      "en": ["24", "25", "26", "27"],
+      "hi": ["24", "25", "26", "27"]
+    },
+    "answer": {
+      "en": "26",
+      "hi": "26"
+    }
+  },
+  {
+    "id": 37,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If all dogs are loyal, and Max is a dog, which of the following statements is true?",
+      "hi": "यदि सभी कुत्ते वफादार हैं, और मैक्स एक कुत्ता है, तो निम्न में से कौन सा कथन सत्य है?"
+    },
+    "options": {
+      "en": ["All loyal animals are dogs", "Max is loyal", "All dogs are Max", "Some dogs are not loyal"],
+      "hi": ["सभी वफादार जानवर कुत्ते हैं", "मैक्स वफादार है", "सभी कुत्ते मैक्स हैं", "कुछ कुत्ते वफादार नहीं हैं"]
+    },
+    "answer": {
+      "en": "Max is loyal",
+      "hi": "मैक्स वफादार है"
+    }
+  },
+  {
+    "id": 38,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the next number in the series: 3, 5, 8, 12, ?",
+      "hi": "श्रृंखला में अगली संख्या खोजें: 3, 5, 8, 12, ?"
+    },
+    "options": {
+      "en": ["15", "17", "18", "19"],
+      "hi": ["15", "17", "18", "19"]
+    },
+    "answer": {
+      "en": "17",
+      "hi": "17"
+    }
+  },
+  {
+    "id": 39,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "In a family, there are a father, a mother, two sons, and two daughters. The two sons have one sister each. How many people are there in the family?",
+      "hi": "एक परिवार में, एक पिता, एक माता, दो बेटे और दो बेटियाँ हैं। दोनों बेटों की एक-एक बहन है। परिवार में कितने लोग हैं?"
+    },
+    "options": {
+      "en": ["6", "5", "7", "8"],
+      "hi": ["6", "5", "7", "8"]
+    },
+    "answer": {
+      "en": "6",
+      "hi": "6"
+    }
+  },
+  {
+    "id": 40,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Hand : Glove :: Foot : ?",
+      "hi": "सादृश्य पूरा करें: हाथ : दस्ताना :: पैर : ?"
+    },
+    "options": {
+      "en": ["Shoe", "Sock", "Sandals", "Boot"],
+      "hi": ["जूता", "मोज़ा", "चप्पल", "बूट"]
+    },
+    "answer": {
+      "en": "Shoe",
+      "hi": "जूता"
+    }
+  },
+  {
+    "id": 41,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If A is the brother of B, C is the son of A, and D is the wife of B, how is D related to C?",
+      "hi": "यदि A, B का भाई है, C, A का बेटा है, और D, B की पत्नी है, तो D का C से क्या रिश्ता है?"
+    },
+    "options": {
+      "en": ["Mother", "Aunt", "Sister", "Uncle"],
+      "hi": ["माँ", "चाची", "बहन", "चाचा"]
+    },
+    "answer": {
+      "en": "Aunt",
+      "hi": "चाची"
+    }
+  },
+  {
+    "id": 42,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Mercury, Venus, Earth, Mars, Moon",
+      "hi": "अलग चुनें: बुध, शुक्र, पृथ्वी, मंगल, चाँद"
+    },
+    "options": {
+      "en": ["Mercury", "Venus", "Earth", "Mars", "Moon"],
+      "hi": ["बुध", "शुक्र", "पृथ्वी", "मंगल", "चाँद"]
+    },
+    "answer": {
+      "en": "Moon",
+      "hi": "चाँद"
+    }
+  },
+  {
+    "id": 43,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which letter replaces the question mark in the series: Z, X, V, T, ?",
+      "hi": "श्रृंखला में प्रश्न चिह्न के स्थान पर कौन सा अक्षर आएगा: Z, X, V, T, ?"
+    },
+    "options": {
+      "en": ["R", "S", "U", "V"],
+      "hi": ["R", "S", "U", "V"]
+    },
+    "answer": {
+      "en": "R",
+      "hi": "R"
+    }
+  },
+  {
+    "id": 44,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 1 = 3, 2 = 3, 3 = 5, 4 = 4, 5 = 4, then 6 = ?",
+      "hi": "यदि 1 = 3, 2 = 3, 3 = 5, 4 = 4, 5 = 4, तो 6 = ?"
+    },
+    "options": {
+      "en": ["3", "4", "5", "6"],
+      "hi": ["3", "4", "5", "6"]
+    },
+    "answer": {
+      "en": "3",
+      "hi": "3"
+    }
+  },
+  {
+    "id": 45,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Fire : Ash :: Explosion : ?",
+      "hi": "सादृश्य पूरा करें: आग : राख :: विस्फोट : ?"
+    },
+    "options": {
+      "en": ["Sound", "Debris", "Flame", "Heat"],
+      "hi": ["ध्वनि", "मलबा", "ज्वाला", "गर्मी"]
+    },
+    "answer": {
+      "en": "Debris",
+      "hi": "मलबा"
+    }
+  },
+  {
+    "id": 46,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "In a race, Tom finished before John, and John finished before Peter. Who finished first?",
+      "hi": "एक दौड़ में, टॉम जॉन से पहले समाप्त हुआ, और जॉन पीटर से पहले समाप्त हुआ। पहले कौन समाप्त हुआ?"
+    },
+    "options": {
+      "en": ["Tom", "John", "Peter", "Cannot be determined"],
+      "hi": ["टॉम", "जॉन", "पीटर", "निर्धारित नहीं किया जा सकता"]
+    },
+    "answer": {
+      "en": "Tom",
+      "hi": "टॉम"
+    }
+  },
+  {
+    "id": 47,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which number is the odd one out: 12, 14, 16, 18, 20, 21",
+      "hi": "कौन सी संख्या अलग है: 12, 14, 16, 18, 20, 21"
+    },
+    "options": {
+      "en": ["12", "16", "20", "21"],
+      "hi": ["12", "16", "20", "21"]
+    },
+    "answer": {
+      "en": "21",
+      "hi": "21"
+    }
+  },
+  {
+    "id": 48,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'BIRD' is coded as 'CITE', what is 'LION' coded as?",
+      "hi": "यदि 'BIRD' को 'CITE' कोड किया जाता है, तो 'LION' को क्या कोड किया जाता है?"
+    },
+    "options": {
+      "en": ["MIPQ", "MIPN", "MIPR", "MINP"],
+      "hi": ["MIPQ", "MIPN", "MIPR", "MINP"]
+    },
+    "answer": {
+      "en": "MIPN",
+      "hi": "MIPN"
+    }
+  },
+  {
+    "id": 49,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'A' is twice as old as 'B', and 'C' is three years younger than 'B', who is the youngest?",
+      "hi": "यदि 'A', 'B' से दोगुना उम्र का है, और 'C', 'B' से तीन साल छोटा है, तो सबसे छोटा कौन है?"
+    },
+    "options": {
+      "en": ["A", "B", "C", "Cannot be determined"],
+      "hi": ["A", "B", "C", "निर्धारित नहीं किया जा सकता"]
+    },
+    "answer": {
+      "en": "C",
+      "hi": "C"
+    }
+  },
+  {
+    "id": 50,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which number comes next in the sequence: 5, 6, 8, 11, 15, ?",
+      "hi": "श्रृंखला में अगली संख्या क्या आती है: 5, 6, 8, 11, 15, ?"
+    },
+    "options": {
+      "en": ["18", "20", "22", "24"],
+      "hi": ["18", "20", "22", "24"]
+    },
+    "answer": {
+      "en": "20",
+      "hi": "20"
+    }
+  },
+
+{
+"id": 51,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Water : Ice :: Vapour : ?",
+      "hi": "सादृश्य पूरा करें: पानी : बर्फ :: वाष्प : ?"
+    },
+    "options": {
+      "en": ["Liquid", "Steam", "Gas", "Cloud"],
+      "hi": ["तरल", "भाप", "गैस", "बादल"]
+    },
+    "answer": {
+      "en": "Steam",
+      "hi": "भाप"
+    }
+  },
+  {
+    "id": 52,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'CLOCK' is coded as '34235' and 'TIME' is coded as '8679', what is 'MOCK' coded as?",
+      "hi": "यदि 'CLOCK' को '34235' कोड किया जाता है और 'TIME' को '8679' कोड किया जाता है, तो 'MOCK' को क्या कोड किया जाता है?"
+    },
+    "options": {
+      "en": ["7423", "7435", "7425", "7325"],
+      "hi": ["7423", "7435", "7425", "7325"]
+    },
+    "answer": {
+      "en": "7425",
+      "hi": "7425"
+    }
+  },
+  {
+    "id": 53,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which of the following does not belong: Red, Blue, Green, Yellow, Black",
+      "hi": "निम्न में से कौन सा संबंधित नहीं है: लाल, नीला, हरा, पीला, काला"
+    },
+    "options": {
+      "en": ["Red", "Blue", "Green", "Yellow", "Black"],
+      "hi": ["लाल", "नीला", "हरा", "पीला", "काला"]
+    },
+    "answer": {
+      "en": "Black",
+      "hi": "काला"
+    }
+  },
+  {
+    "id": 54,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number in the series: 5, 25, 125, ?",
+      "hi": "श्रृंखला में लुप्त संख्या खोजें: 5, 25, 125, ?"
+    },
+    "options": {
+      "en": ["250", "625", "500", "750"],
+      "hi": ["250", "625", "500", "750"]
+    },
+    "answer": {
+      "en": "625",
+      "hi": "625"
+    }
+  },
+  {
+    "id": 55,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If a person is walking towards the East, and then turns right, in which direction are they facing now?",
+      "hi": "यदि कोई व्यक्ति पूर्व की ओर चल रहा है, और फिर दाएं मुड़ता है, तो अब वह किस दिशा में मुंह कर रहा है?"
+    },
+    "options": {
+      "en": ["North", "South", "East", "West"],
+      "hi": ["उत्तर", "दक्षिण", "पूर्व", "पश्चिम"]
+    },
+    "answer": {
+      "en": "South",
+      "hi": "दक्षिण"
+    }
+  },
+  {
+    "id": 56,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'B' is the brother of 'C', 'C' is the sister of 'A', and 'D' is the father of 'A', how is 'B' related to 'D'?",
+      "hi": "यदि 'B', 'C' का भाई है, 'C', 'A' की बहन है, और 'D', 'A' का पिता है, तो 'B' का 'D' से क्या रिश्ता है?"
+    },
+    "options": {
+      "en": ["Son", "Daughter", "Father", "Grandson"],
+      "hi": ["बेटा", "बेटी", "पिता", "पोता"]
+    },
+    "answer": {
+      "en": "Son",
+      "hi": "बेटा"
+    }
+  },
+  {
+    "id": 57,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Eye : See :: Ear : ?",
+      "hi": "सादृश्य पूरा करें: आंख : देखना :: कान : ?"
+    },
+    "options": {
+      "en": ["Hear", "Taste", "Smell", "Touch"],
+      "hi": ["सुनना", "चखना", "सूंघना", "छूना"]
+    },
+    "answer": {
+      "en": "Hear",
+      "hi": "सुनना"
+    }
+  },
+  {
+    "id": 58,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: 1, 8, 27, 36, 64",
+      "hi": "अलग चुनें: 1, 8, 27, 36, 64"
+    },
+    "options": {
+      "en": ["1", "8", "27", "36", "64"],
+      "hi": ["1", "8", "27", "36", "64"]
+    },
+    "answer": {
+      "en": "36",
+      "hi": "36"
+    }
+  },
+  {
+    "id": 59,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which letter replaces the question mark in the series: A, E, I, O, ?",
+      "hi": "श्रृंखला में प्रश्न चिह्न के स्थान पर कौन सा अक्षर आएगा: A, E, I, O, ?"
+    },
+    "options": {
+      "en": ["U", "V", "W", "X"],
+      "hi": ["U", "V", "W", "X"]
+    },
+    "answer": {
+      "en": "U",
+      "hi": "U"
+    }
+  },
+  {
+    "id": 60,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'HOT' is coded as '26', and 'COLD' is coded as '34', what is 'WET' coded as?",
+      "hi": "यदि 'HOT' को '26' कोड किया जाता है, और 'COLD' को '34' कोड किया जाता है, तो 'WET' को क्या कोड किया जाता है?"
+    },
+    "options": {
+      "en": ["30", "32", "34", "36"],
+      "hi": ["30", "32", "34", "36"]
+    },
+    "answer": {
+      "en": "30",
+      "hi": "30"
+    }
+  },
+  {
+    "id": 61,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'SUN' is related to 'LIGHT', then 'MOON' is related to?",
+      "hi": "यदि 'SUN' का संबंध 'LIGHT' से है, तो 'MOON' का संबंध किससे है?"
+    },
+    "options": {
+      "en": ["NIGHT", "STARS", "DARKNESS", "TIDE"],
+      "hi": ["रात", "तारे", "अंधकार", "ज्वार"]
+    },
+    "answer": {
+      "en": "TIDE",
+      "hi": "ज्वार"
+    }
+  },
+  {
+    "id": 62,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the series: J, L, N, P, ?",
+      "hi": "श्रृंखला पूरी करें: J, L, N, P, ?"
+    },
+    "options": {
+      "en": ["Q", "R", "S", "T"],
+      "hi": ["Q", "R", "S", "T"]
+    },
+    "answer": {
+      "en": "R",
+      "hi": "R"
+    }
+  },
+  {
+    "id": 63,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Lion, Tiger, Elephant, Leopard, Panther",
+      "hi": "अलग चुनें: शेर, बाघ, हाथी, तेंदुआ, चीता"
+    },
+    "options": {
+      "en": ["Lion", "Tiger", "Elephant", "Leopard", "Panther"],
+      "hi": ["शेर", "बाघ", "हाथी", "तेंदुआ", "चीता"]
+    },
+    "answer": {
+      "en": "Elephant",
+      "hi": "हाथी"
+    }
+  },
+  {
+    "id": 64,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "In a row of boys, A is 10th from the left and B is 9th from the right. If A and B interchange their positions, A becomes 15th from the left. How many boys are there in the row?",
+      "hi": "लड़कों की एक पंक्ति में, A बाएं से 10वां है और B दाएं से 9वां है। यदि A और B अपनी स्थिति बदल लें, तो A बाएं से 15वां हो जाता है। पंक्ति में कितने लड़के हैं?"
+    },
+    "options": {
+      "en": ["21", "22", "23", "24"],
+      "hi": ["21", "22", "23", "24"]
+    },
+    "answer": {
+      "en": "23",
+      "hi": "23"
+    }
+  },
+  {
+    "id": 65,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'GOOD' is coded as '84', what is 'BAD' coded as?",
+      "hi": "यदि 'GOOD' को '84' कोड किया जाता है, तो 'BAD' को क्या कोड किया जाता है?"
+    },
+    "options": {
+      "en": ["18", "16", "14", "20"],
+      "hi": ["18", "16", "14", "20"]
+    },
+    "answer": {
+      "en": "14",
+      "hi": "14"
+    }
+  },
+  {
+    "id": 66,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which of the following is the odd one out: 4, 9, 16, 25, 30",
+      "hi": "निम्न में से कौन सा अलग है: 4, 9, 16, 25, 30"
+    },
+    "options": {
+      "en": ["4", "9", "16", "25", "30"],
+      "hi": ["4", "9", "16", "25", "30"]
+    },
+    "answer": {
+      "en": "30",
+      "hi": "30"
+    }
+  },
+  {
+    "id": 67,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If A's son is the father of B's son, how is B related to A?",
+      "hi": "यदि A का बेटा B के बेटे का पिता है, तो B का A से क्या रिश्ता है?"
+    },
+    "options": {
+      "en": ["Brother", "Father", "Son", "Grandson"],
+      "hi": ["भाई", "पिता", "बेटा", "पोता"]
+    },
+    "answer": {
+      "en": "Brother",
+      "hi": "भाई"
+    }
+  },
+  {
+    "id": 68,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Clock : Time :: Thermometer : ?",
+      "hi": "सादृश्य पूरा करें: घड़ी : समय :: थर्मामीटर : ?"
+    },
+    "options": {
+      "en": ["Heat", "Temperature", "Scale", "Fever"],
+      "hi": ["गर्मी", "तापमान", "पैमाना", "बुखार"]
+    },
+    "answer": {
+      "en": "Temperature",
+      "hi": "तापमान"
+    }
+  },
+  {
+    "id": 69,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number: 2, 6, 12, 20, 30, ?",
+      "hi": "लुप्त संख्या खोजें: 2, 6, 12, 20, 30, ?"
+    },
+    "options": {
+      "en": ["36", "40", "42", "48"],
+      "hi": ["36", "40", "42", "48"]
+    },
+    "answer": {
+      "en": "42",
+      "hi": "42"
+    }
+  },
+  {
+    "id": 70,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'POND' is coded as 'RSQD', then 'LAKE' is coded as?",
+      "hi": "यदि 'POND' को 'RSQD' कोड किया जाता है, तो 'LAKE' को क्या कोड किया जाता है?"
+    },
+    "options": {
+      "en": ["NJLG", "NJLF", "MJLF", "MJLG"],
+      "hi": ["NJLG", "NJLF", "MJLF", "MJLG"]
+    },
+    "answer": {
+      "en": "NJLG",
+      "hi": "NJLG"
+    }
+  },
+  {
+    "id": 71,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Earth, Jupiter, Saturn, Uranus, Sun",
+      "hi": "अलग चुनें: पृथ्वी, बृहस्पति, शनि, यूरेनस, सूर्य"
+    },
+    "options": {
+      "en": ["Earth", "Jupiter", "Saturn", "Uranus", "Sun"],
+      "hi": ["पृथ्वी", "बृहस्पति", "शनि", "यूरेनस", "सूर्य"]
+    },
+    "answer": {
+      "en": "Sun",
+      "hi": "सूर्य"
+    }
+  },
+  {
+    "id": 72,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 10 men can complete a job in 20 days, how many days will 20 men take to complete the same job?",
+      "hi": "यदि 10 आदमी 20 दिनों में एक काम पूरा कर सकते हैं, तो 20 आदमी उसी काम को कितने दिनों में पूरा करेंगे?"
+    },
+    "options": {
+      "en": ["5", "10", "15", "20"],
+      "hi": ["5", "10", "15", "20"]
+    },
+    "answer": {
+      "en": "10",
+      "hi": "10"
+    }
+  },
+  {
+    "id": 73,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Water : Thirst :: Food : ?",
+      "hi": "सादृश्य पूरा करें: पानी : प्यास :: भोजन : ?"
+    },
+    "options": {
+      "en": ["Hunger", "Taste", "Eat", "Stomach"],
+      "hi": ["भूख", "स्वाद", "खाना", "पेट"]
+    },
+    "answer": {
+      "en": "Hunger",
+      "hi": "भूख"
+    }
+  },
+  {
+    "id": 74,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number: 1, 2, 3, 5, 8, ?",
+      "hi": "लुप्त संख्या खोजें: 1, 2, 3, 5, 8, ?"
+    },
+    "options": {
+      "en": ["11", "12", "13", "14"],
+      "hi": ["11", "12", "13", "14"]
+    },
+    "answer": {
+      "en": "13",
+      "hi": "13"
+    }
+  },
+  {
+    "id": 75,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If a person is walking towards the North, then turns left, then turns right, what direction are they facing?",
+      "hi": "यदि कोई व्यक्ति उत्तर की ओर चल रहा है, फिर बाएं मुड़ता है, फिर दाएं मुड़ता है, तो वह किस दिशा में मुंह कर रहा है?"
+    },
+    "options": {
+      "en": ["North", "South", "East", "West"],
+      "hi": ["उत्तर", "दक्षिण", "पूर्व", "पश्चिम"]
+    },
+    "answer": {
+      "en": "North",
+      "hi": "उत्तर"
+    }
+  },
+  {
+    "id": 76,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "In a code language, 'EASY' is written as 'FVZ_'. What is the missing letter?",
+      "hi": "एक कोड भाषा में, 'EASY' को 'FVZ_' लिखा जाता है। लुप्त अक्षर क्या है?"
+    },
+    "options": {
+      "en": ["X", "Z", "Y", "W"],
+      "hi": ["X", "Z", "Y", "W"]
+    },
+    "answer": {
+      "en": "W",
+      "hi": "W"
+    }
+  },
+  {
+    "id": 77,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Pen, Pencil, Crayon, Ink, Marker",
+      "hi": "अलग चुनें: कलम, पेंसिल, रंगीन पेंसिल, स्याही, मार्कर"
+    },
+    "options": {
+      "en": ["Pen", "Pencil", "Crayon", "Ink", "Marker"],
+      "hi": ["कलम", "पेंसिल", "रंगीन पेंसिल", "स्याही", "मार्कर"]
+    },
+    "answer": {
+      "en": "Ink",
+      "hi": "स्याही"
+    }
+  },
+  {
+    "id": 78,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'BOOK' is related to 'PAGES', then 'CAR' is related to?",
+      "hi": "यदि 'BOOK' का संबंध 'PAGES' से है, तो 'CAR' का संबंध किससे है?"
+    },
+    "options": {
+      "en": ["WHEELS", "ENGINE", "FUEL", "TIRES"],
+      "hi": ["पहिए", "इंजन", "ईंधन", "टायर"]
+    },
+    "answer": {
+      "en": "ENGINE",
+      "hi": "इंजन"
+    }
+  },
+  {
+    "id": 79,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "A is the son of B. C is the daughter of B. D is the mother of A. How is C related to D?",
+      "hi": "A, B का बेटा है। C, B की बेटी है। D, A की माँ है। C का D से क्या रिश्ता है?"
+    },
+    "options": {
+      "en": ["Sister", "Daughter", "Granddaughter", "Niece"],
+      "hi": ["बहन", "बेटी", "पोती", "भतीजी"]
+    },
+    "answer": {
+      "en": "Daughter",
+      "hi": "बेटी"
+    }
+  },
+  {
+    "id": 80,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number in the series: 3, 6, 10, 15, 21, ?",
+      "hi": "श्रृंखला में लुप्त संख्या खोजें: 3, 6, 10, 15, 21, ?"
+    },
+    "options": {
+      "en": ["28", "29", "30", "31"],
+      "hi": ["28", "29", "30", "31"]
+    },
+    "answer": {
+      "en": "28",
+      "hi": "28"
+    }
+  },
+  {
+    "id": 81,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'FROG' is written as 'FLOG', what is 'DUCK' written as?",
+      "hi": "यदि 'FROG' को 'FLOG' लिखा जाता है, तो 'DUCK' को क्या लिखा जाता है?"
+    },
+    "options": {
+      "en": ["DUNK", "DOCK", "DACK", "DOCK"],
+      "hi": ["DUNK", "DOCK", "DACK", "DOCK"]
+    },
+    "answer": {
+      "en": "DUNK",
+      "hi": "DUNK"
+    }
+  },
+  {
+    "id": 82,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Chef : Kitchen :: Doctor : ?",
+      "hi": "सादृश्य पूरा करें: रसोइया : रसोई :: डॉक्टर : ?"
+    },
+    "options": {
+      "en": ["Patient", "Hospital", "Medicine", "Clinic"],
+      "hi": ["मरीज", "अस्पताल", "दवा", "क्लिनिक"]
+    },
+    "answer": {
+      "en": "Hospital",
+      "hi": "अस्पताल"
+    }
+  },
+  {
+    "id": 83,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: 13, 17, 19, 21, 23",
+      "hi": "अलग चुनें: 13, 17, 19, 21, 23"
+    },
+    "options": {
+      "en": ["13", "17", "19", "21", "23"],
+      "hi": ["13", "17", "19", "21", "23"]
+    },
+    "answer": {
+      "en": "21",
+      "hi": "21"
+    }
+  },
+  {
+    "id": 84,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'TABLE' is coded as 'VCDNK', what is 'CHAIR' coded as?",
+      "hi": "यदि 'TABLE' को 'VCDNK' कोड किया जाता है, तो 'CHAIR' को क्या कोड किया जाता है?"
+    },
+    "options": {
+      "en": ["EJCKT", "EJCKP", "EJCKT", "EJCKP"],
+      "hi": ["EJCKT", "EJCKP", "EJCKT", "EJCKP"]
+    },
+    "answer": {
+      "en": "EJCKT",
+      "hi": "EJCKT"
+    }
+  },
+  {
+    "id": 85,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "In a classroom of 30 students, 10 students like math, 15 students like science, and 5 students like both. How many students like neither math nor science?",
+      "hi": "30 छात्रों की एक कक्षा में, 10 छात्र गणित पसंद करते हैं, 15 छात्र विज्ञान पसंद करते हैं, और 5 छात्र दोनों पसंद करते हैं। कितने छात्र न तो गणित पसंद करते हैं और न ही विज्ञान?"
+    },
+    "options": {
+      "en": ["5", "10", "15", "20"],
+      "hi": ["5", "10", "15", "20"]
+    },
+    "answer": {
+      "en": "10",
+      "hi": "10"
+    }
+  },
+  {
+    "id": 86,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the series: B, D, G, K, P, ?",
+      "hi": "श्रृंखला पूरी करें: B, D, G, K, P, ?"
+    },
+    "options": {
+      "en": ["U", "V", "W", "X"],
+      "hi": ["U", "V", "W", "X"]
+    },
+    "answer": {
+      "en": "W",
+      "hi": "W"
+    }
+  },
+  {
+    "id": 87,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'LION' is coded as 'PMOS', what is 'TIGER' coded as?",
+      "hi": "यदि 'LION' को 'PMOS' कोड किया जाता है, तो 'TIGER' को क्या कोड किया जाता है?"
+    },
+    "options": {
+      "en": ["YJGHW", "YKHGT", "YJHGT", "YKHGW"],
+      "hi": ["YJGHW", "YKHGT", "YJHGT", "YKHGW"]
+    },
+    "answer": {
+      "en": "YJHGT",
+      "hi": "YJHGT"
+    }
+  },
+  {
+    "id": 88,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Square, Cube, Triangle, Rectangle",
+      "hi": "अलग चुनें: वर्ग, घन, त्रिभुज, आयत"
+    },
+    "options": {
+      "en": ["Square", "Cube", "Triangle", "Rectangle"],
+      "hi": ["वर्ग", "घन", "त्रिभुज", "आयत"]
+    },
+    "answer": {
+      "en": "Cube",
+      "hi": "घन"
+    }
+  },
+  {
+    "id": 89,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'APPLE' is to 'FRUIT', then 'POTATO' is to?",
+      "hi": "यदि 'APPLE' का संबंध 'FRUIT' से है, तो 'POTATO' का संबंध किससे है?"
+    },
+    "options": {
+      "en": ["VEGETABLE", "ROOT", "PLANT", "FLOWER"],
+      "hi": ["सब्जी", "जड़", "पौधा", "फूल"]
+    },
+    "answer": {
+      "en": "VEGETABLE",
+      "hi": "सब्जी"
+    }
+  },
+  {
+    "id": 90,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "A is the father of B. B is the brother of C. C is the wife of D. How is D related to A?",
+      "hi": "A, B का पिता है। B, C का भाई है। C, D की पत्नी है। D का A से क्या रिश्ता है?"
+    },
+    "options": {
+      "en": ["Son-in-law", "Daughter-in-law", "Son", "Father-in-law"],
+      "hi": ["दामाद", "बहू", "बेटा", "ससुर"]
+    },
+    "answer": {
+      "en": "Son-in-law",
+      "hi": "दामाद"
+    }
+  },
+  {
+    "id": 91,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the series: 1, 2, 4, 7, 11, ?",
+      "hi": "श्रृंखला पूरी करें: 1, 2, 4, 7, 11, ?"
+    },
+    "options": {
+      "en": ["14", "15", "16", "17"],
+      "hi": ["14", "15", "16", "17"]
+    },
+    "answer": {
+      "en": "16",
+      "hi": "16"
+    }
+  },
+
+{
+    "id": 92,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If '2' stands for 'P', '3' for 'Q', '4' for 'R', and '5' for 'S', what is '4325'?",
+      "hi": "यदि '2' का मतलब 'P', '3' का 'Q', '4' का 'R', और '5' का 'S' है, तो '4325' क्या है?"
+    },
+    "options": {
+      "en": ["RQPS", "RPSQ", "SQPR", "PSQR"],
+      "hi": ["RQPS", "RPSQ", "SQPR", "PSQR"]
+    },
+    "answer": {
+      "en": "RQPS",
+      "hi": "RQPS"
+    }
+  },
+  {
+    "id": 93,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Sparrow, Crow, Eagle, Butterfly, Parrot",
+      "hi": "अलग चुनें: गौरैया, कौआ, बाज, तितली, तोता"
+    },
+    "options": {
+      "en": ["Sparrow", "Crow", "Eagle", "Butterfly", "Parrot"],
+      "hi": ["गौरैया", "कौआ", "बाज", "तितली", "तोता"]
+    },
+    "answer": {
+      "en": "Butterfly",
+      "hi": "तितली"
+    }
+  },
+  {
+    "id": 94,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 10 cats can catch 10 mice in 10 minutes, how many cats are needed to catch 100 mice in 100 minutes?",
+      "hi": "यदि 10 बिल्लियां 10 मिनट में 10 चूहे पकड़ सकती हैं, तो 100 मिनट में 100 चूहे पकड़ने के लिए कितनी बिल्लियों की जरूरत है?"
+    },
+    "options": {
+      "en": ["10", "100", "20", "50"],
+      "hi": ["10", "100", "20", "50"]
+    },
+    "answer": {
+      "en": "10",
+      "hi": "10"
+    }
+  },
+  {
+    "id": 95,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Day : Night :: Black : ?",
+      "hi": "सादृश्य पूरा करें: दिन : रात :: काला : ?"
+    },
+    "options": {
+      "en": ["Dark", "White", "Light", "Shadow"],
+      "hi": ["अंधेरा", "सफेद", "प्रकाश", "छाया"]
+    },
+    "answer": {
+      "en": "White",
+      "hi": "सफेद"
+    }
+  },
+  {
+    "id": 96,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which number replaces the question mark: 5, 6, 9, 14, 21, ?",
+      "hi": "प्रश्न चिह्न के स्थान पर कौन सी संख्या आएगी: 5, 6, 9, 14, 21, ?"
+    },
+    "options": {
+      "en": ["30", "31", "32", "33"],
+      "hi": ["30", "31", "32", "33"]
+    },
+    "answer": {
+      "en": "30",
+      "hi": "30"
+    }
+  },
+  {
+    "id": 97,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'RAM' is coded as '27', and 'MAN' is coded as '28', what is 'BAT' coded as?",
+      "hi": "यदि 'RAM' को '27' कोड किया जाता है, और 'MAN' को '28' कोड किया जाता है, तो 'BAT' को क्या कोड किया जाता है?"
+    },
+    "options": {
+      "en": ["23", "24", "25", "26"],
+      "hi": ["23", "24", "25", "26"]
+    },
+    "answer": {
+      "en": "23",
+      "hi": "23"
+    }
+  },
+  {
+    "id": 99,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Mumbai, Chennai, Kolkata, Delhi, Bangalore",
+      "hi": "अलग चुनें: मुंबई, चेन्नई, कोलकाता, दिल्ली, बैंगलोर"
+    },
+    "options": {
+      "en": ["Mumbai", "Chennai", "Kolkata", "Delhi", "Bangalore"],
+      "hi": ["मुंबई", "चेन्नई", "कोलकाता", "दिल्ली", "बैंगलोर"]
+    },
+    "answer": {
+      "en": "Delhi",
+      "hi": "दिल्ली"
+    }
+  },
+  {
+    "id": 100,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If all dogs are animals, and all animals are living beings, what can you conclude about all dogs?",
+      "hi": "यदि सभी कुत्ते जानवर हैं, और सभी जानवर जीवित प्राणी हैं, तो आप सभी कुत्तों के बारे में क्या निष्कर्ष निकाल सकते हैं?"
+    },
+    "options": {
+      "en": ["All dogs are living beings", "Some living beings are dogs", "All living beings are dogs", "Both A and B"],
+      "hi": ["सभी कुत्ते जीवित प्राणी हैं", "कुछ जीवित प्राणी कुत्ते हैं", "सभी जीवित प्राणी कुत्ते हैं", "A और B दोनों"]
+    },
+    "answer": {
+      "en": "Both A and B",
+      "hi": "A और B दोनों"
+    }
+  },
+
+
+
+
+
+
+{
+"id": 101,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Complete the analogy: Pen : Write :: Book : ?",
+  "hi": "समानता पूरी करें: Pen : Write :: Book : ?"
+},
+"options": {
+  "en": ["Read", "Story", "Page", "Cover"],
+  "hi": ["पढ़ना", "कहानी", "पृष्ठ", "कवर"]
+},
+"answer": {
+  "en": "Read",
+  "hi": "पढ़ना"
+}
+},
+{
+"id": 102,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Which number is missing in the series: 7, 14, 21, 28, ?",
+  "hi": "श्रृंखला में कौन सा नंबर गायब है: 7, 14, 21, 28, ?"
+},
+"options": {
+  "en": ["30", "35", "42", "49"],
+  "hi": ["30", "35", "42", "49"]
+},
+"answer": {
+  "en": "35",
+  "hi": "35"
+}
+},
+{
+"id": 103,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Find the odd one out: Grapes, Apple, Banana, Potato",
+  "hi": "अलग को खोजें: अंगूर, सेब, केला, आलू"
+},
+"options": {
+  "en": ["Grapes", "Apple", "Banana", "Potato"],
+  "hi": ["अंगूर", "सेब", "केला", "आलू"]
+},
+"answer": {
+  "en": "Potato",
+  "hi": "आलू"
+}
+},
+{
+"id": 104,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If 'KING' is coded as 'RFQJ', how is 'QUEEN' coded?",
+  "hi": "यदि 'KING' को 'RFQJ' के रूप में कोड किया जाता है, तो 'QUEEN' को कैसे कोड किया जाता है?"
+},
+"options": {
+  "en": ["RVFFO", "RVFFP", "RVFFO", "RVFGP"],
+  "hi": ["RVFFO", "RVFFP", "RVFFO", "RVFGP"]
+},
+"answer": {
+  "en": "RVFFO",
+  "hi": "RVFFO"
+}
+},
+{
+"id": 105,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Complete the series: 1, 1, 2, 3, 5, 8, ?",
+  "hi": "श्रृंखला पूरी करें: 1, 1, 2, 3, 5, 8, ?"
+},
+"options": {
+  "en": ["11", "12", "13", "14"],
+  "hi": ["11", "12", "13", "14"]
+},
+"answer": {
+  "en": "13",
+  "hi": "13"
+}
+},
+{
+"id": 106,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If '2' means '1', and '4' means '3', then '6' means?",
+  "hi": "यदि '2' का मतलब '1' है, और '4' का मतलब '3' है, तो '6' का मतलब क्या है?"
+},
+"options": {
+  "en": ["5", "7", "8", "9"],
+  "hi": ["5", "7", "8", "9"]
+},
+"answer": {
+  "en": "5",
+  "hi": "5"
+}
+},
+{
+"id": 107,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "In a family, there are three brothers, and each brother has a sister. How many sisters are there in the family?",
+  "hi": "एक परिवार में तीन भाई हैं, और हर भाई की एक बहन है। परिवार में कितनी बहनें हैं?"
+},
+"options": {
+  "en": ["1", "2", "3", "4"],
+  "hi": ["1", "2", "3", "4"]
+},
+"answer": {
+  "en": "1",
+  "hi": "1"
+}
+},
+{
+"id": 108,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Find the odd one out: Chair, Table, Sofa, Lamp",
+  "hi": "अलग को खोजें: कुर्सी, मेज, सोफा, दीपक"
+},
+"options": {
+  "en": ["Chair", "Table", "Sofa", "Lamp"],
+  "hi": ["कुर्सी", "मेज", "सोफा", "दीपक"]
+},
+"answer": {
+  "en": "Lamp",
+  "hi": "दीपक"
+}
+},
+{
+"id": 109,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If 'APPLE' is coded as 'ELPPA', what is 'ORANGE' coded as?",
+  "hi": "यदि 'APPLE' को 'ELPPA' के रूप में कोड किया जाता है, तो 'ORANGE' को क्या कोड किया जाता है?"
+},
+"options": {
+  "en": ["EGNARO", "EGNAO", "ENARO", "NRAEOG"],
+  "hi": ["EGNARO", "EGNAO", "ENARO", "NRAEOG"]
+},
+"answer": {
+  "en": "EGNARO",
+  "hi": "EGNARO"
+}
+},
+{
+"id": 110,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Complete the analogy: Heart : Circulation :: Lungs : ?",
+  "hi": "समानता पूरी करें: हृदय : परिसंचरण :: फेफड़े : ?"
+},
+"options": {
+  "en": ["Respiration", "Digestion", "Excretion", "Nervous"],
+  "hi": ["श्वसन", "पाचन", "उत्सर्जन", "तंत्रिका"]
+},
+"answer": {
+  "en": "Respiration",
+  "hi": "श्वसन"
+}
+},
+{
+"id": 111,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Find the missing number: 2, 5, 10, 17, ?",
+  "hi": "गुम संख्या खोजें: 2, 5, 10, 17, ?"
+},
+"options": {
+  "en": ["24", "25", "26", "27"],
+  "hi": ["24", "25", "26", "27"]
+},
+"answer": {
+  "en": "26",
+  "hi": "26"
+}
+},
+{
+"id": 112,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If a person is 10 years older than their brother, and their brother is 5 years younger than their sister, who is the youngest?",
+  "hi": "यदि एक व्यक्ति अपने भाई से 10 साल बड़ा है, और उसका भाई अपनी बहन से 5 साल छोटा है, तो सबसे छोटा कौन है?"
+},
+"options": {
+  "en": ["The person", "The brother", "The sister", "Cannot be determined"],
+  "hi": ["व्यक्ति", "भाई", "बहन", "निर्धारित नहीं किया जा सकता"]
+},
+"answer": {
+  "en": "The brother",
+  "hi": "भाई"
+}
+},
+{
+"id": 113,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Choose the odd one out: Car, Bicycle, Airplane, Motorcycle",
+  "hi": "अलग को चुनें: कार, साइकिल, हवाई जहाज, मोटरसाइकिल"
+},
+"options": {
+  "en": ["Car", "Bicycle", "Airplane", "Motorcycle"],
+  "hi": ["कार", "साइकिल", "हवाई जहाज", "मोटरसाइकिल"]
+},
+"answer": {
+  "en": "Airplane",
+  "hi": "हवाई जहाज"
+}
+},
+{
+"id": 114,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If 'SQUARE' is coded as 'TUVZBD', what is 'TRIANGLE' coded as?",
+  "hi": "यदि 'SQUARE' को 'TUVZBD' के रूप में कोड किया जाता है, तो 'TRIANGLE' को क्या कोड किया जाता है?"
+},
+"options": {
+  "en": ["UVBHFU", "UVBHFV", "UVCGHV", "UVCGFW"],
+  "hi": ["UVBHFU", "UVBHFV", "UVCGHV", "UVCGFW"]
+},
+"answer": {
+  "en": "UVCGFW",
+  "hi": "UVCGFW"
+}
+},
+{
+"id": 115,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Complete the series: A, C, F, J, ?",
+  "hi": "श्रृंखला पूरी करें: A, C, F, J, ?"
+},
+"options": {
+  "en": ["N", "O", "P", "Q"],
+  "hi": ["N", "O", "P", "Q"]
+},
+"answer": {
+  "en": "O",
+  "hi": "O"
+}
+},
+{
+"id": 116,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Find the odd one out: Gold, Silver, Iron, Diamond",
+  "hi": "अलग को खोजें: सोना, चांदी, लोहा, हीरा"
+},
+"options": {
+  "en": ["Gold", "Silver", "Iron", "Diamond"],
+  "hi": ["सोना", "चांदी", "लोहा", "हीरा"]
+},
+"answer": {
+  "en": "Diamond",
+  "hi": "हीरा"
+}
+},
+{
+"id": 117,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If A is the father of B, and B is the mother of C, how is C related to A?",
+  "hi": "यदि A, B का पिता है, और B, C की माता है, तो C का A से क्या रिश्ता है?"
+},
+"options": {
+  "en": ["Son", "Daughter", "Grandson", "Granddaughter"],
+  "hi": ["बेटा", "बेटी", "पोता", "पोती"]
+},
+"answer": {
+  "en": "Grandson",
+  "hi": "पोता"
+}
+},
+{
+"id": 118,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If 'B' stands for '8', 'C' for '3', 'D' for '4', and 'E' for '5', what is 'CDEB'?",
+  "hi": "यदि 'B' का मतलब '8' है, 'C' का '3', 'D' का '4', और 'E' का '5', तो 'CDEB' क्या है?"
+},
+"options": {
+  "en": ["3458", "3485", "3548", "3584"],
+  "hi": ["3458", "3485", "3548", "3584"]
+},
+"answer": {
+  "en": "3458",
+  "hi": "3458"
+}
+},
+{
+"id": 119,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Find the missing number in the series: 1, 8, 27, 64, ?",
+  "hi": "श्रृंखला में गुम संख्या खोजें: 1, 8, 27, 64, ?"
+},
+"options": {
+  "en": ["100", "125", "144", "169"],
+  "hi": ["100", "125", "144", "169"]
+},
+"answer": {
+  "en": "125",
+  "hi": "125"
+}
+},
+{
+"id": 120,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Complete the analogy: Tree : Forest :: Grass : ?",
+  "hi": "समानता पूरी करें: पेड़ : जंगल :: घास : ?"
+},
+"options": {
+  "en": ["Lawn", "Field", "Meadow", "Jungle"],
+  "hi": ["लॉन", "खेत", "घास का मैदान", "जंगल"]
+},
+"answer": {
+  "en": "Lawn",
+  "hi": "लॉन"
+}
+},
+{
+"id": 121,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If 'PEAR' is coded as 'QFBS', what is 'APPLE' coded as?",
+  "hi": "यदि 'PEAR' को 'QFBS' के रूप में कोड किया जाता है, तो 'APPLE' को क्या कोड किया जाता है?"
+},
+"options": {
+  "en": ["BQQM", "BQQPM", "BQQLM", "BQQML"],
+  "hi": ["BQQM", "BQQPM", "BQQLM", "BQQML"]
+},
+"answer": {
+  "en": "BQQPM",
+  "hi": "BQQPM"
+}
+},
+{
+"id": 122,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Which of the following is the odd one out: 2, 4, 6, 8, 9, 10",
+  "hi": "निम्नलिखित में से कौन सा अलग है: 2, 4, 6, 8, 9, 10"
+},
+"options": {
+  "en": ["2", "4", "6", "8", "9", "10"],
+  "hi": ["2", "4", "6", "8", "9", "10"]
+},
+"answer": {
+  "en": "9",
+  "hi": "9"
+}
+},
+{
+"id": 123,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If 5 + 3 = 16, and 8 + 4 = 24, then 10 + 2 = ?",
+  "hi": "यदि 5 + 3 = 16, और 8 + 4 = 24, तो 10 + 2 = ?"
+},
+"options": {
+  "en": ["12", "18", "24", "30"],
+  "hi": ["12", "18", "24", "30"]
+},
+"answer": {
+  "en": "24",
+  "hi": "24"
+}
+},
+{
+"id": 124,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "In a line of people, A is 10th from the front and B is 15th from the back. If there are 3 people between A and B, what is the total number of people in the line?",
+  "hi": "लोगों की एक पंक्ति में, A आगे से 10वां है और B पीछे से 15वां है। यदि A और B के बीच 3 लोग हैं, तो पंक्ति में कुल कितने लोग हैं?"
+},
+"options": {
+  "en": ["28", "29", "30", "31"],
+  "hi": ["28", "29", "30", "31"]
+},
+"answer": {
+  "en": "28",
+  "hi": "28"
+}
+},
+{
+"id": 125,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Complete the analogy: Tailor : Clothes :: Carpenter : ?",
+  "hi": "समानता पूरी करें: दर्जी : कपड़े :: बढ़ई : ?"
+},
+"options": {
+  "en": ["Furniture", "Wood", "Table", "House"],
+  "hi": ["फर्नीचर", "लकड़ी", "मेज", "घर"]
+},
+"answer": {
+  "en": "Furniture",
+  "hi": "फर्नीचर"
+}
+},
+{
+"id": 126,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If 'WATER' is coded as 'XBUFS', what is 'FIRE' coded as?",
+  "hi": "यदि 'WATER' को 'XBUFS' के रूप में कोड किया जाता है, तो 'FIRE' को क्या कोड किया जाता है?"
+},
+"options": {
+  "en": ["GHQE", "GIRE", "GIQG", "GJSF"],
+  "hi": ["GHQE", "GIRE", "GIQG", "GJSF"]
+},
+"answer": {
+  "en": "GIQG",
+  "hi": "GIQG"
+}
+},
+{
+"id": 127,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Find the odd one out: Carrot, Radish, Potato, Tomato, Ginger",
+  "hi": "अलग को खोजें: गाजर, मूली, आलू, टमाटर, अदरक"
+},
+"options": {
+  "en": ["Carrot", "Radish", "Potato", "Tomato", "Ginger"],
+  "hi": ["गाजर", "मूली", "आलू", "टमाटर", "अदरक"]
+},
+"answer": {
+  "en": "Tomato",
+  "hi": "टमाटर"
+}
+},
+{
+"id": 128,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Which number comes next in the sequence: 4, 16, 36, 64, ?",
+  "hi": "अनुक्रम में कौन सी संख्या आगे आती है: 4, 16, 36, 64, ?"
+},
+"options": {
+  "en": ["81", "100", "121", "144"],
+  "hi": ["81", "100", "121", "144"]
+},
+"answer": {
+  "en": "100",
+  "hi": "100"
+}
+},
+{
+"id": 129,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If 'A' is the mother of 'B', and 'C' is the son of 'A', how is 'C' related to 'B'?",
+  "hi": "यदि 'A', 'B' की माता है, और 'C', 'A' का बेटा है, तो 'C' का 'B' से क्या रिश्ता है?"
+},
+"options": {
+  "en": ["Brother", "Sister", "Mother", "Father"],
+  "hi": ["भाई", "बहन", "माता", "पिता"]
+},
+"answer": {
+  "en": "Brother",
+  "hi": "भाई"
+}
+},
+{
+"id": 130,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Complete the analogy: Bird : Nest :: Human : ?",
+  "hi": "समानता पूरी करें: पक्षी : घोंसला :: मनुष्य : ?"
+},
+"options": {
+  "en": ["House", "Building", "Home", "Apartment"],
+  "hi": ["घर", "इमारत", "गृह", "अपार्टमेंट"]
+},
+"answer": {
+  "en": "Home",
+  "hi": "गृह"
+}
+},
+{
+"id": 131,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "Find the missing number: 1, 4, 2, 8, 6, 24, ?",
+  "hi": "गुम संख्या खोजें: 1, 4, 2, 8, 6, 24, ?"
+},
+"options": {
+  "en": ["18", "20", "22", "24"],
+  "hi": ["18", "20", "22", "24"]
+},
+"answer": {
+  "en": "18",
+  "hi": "18"
+}
+},
+{
+"id": 132,
+    "category": "Logical Reasoning",
+
+"question": {
+  "en": "If 'ROAD' is coded as 'SNEK', what is 'PATH' coded as?",
+  "hi": "यदि 'ROAD' को 'SNEK' के रूप में कोड किया जाता है, तो 'PATH' को क्या कोड किया जाता है?"
+},
+"options": {
+  "en": ["QBUG", "QBUH", "QBSI", "QBTH"],
+  "hi": ["QBUG", "QBUH", "QBSI", "QBTH"]
+},
+"answer": {
+  "en": "QBUH",
+  "hi": "QBUH"
+}
+},
+
+
+  {
+    "id": 133,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which of the following does not belong: Red, Green, Blue, Purple, Orange",
+      "hi": "निम्नलिखित में से कौन संबंधित नहीं है: लाल, हरा, नीला, बैंगनी, नारंगी"
+    },
+    "options": {
+      "en": ["Red", "Green", "Blue", "Purple", "Orange"],
+      "hi": ["लाल", "हरा", "नीला", "बैंगनी", "नारंगी"]
+    },
+    "answer": {
+      "en": "Purple",
+      "hi": "बैंगनी"
+    }
+  },
+  {
+    "id": 134,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "In a family, there are a father, a mother, two sons, and a daughter. The two sons have a sister. How many females are in the family?",
+      "hi": "एक परिवार में एक पिता, एक माँ, दो बेटे और एक बेटी हैं। दोनों बेटों की एक बहन है। परिवार में कितनी महिलाएँ हैं?"
+    },
+    "options": {
+      "en": ["2", "3", "4", "5"],
+      "hi": ["2", "3", "4", "5"]
+    },
+    "answer": {
+      "en": "2",
+      "hi": "2"
+    }
+  },
+  {
+    "id": 135,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the series: 3, 7, 15, 31, ?",
+      "hi": "श्रृंखला पूरी करें: 3, 7, 15, 31, ?"
+    },
+    "options": {
+      "en": ["61", "63", "65", "67"],
+      "hi": ["61", "63", "65", "67"]
+    },
+    "answer": {
+      "en": "63",
+      "hi": "63"
+    }
+  },
+  {
+    "id": 136,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 12 x 2 = 6, and 18 x 3 = 6, then 24 x 4 = ?",
+      "hi": "यदि 12 x 2 = 6 और 18 x 3 = 6, तो 24 x 4 = ?"
+    },
+    "options": {
+      "en": ["4", "5", "6", "8"],
+      "hi": ["4", "5", "6", "8"]
+    },
+    "answer": {
+      "en": "6",
+      "hi": "6"
+    }
+  },
+  {
+    "id": 137,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "A is older than B, and B is younger than C. C is younger than D. Who is the oldest?",
+      "hi": "A, B से बड़ा है और B, C से छोटा है। C, D से छोटा है। सबसे बड़ा कौन है?"
+    },
+    "options": {
+      "en": ["A", "B", "C", "D"],
+      "hi": ["A", "B", "C", "D"]
+    },
+    "answer": {
+      "en": "D",
+      "hi": "D"
+    }
+  },
+  {
+    "id": 138,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: March, April, May, June, July",
+      "hi": "असमान को खोजें: मार्च, अप्रैल, मई, जून, जुलाई"
+    },
+    "options": {
+      "en": ["March", "April", "May", "June", "July"],
+      "hi": ["मार्च", "अप्रैल", "मई", "जून", "जुलाई"]
+    },
+    "answer": {
+      "en": "April",
+      "hi": "अप्रैल"
+    }
+  },
+  {
+    "id": 139,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If '2' stands for 'B', '3' for 'C', '4' for 'D', and '5' for 'E', what is '3245'?",
+      "hi": "यदि '2' का अर्थ 'B', '3' का 'C', '4' का 'D' और '5' का 'E' है, तो '3245' क्या है?"
+    },
+    "options": {
+      "en": ["CBDE", "BCDE", "CDBE", "CDEB"],
+      "hi": ["CBDE", "BCDE", "CDBE", "CDEB"]
+    },
+    "answer": {
+      "en": "CBDE",
+      "hi": "CBDE"
+    }
+  },
+  {
+    "id": 140,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Wheel : Car :: Blade : ?",
+      "hi": "समानता पूरी करें: पहिया : कार :: ब्लेड : ?"
+    },
+    "options": {
+      "en": ["Fan", "Propeller", "Knife", "Motor"],
+      "hi": ["पंखा", "प्रोपेलर", "चाकू", "मोटर"]
+    },
+    "answer": {
+      "en": "Propeller",
+      "hi": "प्रोपेलर"
+    }
+  },
+  {
+    "id": 141,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which number is next in the series: 2, 3, 5, 7, 11, ?",
+      "hi": "श्रृंखला में अगली संख्या कौन सी है: 2, 3, 5, 7, 11, ?"
+    },
+    "options": {
+      "en": ["13", "14", "15", "16"],
+      "hi": ["13", "14", "15", "16"]
+    },
+    "answer": {
+      "en": "13",
+      "hi": "13"
+    }
+  },
+  {
+    "id": 142,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'EAT' is coded as '26', and 'RUN' is coded as '42', what is 'SIT' coded as?",
+      "hi": "यदि 'EAT' को '26' और 'RUN' को '42' के रूप में कोड किया गया है, तो 'SIT' को कैसे कोड किया जाएगा?"
+    },
+    "options": {
+      "en": ["30", "32", "34", "36"],
+      "hi": ["30", "32", "34", "36"]
+    },
+    "answer": {
+      "en": "30",
+      "hi": "30"
+    }
+  },
+  {
+    "id": 143,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Table, Chair, Cupboard, TV",
+      "hi": "असमान को खोजें: मेज, कुर्सी, अलमारी, टीवी"
+    },
+    "options": {
+      "en": ["Table", "Chair", "Cupboard", "TV"],
+      "hi": ["मेज", "कुर्सी", "अलमारी", "टीवी"]
+    },
+    "answer": {
+      "en": "TV",
+      "hi": "टीवी"
+    }
+  },
+  {
+    "id": 144,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If A is the father of B, and B is the son of C, how is A related to C?",
+      "hi": "यदि A, B का पिता है और B, C का बेटा है, तो A का C से क्या संबंध है?"
+    },
+    "options": {
+      "en": ["Husband", "Wife", "Brother", "Sister"],
+      "hi": ["पति", "पत्नी", "भाई", "बहन"]
+    },
+    "answer": {
+      "en": "Husband",
+      "hi": "पति"
+    }
+  },
+  {
+    "id": 145,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the series: 10, 12, 16, 22, ?",
+      "hi": "श्रृंखला पूरी करें: 10, 12, 16, 22, ?"
+    },
+    "options": {
+      "en": ["28", "30", "32", "34"],
+      "hi": ["28", "30", "32", "34"]
+    },
+    "answer": {
+      "en": "30",
+      "hi": "30"
+    }
+  },
+  {
+    "id": 146,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'RED' is coded as '342', and 'BLUE' is coded as '2768', what is 'BULL' coded as?",
+      "hi": "यदि 'RED' को '342' और 'BLUE' को '2768' के रूप में कोड किया जाता है, तो 'BULL' को क्या कोड किया जाएगा?"
+    },
+    "options": {
+      "en": ["2788", "2766", "2786", "2768"],
+      "hi": ["2788", "2766", "2786", "2768"]
+    },
+    "answer": {
+      "en": "2788",
+      "hi": "2788"
+    }
+  },
+  {
+    "id": 148,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Chennai, Mumbai, Pune, Kolkata",
+      "hi": "असमान को खोजें: चेन्नई, मुंबई, पुणे, कोलकाता"
+    },
+    "options": {
+      "en": ["Chennai", "Mumbai", "Pune", "Kolkata"],
+      "hi": ["चेन्नई", "मुंबई", "पुणे", "कोलकाता"]
+    },
+    "answer": {
+      "en": "Pune",
+      "hi": "पुणे"
+    }
+  },
+  {
+    "id": 149,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If all cars have wheels, and some wheels are black, which of the following is true?",
+      "hi": "यदि सभी कारों में पहिए हैं और कुछ पहिए काले हैं, तो निम्नलिखित में से कौन सा सही है?"
+    },
+    "options": {
+      "en": ["All cars have black wheels", "Some cars have black wheels", "All wheels are black", "Some black things are cars"],
+      "hi": ["सभी कारों में काले पहिए हैं", "कुछ कारों में काले पहिए हैं", "सभी पहिए काले हैं", "कुछ काली चीजें कारें हैं"]
+    },
+    "answer": {
+      "en": "Some cars have black wheels",
+      "hi": "कुछ कारों में काले पहिए हैं"
+    }
+  },
+  {
+    "id": 150,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: School : Students :: Hospital : ?",
+      "hi": "समानता पूरी करें: स्कूल : विद्यार्थी :: अस्पताल : ?"
+    },
+    "options": {
+      "en": ["Nurses", "Doctors", "Patients", "Medicines"],
+      "hi": ["नर्स", "डॉक्टर", "मरीज़", "दवाइयाँ"]
+    },
+    "answer": {
+      "en": "Patients",
+      "hi": "मरीज़"
+    }
+  },
+  {
+    "id": 151,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number in the series: 2, 4, 12, 48, ?",
+      "hi": "श्रृंखला में गुम संख्या खोजें: 2, 4, 12, 48, ?"
+    },
+    "options": {
+      "en": ["120", "144", "180", "240"],
+      "hi": ["120", "144", "180", "240"]
+    },
+    "answer": {
+      "en": "240",
+      "hi": "240"
+    }
+  },
+  {
+    "id": 152,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'TAPE' is coded as 'GZKV', what is 'WIND' coded as?",
+      "hi": "यदि 'TAPE' को 'GZKV' के रूप में कोड किया गया है, तो 'WIND' को क्या कोड किया जाएगा?"
+    },
+    "options": {
+      "en": ["DMBF", "DMCD", "DNCF", "DMCD"],
+      "hi": ["DMBF", "DMCD", "DNCF", "DMCD"]
+    },
+    "answer": {
+      "en": "DNCF",
+      "hi": "DNCF"
+    }
+  },
+  {
+    "id": 153,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Rose, Tulip, Lily, Daisy, Plant",
+      "hi": "असमान को खोजें: गुलाब, ट्यूलिप, कुमुदिनी, डेज़ी, पौधा"
+    },
+    "options": {
+      "en": ["Rose", "Tulip", "Lily", "Daisy", "Plant"],
+      "hi": ["गुलाब", "ट्यूलिप", "कुमुदिनी", "डेज़ी", "पौधा"]
+    },
+    "answer": {
+      "en": "Plant",
+      "hi": "पौधा"
+    }
+  },
+  {
+    "id": 154,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "A is the mother of B. C is the father of B. D is the sister of C. How is D related to A?",
+      "hi": "A, B की माँ है। C, B का पिता है। D, C की बहन है। D का A से क्या संबंध है?"
+    },
+    "options": {
+      "en": ["Sister-in-law", "Mother-in-law", "Aunt", "Daughter-in-law"],
+      "hi": ["भाभी", "सास", "चाची/मौसी", "बहू"]
+    },
+    "answer": {
+      "en": "Sister-in-law",
+      "hi": "भाभी"
+    }
+  },
+  {
+    "id": 155,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the series: 1, 8, 27, 64, ?",
+      "hi": "श्रृंखला पूरी करें: 1, 8, 27, 64, ?"
+    },
+    "options": {
+      "en": ["100", "125", "144", "169"],
+      "hi": ["100", "125", "144", "169"]
+    },
+    "answer": {
+      "en": "125",
+      "hi": "125"
+    }
+  },
+  {
+    "id": 156,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'GOOD' is coded as '25', and 'BAD' is coded as '10', what is 'DOG' coded as?",
+      "hi": "यदि 'GOOD' को '25' और 'BAD' को '10' के रूप में कोड किया गया है, तो 'DOG' को क्या कोड किया जाएगा?"
+    },
+    "options": {
+      "en": ["20", "22", "24", "26"],
+      "hi": ["20", "22", "24", "26"]
+    },
+    "answer": {
+      "en": "22",
+      "hi": "22"
+    }
+  },
+  {
+    "id": 157,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: 12, 13, 14, 15, 16",
+      "hi": "असमान को खोजें: 12, 13, 14, 15, 16"
+    },
+    "options": {
+      "en": ["12", "13", "14", "15", "16"],
+      "hi": ["12", "13", "14", "15", "16"]
+    },
+    "answer": {
+      "en": "13",
+      "hi": "13"
+    }
+  },
+  {
+    "id": 158,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 10 men can complete a work in 15 days, how many men are required to complete the same work in 10 days?",
+      "hi": "यदि 10 आदमी 15 दिनों में काम पूरा कर सकते हैं, तो वही काम 10 दिनों में पूरा करने के लिए कितने आदमियों की आवश्यकता होगी?"
+    },
+    "options": {
+      "en": ["15", "20", "25", "30"],
+      "hi": ["15", "20", "25", "30"]
+    },
+    "answer": {
+      "en": "15",
+      "hi": "15"
+    }
+  },
+  {
+    "id": 159,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Lion : Cub :: Bear : ?",
+      "hi": "समानता पूरी करें: शेर : शावक :: भालू : ?"
+    },
+    "options": {
+      "en": ["Pup", "Kitten", "Cub", "Calf"],
+      "hi": ["पिल्ला", "बिल्ली का बच्चा", "शावक", "बछड़ा"]
+    },
+    "answer": {
+      "en": "Cub",
+      "hi": "शावक"
+    }
+  },
+
+
+
+
+  {
+    "id": 160,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number in the series: 1, 2, 4, 8, 16, ?",
+      "hi": "श्रृंखला में लापता संख्या खोजें: 1, 2, 4, 8, 16, ?"
+    },
+    "options": {
+      "en": ["24", "30", "32", "36"],
+      "hi": ["24", "30", "32", "36"]
+    },
+    "answer": {
+      "en": "32",
+      "hi": "32"
+    }
+  },
+  {
+    "id": 161,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'EAT' is coded as '84', what is 'TEA' coded as?",
+      "hi": "यदि 'EAT' को '84' के रूप में कोड किया जाता है, तो 'TEA' को क्या कोड किया जाएगा?"
+    },
+    "options": {
+      "en": ["78", "84", "86", "88"],
+      "hi": ["78", "84", "86", "88"]
+    },
+    "answer": {
+      "en": "84",
+      "hi": "84"
+    }
+  },
+  {
+    "id": 162,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Gold, Silver, Iron, Platinum, Diamond",
+      "hi": "असमान को खोजें: सोना, चांदी, लोहा, प्लेटिनम, हीरा"
+    },
+    "options": {
+      "en": ["Gold", "Silver", "Iron", "Platinum", "Diamond"],
+      "hi": ["सोना", "चांदी", "लोहा", "प्लेटिनम", "हीरा"]
+    },
+    "answer": {
+      "en": "Diamond",
+      "hi": "हीरा"
+    }
+  },
+  {
+    "id": 163,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If A is taller than B, and C is taller than A, who is the tallest?",
+      "hi": "यदि A, B से लंबा है और C, A से लंबा है, तो सबसे लंबा कौन है?"
+    },
+    "options": {
+      "en": ["A", "B", "C", "Cannot be determined"],
+      "hi": ["A", "B", "C", "निर्धारित नहीं किया जा सकता"]
+    },
+    "answer": {
+      "en": "C",
+      "hi": "C"
+    }
+  },
+  {
+    "id": 164,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Doctor : Patient :: Lawyer : ?",
+      "hi": "समानता पूरी करें: डॉक्टर : रोगी :: वकील : ?"
+    },
+    "options": {
+      "en": ["Client", "Court", "Judge", "Case"],
+      "hi": ["मक़दमा करने वाला", "अदालत", "न्यायाधीश", "मामला"]
+    },
+    "answer": {
+      "en": "Client",
+      "hi": "मक़दमा करने वाला"
+    }
+  },
+  {
+    "id": 165,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number: 2, 3, 5, 8, 12, ?",
+      "hi": "लापता संख्या खोजें: 2, 3, 5, 8, 12, ?"
+    },
+    "options": {
+      "en": ["15", "17", "18", "19"],
+      "hi": ["15", "17", "18", "19"]
+    },
+    "answer": {
+      "en": "17",
+      "hi": "17"
+    }
+  },
+  {
+    "id": 166,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'CAT' is coded as '24', what is 'DOG' coded as?",
+      "hi": "यदि 'CAT' को '24' के रूप में कोड किया जाता है, तो 'DOG' को क्या कोड किया जाएगा?"
+    },
+    "options": {
+      "en": ["25", "26", "27", "28"],
+      "hi": ["25", "26", "27", "28"]
+    },
+    "answer": {
+      "en": "26",
+      "hi": "26"
+    }
+  },
+  {
+    "id": 167,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Circle, Square, Sphere, Triangle",
+      "hi": "असमान को खोजें: वृत्त, वर्ग, गोला, त्रिभुज"
+    },
+    "options": {
+      "en": ["Circle", "Square", "Sphere", "Triangle"],
+      "hi": ["वृत्त", "वर्ग", "गोला", "त्रिभुज"]
+    },
+    "answer": {
+      "en": "Sphere",
+      "hi": "गोला"
+    }
+  },
+  {
+    "id": 168,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'A' is the sister of 'B', and 'C' is the brother of 'B', how is 'A' related to 'C'?",
+      "hi": "यदि 'A', 'B' की बहन है और 'C', 'B' का भाई है, तो 'A' का 'C' से क्या संबंध है?"
+    },
+    "options": {
+      "en": ["Sister", "Brother", "Mother", "Father"],
+      "hi": ["बहन", "भाई", "माँ", "पिता"]
+    },
+    "answer": {
+      "en": "Sister",
+      "hi": "बहन"
+    }
+  },
+  {
+    "id": 169,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the series: Z, Y, X, W, ?",
+      "hi": "श्रृंखला पूरी करें: Z, Y, X, W, ?"
+    },
+    "options": {
+      "en": ["V", "U", "T", "S"],
+      "hi": ["V", "U", "T", "S"]
+    },
+    "answer": {
+      "en": "V",
+      "hi": "V"
+    }
+  },
+  {
+    "id": 170,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If a person is walking towards the South, then turns right, and then turns right again, what direction are they facing?",
+      "hi": "यदि एक व्यक्ति दक्षिण की ओर चल रहा है, फिर दाईं ओर मुड़ता है और फिर से दाईं ओर मुड़ता है, तो वह किस दिशा की ओर देख रहा है?"
+    },
+    "options": {
+      "en": ["North", "South", "East", "West"],
+      "hi": ["उत्तर", "दक्षिण", "पूर्व", "पश्चिम"]
+    },
+    "answer": {
+      "en": "North",
+      "hi": "उत्तर"
+    }
+  }
+,
+
+  {
+    "id": 171,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: 1, 4, 9, 16, 20",
+      "hi": "असमान को खोजें: 1, 4, 9, 16, 20"
+    },
+    "options": {
+      "en": ["1", "4", "9", "16", "20"],
+      "hi": ["1", "4", "9", "16", "20"]
+    },
+    "answer": {
+      "en": "20",
+      "hi": "20"
+    }
+  },
+  {
+    "id": 172,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'APPLE' is coded as '25', what is 'ORANGE' coded as?",
+      "hi": "यदि 'APPLE' को '25' के रूप में कोड किया गया है, तो 'ORANGE' को क्या कोड किया जाएगा?"
+    },
+    "options": {
+      "en": ["24", "26", "28", "30"],
+      "hi": ["24", "26", "28", "30"]
+    },
+    "answer": {
+      "en": "26",
+      "hi": "26"
+    }
+  },
+  {
+    "id": 173,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Pen : Ink :: Pencil : ?",
+      "hi": "समानता पूरी करें: पेन : स्याही :: पेंसिल : ?"
+    },
+    "options": {
+      "en": ["Lead", "Graphite", "Eraser", "Wood"],
+      "hi": ["सीसा", "ग्रेफाइट", "रबर", "लकड़ी"]
+    },
+    "answer": {
+      "en": "Graphite",
+      "hi": "ग्रेफाइट"
+    }
+  },
+  {
+    "id": 174,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number in the series: 3, 9, 27, 81, ?",
+      "hi": "श्रृंखला में लापता संख्या खोजें: 3, 9, 27, 81, ?"
+    },
+    "options": {
+      "en": ["120", "162", "243", "324"],
+      "hi": ["120", "162", "243", "324"]
+    },
+    "answer": {
+      "en": "243",
+      "hi": "243"
+    }
+  },
+  {
+    "id": 175,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If A is the father of B, and B is the brother of C, and C is the daughter of D, how is D related to A?",
+      "hi": "यदि A, B का पिता है, B, C का भाई है और C, D की बेटी है, तो D का A से क्या संबंध है?"
+    },
+    "options": {
+      "en": ["Husband", "Wife", "Mother", "Father"],
+      "hi": ["पति", "पत्नी", "माँ", "पिता"]
+    },
+    "answer": {
+      "en": "Wife",
+      "hi": "पत्नी"
+    }
+  },
+  {
+    "id": 176,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which of the following does not belong: Red, Blue, Green, Yellow, Brown",
+      "hi": "इनमें से कौन सा असमान है: लाल, नीला, हरा, पीला, भूरा"
+    },
+    "options": {
+      "en": ["Red", "Blue", "Green", "Yellow", "Brown"],
+      "hi": ["लाल", "नीला", "हरा", "पीला", "भूरा"]
+    },
+    "answer": {
+      "en": "Brown",
+      "hi": "भूरा"
+    }
+  },
+  {
+    "id": 177,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 20 apples cost $10, how much do 10 apples cost?",
+      "hi": "यदि 20 सेब की कीमत $10 है, तो 10 सेब की कीमत कितनी होगी?"
+    },
+    "options": {
+      "en": ["$5", "$10", "$15", "$20"],
+      "hi": ["$5", "$10", "$15", "$20"]
+    },
+    "answer": {
+      "en": "$5",
+      "hi": "$5"
+    }
+  },
+  {
+    "id": 178,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Doctor : Stethoscope :: Carpenter : ?",
+      "hi": "समानता पूरी करें: डॉक्टर : स्टेथोस्कोप :: बढ़ई : ?"
+    },
+    "options": {
+      "en": ["Saw", "Hammer", "Nails", "Wood"],
+      "hi": ["आरा", "हथौड़ा", "कीलें", "लकड़ी"]
+    },
+    "answer": {
+      "en": "Saw",
+      "hi": "आरा"
+    }
+  },
+  {
+    "id": 179,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number: 1, 3, 4, 7, 11, ?",
+      "hi": "लापता संख्या खोजें: 1, 3, 4, 7, 11, ?"
+    },
+    "options": {
+      "en": ["15", "18", "20", "22"],
+      "hi": ["15", "18", "20", "22"]
+    },
+    "answer": {
+      "en": "18",
+      "hi": "18"
+    }
+  },
+  {
+    "id": 180,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'DOG' is coded as '234', and 'CAT' is coded as '125', what is 'GOD' coded as?",
+      "hi": "यदि 'DOG' को '234' के रूप में कोड किया गया है, और 'CAT' को '125' के रूप में कोड किया गया है, तो 'GOD' को क्या कोड किया जाएगा?"
+    },
+    "options": {
+      "en": ["245", "423", "342", "425"],
+      "hi": ["245", "423", "342", "425"]
+    },
+    "answer": {
+      "en": "423",
+      "hi": "423"
+    }
+  },
+  {
+    "id": 181,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Table, Chair, Sofa, Bed, Pillow",
+      "hi": "असमान को खोजें: मेज, कुर्सी, सोफ़ा, बिस्तर, तकिया"
+    },
+    "options": {
+      "en": ["Table", "Chair", "Sofa", "Bed", "Pillow"],
+      "hi": ["मेज", "कुर्सी", "सोफ़ा", "बिस्तर", "तकिया"]
+    },
+    "answer": {
+      "en": "Pillow",
+      "hi": "तकिया"
+    }
+  },
+  {
+    "id": 182,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If A is to the East of B, and C is to the South of B, in which direction is C from A?",
+      "hi": "यदि A, B के पूर्व में है और C, B के दक्षिण में है, तो A से C किस दिशा में है?"
+    },
+    "options": {
+      "en": ["North-East", "North-West", "South-East", "South-West"],
+      "hi": ["उत्तर-पूर्व", "उत्तर-पश्चिम", "दक्षिण-पूर्व", "दक्षिण-पश्चिम"]
+    },
+    "answer": {
+      "en": "South-West",
+      "hi": "दक्षिण-पश्चिम"
+    }
+  },
+  {
+    "id": 183,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which number is next in the series: 1, 2, 6, 24, ?",
+      "hi": "श्रृंखला में अगला नंबर कौन सा है: 1, 2, 6, 24, ?"
+    },
+    "options": {
+      "en": ["48", "96", "120", "144"],
+      "hi": ["48", "96", "120", "144"]
+    },
+    "answer": {
+      "en": "120",
+      "hi": "120"
+    }
+  },
+  {
+    "id": 184,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'ORANGE' is coded as '15', what is 'APPLE' coded as?",
+      "hi": "यदि 'ORANGE' को '15' के रूप में कोड किया गया है, तो 'APPLE' को क्या कोड किया जाएगा?"
+    },
+    "options": {
+      "en": ["10", "15", "20", "25"],
+      "hi": ["10", "15", "20", "25"]
+    },
+    "answer": {
+      "en": "20",
+      "hi": "20"
+    }
+  },
+  {
+    "id": 185,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Cow : Milk :: Bee : ?",
+      "hi": "समानता पूरी करें: गाय : दूध :: मधुमक्खी : ?"
+    },
+    "options": {
+      "en": ["Honey", "Wasp", "Hive", "Pollen"],
+      "hi": ["शहद", "वेस्प", "छत्ता", "पराग"]
+    },
+    "answer": {
+      "en": "Honey",
+      "hi": "शहद"
+    }
+  },
+  {
+    "id": 186,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If all pencils are pens, and some pens are red, which of the following is true?",
+      "hi": "यदि सभी पेंसिल पेन हैं और कुछ पेन लाल हैं, तो निम्न में से कौन सा सही है?"
+    },
+    "options": {
+      "en": ["All pencils are red", "Some pencils are red", "All pens are red", "Some red things are pencils"],
+      "hi": ["सभी पेंसिल लाल हैं", "कुछ पेंसिल लाल हैं", "सभी पेन लाल हैं", "कुछ लाल चीज़ें पेंसिल हैं"]
+    },
+    "answer": {
+      "en": "Some red things are pencils",
+      "hi": "कुछ लाल चीज़ें पेंसिल हैं"
+    }
+  },
+  {
+    "id": 187,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: 11, 13, 15, 17, 19",
+      "hi": "असमान को खोजें: 11, 13, 15, 17, 19"
+    },
+    "options": {
+      "en": ["11", "13", "15", "17", "19"],
+      "hi": ["11", "13", "15", "17", "19"]
+    },
+    "answer": {
+      "en": "15",
+      "hi": "15"
+    }
+  },
+  {
+    "id": 188,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "In a row of boys, A is 10th from the left and B is 15th from the right. If they interchange their positions, A becomes 12th from the left. How many boys are there in the row?",
+      "hi": "लड़कों की एक पंक्ति में, A बाईं ओर से 10वें और B दाईं ओर से 15वें हैं। यदि वे अपनी स्थिति बदलते हैं, तो A बाईं ओर से 12वें हो जाता है। पंक्ति में कितने लड़के हैं?"
+    },
+    "options": {
+      "en": ["25", "26", "27", "28"],
+      "hi": ["25", "26", "27", "28"]
+    },
+    "answer": {
+      "en": "26",
+      "hi": "26"
+    }
+  },
+  {
+    "id": 189,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'TOWN' is coded as 'VQTQ', what is 'CITY' coded as?",
+      "hi": "यदि 'TOWN' को 'VQTQ' के रूप में कोड किया गया है, तो 'CITY' को क्या कोड किया जाएगा?"
+    },
+    "options": {
+      "en": ["DJUZ", "DGVW", "DGUV", "DGTU"],
+      "hi": ["DJUZ", "DGVW", "DGUV", "DGTU"]
+    },
+    "answer": {
+      "en": "DGUV",
+      "hi": "DGUV"
+    }
+  },
+  {
+    "id": 190,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Summer : Hot :: Winter : ?",
+      "hi": "समानता पूरी करें: गर्मी : गरम :: सर्दी : ?"
+    },
+    "options": {
+      "en": ["Cold", "Warm", "Snow", "Rain"],
+      "hi": ["ठंडा", "गर्म", "बर्फ", "बारिश"]
+    },
+    "answer": {
+      "en": "Cold",
+      "hi": "ठंडा"
+    }
+  },
+  {
+    "id": 191,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number: 1, 2, 4, 8, 16, ?",
+      "hi": "लापता संख्या खोजें: 1, 2, 4, 8, 16, ?"
+    },
+    "options": {
+      "en": ["24", "30", "32", "36"],
+      "hi": ["24", "30", "32", "36"]
+    },
+    "answer": {
+      "en": "32",
+      "hi": "32"
+    }
+  },
+  {
+    "id": 192,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'A' is the son of 'B', and 'B' is the sister of 'C', and 'C' is the father of 'D', how is 'D' related to 'A'?",
+      "hi": "यदि 'A', 'B' का बेटा है, और 'B', 'C' की बहन है, और 'C', 'D' का पिता है, तो 'D' का 'A' से क्या संबंध है?"
+    },
+    "options": {
+      "en": ["Cousin", "Brother", "Sister", "Uncle"],
+      "hi": ["चचेरा भाई/बहन", "भाई", "बहन", "चाचा"]
+    },
+    "answer": {
+      "en": "Cousin",
+      "hi": "चचेरा भाई/बहन"
+    }
+  },
+  {
+    "id": 193,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: 1, 4, 9, 16, 25, 30",
+      "hi": "असमान को खोजें: 1, 4, 9, 16, 25, 30"
+    },
+    "options": {
+      "en": ["1", "4", "9", "16", "25", "30"],
+      "hi": ["1", "4", "9", "16", "25", "30"]
+    },
+    "answer": {
+      "en": "30",
+      "hi": "30"
+    }
+  },
+  {
+    "id": 194,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If a person walks 5 km South, then turns right and walks 5 km, in which direction are they facing?",
+      "hi": "यदि कोई व्यक्ति 5 कि.मी दक्षिण की ओर चलता है, फिर दाईं ओर मुड़ता है और 5 कि.मी चलता है, तो वह किस दिशा की ओर है?"
+    },
+    "options": {
+      "en": ["East", "West", "North", "South"],
+      "hi": ["पूर्व", "पश्चिम", "उत्तर", "दक्षिण"]
+    },
+    "answer": {
+      "en": "West",
+      "hi": "पश्चिम"
+    }
+  },
+  {
+    "id": 195,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Doctor : Cures :: Teacher : ?",
+      "hi": "समानता पूरी करें: डॉक्टर : उपचार :: शिक्षक : ?"
+    },
+    "options": {
+      "en": ["Teaches", "Learns", "Studies", "Explains"],
+      "hi": ["पढ़ाता है", "सीखता है", "अध्ययन करता है", "समझाता है"]
+    },
+    "answer": {
+      "en": "Teaches",
+      "hi": "पढ़ाता है"
+    }
+  },
+  {
+    "id": 196,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the missing number in the series: 5, 10, 15, 20, ?",
+      "hi": "श्रृंखला में लापता संख्या खोजें: 5, 10, 15, 20, ?"
+    },
+    "options": {
+      "en": ["25", "30", "35", "40"],
+      "hi": ["25", "30", "35", "40"]
+    },
+    "answer": {
+      "en": "25",
+      "hi": "25"
+    }
+  },
+
+  {
+    "id": 197,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'WHITE' is coded as '35', what is 'BLACK' coded as?",
+      "hi": "यदि 'WHITE' को '35' के रूप में कोड किया गया है, तो 'BLACK' को क्या कोड किया जाएगा?"
+    },
+    "options": {
+      "en": ["28", "30", "32", "34"],
+      "hi": ["28", "30", "32", "34"]
+    },
+    "answer": {
+      "en": "30",
+      "hi": "30"
+    }
+  },
+  {
+    "id": 198,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the odd one out: Table, Chair, Sofa, Bed, Car",
+      "hi": "असमान को खोजें: मेज, कुर्सी, सोफ़ा, बिस्तर, कार"
+    },
+    "options": {
+      "en": ["Table", "Chair", "Sofa", "Bed", "Car"],
+      "hi": ["मेज", "कुर्सी", "सोफ़ा", "बिस्तर", "कार"]
+    },
+    "answer": {
+      "en": "Car",
+      "hi": "कार"
+    }
+  },
+  {
+    "id": 199,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "If 'PEN' is related to 'WRITE', then 'ERASER' is related to?",
+      "hi": "यदि 'PEN' का संबंध 'WRITE' से है, तो 'ERASER' का संबंध किससे है?"
+    },
+    "options": {
+      "en": ["ERASE", "PENCIL", "INK", "PAPER"],
+      "hi": ["मिटाना", "पेंसिल", "स्याही", "कागज"]
+    },
+    "answer": {
+      "en": "ERASE",
+      "hi": "मिटाना"
+    }
+  }
+,
+  {
+    "id": 201,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Brave'.",
+      "hi": "उस शब्द का चयन करें जो 'बहादुर' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Cowardly", "Timid", "Courageous", "Weak"],
+      "hi": ["कायर", "डरपोक", "साहसी", "कमज़ोर"]
+    },
+    "answer": {
+      "en": "Courageous",
+      "hi": "साहसी"
+    }
+  },
+  {
+    "id": 202,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Ancient'?",
+      "hi": "कौन सा शब्द 'प्राचीन' का विलोम है?"
+    },
+    "options": {
+      "en": ["Old", "New", "Modern", "Historic"],
+      "hi": ["पुराना", "नया", "आधुनिक", "ऐतिहासिक"]
+    },
+    "answer": {
+      "en": "Modern",
+      "hi": "आधुनिक"
+    }
+  },
+  {
+    "id": 203,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The sun was shining so brightly that it was difficult to see without _.",
+      "hi": "वाक्य पूरा करें: सूरज इतनी तेज चमक रहा था कि बिना _ के देखना मुश्किल था।"
+    },
+    "options": {
+      "en": ["gloves", "a hat", "sunglasses", "a jacket"],
+      "hi": ["दस्ताने", "एक टोपी", "धूप के चश्मे", "एक जैकेट"]
+    },
+    "answer": {
+      "en": "sunglasses",
+      "hi": "धूप के चश्मे"
+    }
+  },
+  {
+    "id": 204,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Cold is to Ice as Hot is to ?",
+      "hi": "सादृश्यता पूरी करें: ठंडा का बर्फ से है जैसे गर्म का ? से है"
+    },
+    "options": {
+      "en": ["Fire", "Steam", "Boil", "Warm"],
+      "hi": ["आग", "भाप", "उबाल", "गर्म"]
+    },
+    "answer": {
+      "en": "Steam",
+      "hi": "भाप"
+    }
+  },
+  {
+    "id": 205,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Silent'.",
+      "hi": "उस शब्द का चयन करें जो 'चुप' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Loud", "Quiet", "Noisy", "Talkative"],
+      "hi": ["तेज़", "शांत", "शोरगुल", "बातूनी"]
+    },
+    "answer": {
+      "en": "Quiet",
+      "hi": "शांत"
+    }
+  },
+  {
+    "id": 206,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Rapid'?",
+      "hi": "कौन सा शब्द 'तेज़' का विलोम है?"
+    },
+    "options": {
+      "en": ["Slow", "Quick", "Fast", "Hasty"],
+      "hi": ["धीमा", "जल्दी", "तेज़", "उतावला"]
+    },
+    "answer": {
+      "en": "Slow",
+      "hi": "धीमा"
+    }
+  },
+  {
+    "id": 207,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: She was so hungry that she could not _ for the dinner bell.",
+      "hi": "वाक्य पूरा करें: वह इतनी भूखी थी कि रात के खाने की घंटी का _ नहीं कर सकती थी।"
+    },
+    "options": {
+      "en": ["wait", "run", "eat", "play"],
+      "hi": ["इंतज़ार", "दौड़", "खाना", "खेल"]
+    },
+    "answer": {
+      "en": "wait",
+      "hi": "इंतज़ार"
+    }
+  },
+  {
+    "id": 208,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Doctor is to Patient as Teacher is to ?",
+      "hi": "सादृश्यता पूरी करें: डॉक्टर का मरीज़ से है जैसे शिक्षक का ? से है"
+    },
+    "options": {
+      "en": ["School", "Lesson", "Student", "Book"],
+      "hi": ["स्कूल", "पाठ", "छात्र", "किताब"]
+    },
+    "answer": {
+      "en": "Student",
+      "hi": "छात्र"
+    }
+  },
+  {
+    "id": 209,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Large'.",
+      "hi": "उस शब्द का चयन करें जो 'बड़ा' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Small", "Tiny", "Huge", "Thin"],
+      "hi": ["छोटा", "नन्हा", "विशाल", "पतला"]
+    },
+    "answer": {
+      "en": "Huge",
+      "hi": "विशाल"
+    }
+  },
+  {
+    "id": 210,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Joy'?",
+      "hi": "कौन सा शब्द 'खुशी' का विलोम है?"
+    },
+    "options": {
+      "en": ["Happiness", "Sorrow", "Pleasure", "Delight"],
+      "hi": ["खुशी", "दुःख", "आनंद", "प्रसन्नता"]
+    },
+    "answer": {
+      "en": "Sorrow",
+      "hi": "दुःख"
+    }
+  },
+  {
+    "id": 211,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The detective needed more _ to solve the mystery.",
+      "hi": "वाक्य पूरा करें: जासूस को रहस्य को सुलझाने के लिए और _ की जरूरत थी।"
+    },
+    "options": {
+      "en": ["friends", "clues", "food", "sleep"],
+      "hi": ["दोस्त", "सुराग", "खाना", "नींद"]
+    },
+    "answer": {
+      "en": "clues",
+      "hi": "सुराग"
+    }
+  },
+  {
+    "id": 212,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Bird is to Feather as Fish is to ?",
+      "hi": "सादृश्यता पूरी करें: चिड़िया का पंख से है जैसे मछली का ? से है"
+    },
+    "options": {
+      "en": ["Scale", "Fin", "Tail", "Water"],
+      "hi": ["शल्क", "पंख", "पूंछ", "पानी"]
+    },
+    "answer": {
+      "en": "Scale",
+      "hi": "शल्क"
+    }
+  },
+  {
+    "id": 213,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Wealthy'.",
+      "hi": "उस शब्द का चयन करें जो 'धनी' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Poor", "Rich", "Broke", "Needy"],
+      "hi": ["गरीब", "अमीर", "दिवालिया", "जरूरतमंद"]
+    },
+    "answer": {
+      "en": "Rich",
+      "hi": "अमीर"
+    }
+  },
+  {
+    "id": 214,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Brave'?",
+      "hi": "कौन सा शब्द 'बहादुर' का विलोम है?"
+    },
+    "options": {
+      "en": ["Fearless", "Courageous", "Timid", "Bold"],
+      "hi": ["निडर", "साहसी", "डरपोक", "बहादुर"]
+    },
+    "answer": {
+      "en": "Timid",
+      "hi": "डरपोक"
+    }
+  },
+  {
+    "id": 215,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The beautiful flowers _ the air with a sweet scent.",
+      "hi": "वाक्य पूरा करें: सुंदर फूलों ने हवा को एक मीठी खुशबू से _ दिया।"
+    },
+    "options": {
+      "en": ["filled", "emptied", "hid", "covered"],
+      "hi": ["भर दिया", "खाली कर दिया", "छुपा दिया", "ढक दिया"]
+    },
+    "answer": {
+      "en": "filled",
+      "hi": "भर दिया"
+    }
+  },
+  {
+    "id": 216,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Hammer is to Nail as Drill is to ?",
+      "hi": "सादृश्यता पूरी करें: हथौड़ी का कील से है जैसे ड्रिल का ? से है"
+    },
+    "options": {
+      "en": ["Wood", "Screw", "Hole", "Wall"],
+      "hi": ["लकड़ी", "पेंच", "छेद", "दीवार"]
+    },
+    "answer": {
+      "en": "Hole",
+      "hi": "छेद"
+    }
+  },
+  {
+    "id": 217,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Happy'.",
+      "hi": "उस शब्द का चयन करें जो 'खुश' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Sad", "Glad", "Angry", "Tired"],
+      "hi": ["दुखी", "प्रसन्न", "गुस्सा", "थका"]
+    },
+    "answer": {
+      "en": "Glad",
+      "hi": "प्रसन्न"
+    }
+  },
+  {
+    "id": 218,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Strong'?",
+      "hi": "कौन सा शब्द 'मजबूत' का विलोम है?"
+    },
+    "options": {
+      "en": ["Powerful", "Weak", "Tough", "Solid"],
+      "hi": ["शक्तिशाली", "कमज़ोर", "कठोर", "ठोस"]
+    },
+    "answer": {
+      "en": "Weak",
+      "hi": "कमज़ोर"
+    }
+  },
+  {
+    "id": 219,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The brave firefighter saved the cat from the _ tree.",
+      "hi": "वाक्य पूरा करें: बहादुर फायरफाइटर ने बिल्ली को _ पेड़ से बचाया।"
+    },
+    "options": {
+      "en": ["tall", "burning", "short", "old"],
+      "hi": ["लंबे", "जलते हुए", "छोटे", "पुराने"]
+    },
+    "answer": {
+      "en": "tall",
+      "hi": "लंबे"
+    }
+  },
+  {
+    "id": 220,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Light is to Darkness as Silence is to ?",
+      "hi": "सादृश्यता पूरी करें: प्रकाश का अंधेरे से है जैसे चुप्पी का ? से है"
+    },
+    "options": {
+      "en": ["Loud", "Quiet", "Noise", "Sound"],
+      "hi": ["तेज़", "शांत", "शोर", "आवाज़"]
+    },
+    "answer": {
+      "en": "Noise",
+      "hi": "शोर"
+    }
+  },
+  {
+    "id": 221,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Clever'.",
+      "hi": "उस शब्द का चयन करें जो 'चतुर' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Stupid", "Dumb", "Intelligent", "Silly"],
+      "hi": ["मूर्ख", "गूंगा", "बुद्धिमान", "मूर्खतापूर्ण"]
+    },
+    "answer": {
+      "en": "Intelligent",
+      "hi": "बुद्धिमान"
+    }
+  },
+  {
+    "id": 222,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Victory'?",
+      "hi": "कौन सा शब्द 'जीत' का विलोम है?"
+    },
+    "options": {
+      "en": ["Triumph", "Success", "Defeat", "Win"],
+      "hi": ["विजय", "सफलता", "हार", "जीत"]
+    },
+    "answer": {
+      "en": "Defeat",
+      "hi": "हार"
+    }
+  },
+  {
+    "id": 223,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The little girl sang a beautiful _.",
+      "hi": "वाक्य पूरा करें: छोटी लड़की ने एक सुंदर _ गाया।"
+    },
+    "options": {
+      "en": ["story", "book", "song", "poem"],
+      "hi": ["कहानी", "किताब", "गाना", "कविता"]
+    },
+    "answer": {
+      "en": "song",
+      "hi": "गाना"
+    }
+  },
+  {
+    "id": 224,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Tree is to Forest as Star is to ?",
+      "hi": "सादृश्यता पूरी करें: पेड़ का जंगल से है जैसे तारे का ? से है"
+    },
+    "options": {
+      "en": ["Planet", "Galaxy", "Sun", "Sky"],
+      "hi": ["ग्रह", "आकाशगंगा", "सूरज", "आसमान"]
+    },
+    "answer": {
+      "en": "Galaxy",
+      "hi": "आकाशगंगा"
+    }
+  },
+  {
+    "id": 225,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Polite'.",
+      "hi": "उस शब्द का चयन करें जो 'विनम्र' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Rude", "Courteous", "Mean", "Friendly"],
+      "hi": ["असभ्य", "शिष्ट", "दुष्ट", "दोस्ताना"]
+    },
+    "answer": {
+      "en": "Courteous",
+      "hi": "शिष्ट"
+    }
+  },
+  {
+    "id": 226,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Beautiful'?",
+      "hi": "कौन सा शब्द 'सुंदर' का विलोम है?"
+    },
+    "options": {
+      "en": ["Pretty", "Lovely", "Ugly", "Attractive"],
+      "hi": ["सुंदर", "प्यारा", "बदसूरत", "आकर्षक"]
+    },
+    "answer": {
+      "en": "Ugly",
+      "hi": "बदसूरत"
+    }
+  },
+  {
+    "id": 227,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The hungry dog was barking loudly at the _.",
+      "hi": "वाक्य पूरा करें: भूखा कुत्ता जोर-जोर से _ पर भौंक रहा था।"
+    },
+    "options": {
+      "en": ["cat", "food", "mailman", "bone"],
+      "hi": ["बिल्ली", "खाना", "डाकिया", "हड्डी"]
+    },
+    "answer": {
+      "en": "mailman",
+      "hi": "डाकिया"
+    }
+  },
+  {
+    "id": 228,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Author is to Book as Composer is to ?",
+      "hi": "सादृश्यता पूरी करें: लेखक का किताब से है जैसे संगीतकार का ? से है"
+    },
+    "options": {
+      "en": ["Song", "Poem", "Music", "Play"],
+      "hi": ["गाना", "कविता", "संगीत", "नाटक"]
+    },
+    "answer": {
+      "en": "Music",
+      "hi": "संगीत"
+    }
+  },
+  {
+    "id": 229,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Sickness'.",
+      "hi": "उस शब्द का चयन करें जो 'बीमारी' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Health", "Wellness", "Disease", "Energy"],
+      "hi": ["स्वास्थ्य", "तंदुरुस्ती", "रोग", "ऊर्जा"]
+    },
+    "answer": {
+      "en": "Disease",
+      "hi": "रोग"
+    }
+  },
+  {
+    "id": 230,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Success'?",
+      "hi": "कौन सा शब्द 'सफलता' का विलोम है?"
+    },
+    "options": {
+      "en": ["Triumph", "Failure", "Achievement", "Victory"],
+      "hi": ["विजय", "असफलता", "उपलब्धि", "जीत"]
+    },
+    "answer": {
+      "en": "Failure",
+      "hi": "असफलता"
+    }
+  },
+  {
+    "id": 231,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The old man told a long _ about his youth.",
+      "hi": "वाक्य पूरा करें: बूढ़े आदमी ने अपनी जवानी के बारे में एक लंबी _ सुनाई।"
+    },
+    "options": {
+      "en": ["lie", "story", "joke", "secret"],
+      "hi": ["झूठ", "कहानी", "मज़ाक", "रहस्य"]
+    },
+    "answer": {
+      "en": "story",
+      "hi": "कहानी"
+    }
+  },
+  {
+    "id": 232,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Pencil is to Write as Knife is to ?",
+      "hi": "सादृश्यता पूरी करें: पेंसिल का लिखना से है जैसे चाकू का ? से है"
+    },
+    "options": {
+      "en": ["Cut", "Chop", "Slice", "All of the above"],
+      "hi": ["काटना", "काटना", "टुकड़े करना", "उपरोक्त सभी"]
+    },
+    "answer": {
+      "en": "All of the above",
+      "hi": "उपरोक्त सभी"
+    }
+  },
+  {
+    "id": 233,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Difficult'.",
+      "hi": "उस शब्द का चयन करें जो 'मुश्किल' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Easy", "Hard", "Simple", "Smooth"],
+      "hi": ["आसान", "कठिन", "सरल", "चिकना"]
+    },
+    "answer": {
+      "en": "Hard",
+      "hi": "कठिन"
+    }
+  },
+  {
+    "id": 234,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Up'?",
+      "hi": "कौन सा शब्द 'ऊपर' का विलोम है?"
+    },
+    "options": {
+      "en": ["Down", "Above", "Below", "Right"],
+      "hi": ["नीचे", "ऊपर", "नीचे", "दाएं"]
+    },
+    "answer": {
+      "en": "Down",
+      "hi": "नीचे"
+    }
+  },
+  {
+    "id": 235,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The small boat was sailing on the _ lake.",
+      "hi": "वाक्य पूरा करें: छोटी नाव _ झील पर तैर रही थी।"
+    },
+    "options": {
+      "en": ["noisy", "calm", "stormy", "cold"],
+      "hi": ["शोरगुल", "शांत", "तूफानी", "ठंडी"]
+    },
+    "answer": {
+      "en": "calm",
+      "hi": "शांत"
+    }
+  },
+  {
+    "id": 236,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Rain is to Umbrella as Sun is to ?",
+      "hi": "सादृश्यता पूरी करें: बारिश का छाता से है जैसे धूप का ? से है"
+    },
+    "options": {
+      "en": ["Shade", "Heat", "Sunglass", "Sunscreen"],
+      "hi": ["छाँव", "गर्मी", "धूप का चश्मा", "सनस्क्रीन"]
+    },
+    "answer": {
+      "en": "Sunscreen",
+      "hi": "सनस्क्रीन"
+    }
+  },
+  {
+    "id": 237,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Sad'.",
+      "hi": "उस शब्द का चयन करें जो 'दुखी' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Happy", "Joyful", "Upset", "Glad"],
+      "hi": ["खुश", "आनंदित", "परेशान", "प्रसन्न"]
+    },
+    "answer": {
+      "en": "Upset",
+      "hi": "परेशान"
+    }
+  },
+  {
+    "id": 238,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Open'?",
+      "hi": "कौन सा शब्द 'खुला' का विलोम है?"
+    },
+    "options": {
+      "en": ["Closed", "Start", "Begin", "Unlocked"],
+      "hi": ["बंद", "शुरू", "आरंभ", "खुला"]
+    },
+    "answer": {
+      "en": "Closed",
+      "hi": "बंद"
+    }
+  },
+  {
+    "id": 239,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The old house was full of _ and cobwebs.",
+      "hi": "वाक्य पूरा करें: पुराना घर _ और मकड़ी के जाले से भरा हुआ था।"
+    },
+    "options": {
+      "en": ["people", "dust", "animals", "flowers"],
+      "hi": ["लोग", "धूल", "जानवर", "फूल"]
+    },
+    "answer": {
+      "en": "dust",
+      "hi": "धूल"
+    }
+  },
+  {
+    "id": 240,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Page is to Book as Leaf is to ?",
+      "hi": "सादृश्यता पूरी करें: पृष्ठ का किताब से है जैसे पत्ती का ? से है"
+    },
+    "options": {
+      "en": ["Tree", "Branch", "Forest", "Plant"],
+      "hi": ["पेड़", "डाली", "जंगल", "पौधा"]
+    },
+    "answer": {
+      "en": "Tree",
+      "hi": "पेड़"
+    }
+  },
+  {
+    "id": 241,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Clean'.",
+      "hi": "उस शब्द का चयन करें जो 'साफ' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Dirty", "Untidy", "Spotless", "Messy"],
+      "hi": ["गंदा", "अस्वच्छ", "निर्मल", "गड़बड़"]
+    },
+    "answer": {
+      "en": "Spotless",
+      "hi": "निर्मल"
+    }
+  },
+  {
+    "id": 242,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Hard'?",
+      "hi": "कौन सा शब्द 'कठोर' का विलोम है?"
+    },
+    "options": {
+      "en": ["Soft", "Tough", "Rigid", "Firm"],
+      "hi": ["नरम", "कठोर", "कड़ा", "दृढ़"]
+    },
+    "answer": {
+      "en": "Soft",
+      "hi": "नरम"
+    }
+  },
+  {
+    "id": 243,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The little boy was so excited that he could not _ still.",
+      "hi": "वाक्य पूरा करें: छोटा लड़का इतना उत्साहित था कि वह _ शांत नहीं बैठ सकता था।"
+    },
+    "options": {
+      "en": ["sit", "run", "stand", "sleep"],
+      "hi": ["बैठ", "दौड़", "खड़ा", "सो"]
+    },
+    "answer": {
+      "en": "sit",
+      "hi": "बैठ"
+    }
+  },
+  {
+    "id": 244,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Engine is to Car as Heart is to ?",
+      "hi": "सादृश्यता पूरी करें: इंजन का कार से है जैसे दिल का ? से है"
+    },
+    "options": {
+      "en": ["Body", "Blood", "Vein", "Life"],
+      "hi": ["शरीर", "खून", "नस", "जीवन"]
+    },
+    "answer": {
+      "en": "Body",
+      "hi": "शरीर"
+    }
+  },
+  {
+    "id": 245,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Fast'.",
+      "hi": "उस शब्द का चयन करें जो 'तेज़' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Slow", "Quick", "Rapid", "Both B and C"],
+      "hi": ["धीमा", "जल्दी", "तेज़", "B और C दोनों"]
+    },
+    "answer": {
+      "en": "Both B and C",
+      "hi": "B और C दोनों"
+    }
+  },
+  {
+    "id": 246,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'High'?",
+      "hi": "कौन सा शब्द 'ऊंचा' का विलोम है?"
+    },
+    "options": {
+      "en": ["Tall", "Low", "Below", "Above"],
+      "hi": ["लंबा", "नीचा", "नीचे", "ऊपर"]
+    },
+    "answer": {
+      "en": "Low",
+      "hi": "नीचा"
+    }
+  },
+  {
+    "id": 247,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The delicious cake was made of flour, sugar, and _.",
+      "hi": "वाक्य पूरा करें: स्वादिष्ट केक आटा, चीनी और _ से बना था।"
+    },
+    "options": {
+      "en": ["salt", "water", "eggs", "oil"],
+      "hi": ["नमक", "पानी", "अंडे", "तेल"]
+    },
+    "answer": {
+      "en": "eggs",
+      "hi": "अंडे"
+    }
+  },
+  {
+    "id": 248,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Key is to Lock as Switch is to ?",
+      "hi": "सादृश्यता पूरी करें: चाबी का ताला से है जैसे स्विच का ? से है"
+    },
+    "options": {
+      "en": ["Light", "Bulb", "Electricity", "Circuit"],
+      "hi": ["रोशनी", "बल्ब", "बिजली", "सर्किट"]
+    },
+    "answer": {
+      "en": "Light",
+      "hi": "रोशनी"
+    }
+  },
+  {
+    "id": 249,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Calm'.",
+      "hi": "उस शब्द का चयन करें जो 'शांत' का समानार्थी है।"
+    },
+    "options": {
+      "en": ["Peaceful", "Agitated", "Excited", "Nervous"],
+      "hi": ["शांतिपूर्ण", "व्याकुल", "उत्तेजित", "घबराया हुआ"]
+    },
+    "answer": {
+      "en": "Peaceful",
+      "hi": "शांतिपूर्ण"
+    }
+  },
+  {
+    "id": 250,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Full'?",
+      "hi": "कौन सा शब्द 'भरा' का विलोम है?"
+    },
+    "options": {
+      "en": ["Empty", "Complete", "Packed", "Filled"],
+      "hi": ["खाली", "पूरा", "भरा", "भरा हुआ"]
+    },
+    "answer": {
+      "en": "Empty",
+      "hi": "खाली"
+    }
+  },
+  {
+    "id": 251,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The tiny mouse was hiding from the big _.",
+      "hi": "वाक्य पूरा करें: छोटा चूहा बड़े _ से छिपा हुआ था।"
+    },
+    "options": {
+      "en": ["dog", "cat", "bird", "elephant"],
+      "hi": ["कुत्ता", "बिल्ली", "चिड़िया", "हाथी"]
+    },
+    "answer": {
+      "en": "cat",
+      "hi": "बिल्ली"
+    }
+  },
+
+
+
+  {
+    "id": 252,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Hand is to Palm as Foot is to ?",
+      "hi": "समानता पूरी करें: हाथ : हथेली :: पैर : ?"
+    },
+    "options": {
+      "en": ["Toe", "Ankle", "Sole", "Heel"],
+      "hi": ["अंगुली", "टखना", "पैर की तली", "एड़ी"]
+    },
+    "answer": {
+      "en": "Sole",
+      "hi": "पैर की तली"
+    }
+  },
+  {
+    "id": 253,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Huge'.",
+      "hi": "'Huge' का समानार्थक शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Enormous", "Tiny", "Small", "Miniature"],
+      "hi": ["विशाल", "सूक्ष्म", "छोटा", "लघु"]
+    },
+    "answer": {
+      "en": "Enormous",
+      "hi": "विशाल"
+    }
+  },
+  {
+    "id": 254,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Sweet'?",
+      "hi": "'Sweet' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Sour", "Sugar", "Bitter", "Salty"],
+      "hi": ["खट्टा", "चीनी", "कड़वा", "नमकीन"]
+    },
+    "answer": {
+      "en": "Bitter",
+      "hi": "कड़वा"
+    }
+  },
+  {
+    "id": 255,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The students were sitting at their _ to study.",
+      "hi": "वाक्य पूरा करें: छात्र पढ़ाई के लिए अपनी _ पर बैठे थे।"
+    },
+    "options": {
+      "en": ["chairs", "desks", "beds", "tables"],
+      "hi": ["कुर्सियाँ", "मेज़", "बिस्तर", "टेबल"]
+    },
+    "answer": {
+      "en": "desks",
+      "hi": "मेज़"
+    }
+  },
+  {
+    "id": 256,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Cook is to Food as Tailor is to ?",
+      "hi": "समानता पूरी करें: रसोइया : खाना :: दर्ज़ी : ?"
+    },
+    "options": {
+      "en": ["Clothes", "Thread", "Needle", "Fabric"],
+      "hi": ["कपड़े", "धागा", "सुई", "कपड़ा"]
+    },
+    "answer": {
+      "en": "Clothes",
+      "hi": "कपड़े"
+    }
+  },
+  {
+    "id": 257,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Brisk'.",
+      "hi": "'Brisk' का समानार्थक शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Slow", "Leisurely", "Quick", "Lazy"],
+      "hi": ["धीमा", "आरामदायक", "तेज़", "आलसी"]
+    },
+    "answer": {
+      "en": "Quick",
+      "hi": "तेज़"
+    }
+  },
+  {
+    "id": 258,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Truth'?",
+      "hi": "'Truth' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Honesty", "Fact", "Lie", "Reality"],
+      "hi": ["ईमानदारी", "तथ्य", "झूठ", "वास्तविकता"]
+    },
+    "answer": {
+      "en": "Lie",
+      "hi": "झूठ"
+    }
+  },
+  {
+    "id": 259,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The doctor gave a _ for the patient's illness.",
+      "hi": "वाक्य पूरा करें: डॉक्टर ने रोगी की बीमारी के लिए _ दिया।"
+    },
+    "options": {
+      "en": ["diagnosis", "prescription", "check-up", "examination"],
+      "hi": ["निदान", "प्रिस्क्रिप्शन", "जाँच", "परीक्षण"]
+    },
+    "answer": {
+      "en": "prescription",
+      "hi": "प्रिस्क्रिप्शन"
+    }
+  }
+,
+  {
+    "id": 260,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Tree is to Bark as Animal is to ?",
+      "hi": "समानता पूरी करें: पेड़ : छाल :: जानवर : ?"
+    },
+    "options": {
+      "en": ["Fur", "Skin", "Hair", "Feather"],
+      "hi": ["रौंदा", "त्वचा", "बाल", "पंख"]
+    },
+    "answer": {
+      "en": "Skin",
+      "hi": "त्वचा"
+    }
+  },
+  {
+    "id": 261,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Polite'.",
+      "hi": "'Polite' का समानार्थक शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Rude", "Courteous", "Mean", "Friendly"],
+      "hi": ["असभ्य", "विनम्र", "मतलबी", "मैत्रीपूर्ण"]
+    },
+    "answer": {
+      "en": "Courteous",
+      "hi": "विनम्र"
+    }
+  },
+  {
+    "id": 262,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Empty'?",
+      "hi": "'Empty' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Full", "Hollow", "Void", "Vacant"],
+      "hi": ["भरा हुआ", "खोखला", "रिक्त", "खाली"]
+    },
+    "answer": {
+      "en": "Full",
+      "hi": "भरा हुआ"
+    }
+  },
+  {
+    "id": 263,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The bright star shone _ in the night sky.",
+      "hi": "वाक्य पूरा करें: चमकता हुआ तारा रात के आकाश में _ चमका।"
+    },
+    "options": {
+      "en": ["dimly", "softly", "brightly", "faintly"],
+      "hi": ["धीरे-धीरे", "नरम रूप से", "तेज़ चमकता", "कमजोर"]
+    },
+    "answer": {
+      "en": "brightly",
+      "hi": "तेज़ चमकता"
+    }
+  },
+  {
+    "id": 264,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Poet is to Poem as Novelist is to ?",
+      "hi": "समानता पूरी करें: कवि : कविता :: उपन्यासकार : ?"
+    },
+    "options": {
+      "en": ["Story", "Book", "Novel", "Writing"],
+      "hi": ["कहानी", "किताब", "उपन्यास", "लेखन"]
+    },
+    "answer": {
+      "en": "Novel",
+      "hi": "उपन्यास"
+    }
+  },
+  {
+    "id": 265,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Sad'.",
+      "hi": "'Sad' का समानार्थक शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Happy", "Upset", "Joyful", "Glad"],
+      "hi": ["खुश", "उदास", "आनंदी", "खुश"]
+    },
+    "answer": {
+      "en": "Upset",
+      "hi": "उदास"
+    }
+  },
+  {
+    "id": 266,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Expensive'?",
+      "hi": "'Expensive' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Costly", "Cheap", "Pricy", "Valuable"],
+      "hi": ["महंगा", "सस्ता", "कीमती", "मूल्यवान"]
+    },
+    "answer": {
+      "en": "Cheap",
+      "hi": "सस्ता"
+    }
+  },
+  {
+    "id": 267,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The tired hiker needed a _ to regain his energy.",
+      "hi": "वाक्य पूरा करें: थका हुआ पर्वतारोही अपनी ऊर्जा पाने के लिए _ की आवश्यकता थी।"
+    },
+    "options": {
+      "en": ["rest", "run", "hike", "walk"],
+      "hi": ["आराम", "दौड़", "पर्वतारोहण", "चलना"]
+    },
+    "answer": {
+      "en": "rest",
+      "hi": "आराम"
+    }
+  },
+  {
+    "id": 268,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Pilot is to Airplane as Captain is to ?",
+      "hi": "समानता पूरी करें: पायलट : हवाई जहाज :: कप्तान : ?"
+    },
+    "options": {
+      "en": ["Car", "Boat", "Bus", "Train"],
+      "hi": ["कार", "नाव", "बस", "रेलगाड़ी"]
+    },
+    "answer": {
+      "en": "Boat",
+      "hi": "नाव"
+    }
+  },
+  {
+    "id": 269,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Brave'.",
+      "hi": "'Brave' का समानार्थक शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Cowardly", "Timid", "Courageous", "Weak"],
+      "hi": ["कायर", "डरपोक", "साहसी", "कमजोर"]
+    },
+    "answer": {
+      "en": "Courageous",
+      "hi": "साहसी"
+    }
+  },
+  {
+    "id": 270,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Dangerous'?",
+      "hi": "'Dangerous' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Risky", "Safe", "Harmful", "Perilous"],
+      "hi": ["जोखिम भरा", "सुरक्षित", "हानिकारक", "खतरनाक"]
+    },
+    "answer": {
+      "en": "Safe",
+      "hi": "सुरक्षित"
+    }
+  },
+  {
+    "id": 271,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The gardener planted a _ of flowers in the garden.",
+      "hi": "वाक्य पूरा करें: माली ने बगीचे में _ के फूल लगाए।"
+    },
+    "options": {
+      "en": ["bunch", "basket", "row", "bed"],
+      "hi": ["गुच्छा", "टोकरी", "पंक्ति", "बेड"]
+    },
+    "answer": {
+      "en": "bed",
+      "hi": "बेड"
+    }
+  },
+  {
+    "id": 272,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Milk is to Glass as Soup is to ?",
+      "hi": "समानता पूरी करें: दूध : गिलास :: सूप : ?"
+    },
+    "options": {
+      "en": ["Bowl", "Spoon", "Plate", "Cup"],
+      "hi": ["कटोरी", "चम्मच", "थाली", "कप"]
+    },
+    "answer": {
+      "en": "Bowl",
+      "hi": "कटोरी"
+    }
+  },
+  {
+    "id": 273,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Famous'.",
+      "hi": "'Famous' का समानार्थक शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Unknown", "Obscure", "Popular", "Infamous"],
+      "hi": ["अज्ञात", "अस्पष्ट", "लोकप्रिय", "कुख्यात"]
+    },
+    "answer": {
+      "en": "Popular",
+      "hi": "लोकप्रिय"
+    }
+  },
+  {
+    "id": 274,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Light'?",
+      "hi": "'Light' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Bright", "Dark", "Heavy", "Shadow"],
+      "hi": ["उज्ज्वल", "अंधेरा", "भारी", "छाया"]
+    },
+    "answer": {
+      "en": "Dark",
+      "hi": "अंधेरा"
+    }
+  },
+  {
+    "id": 275,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The little bird flew out of its _.",
+      "hi": "वाक्य पूरा करें: छोटा पक्षी अपनी _ से बाहर उड़ गया।"
+    },
+    "options": {
+      "en": ["tree", "nest", "cage", "house"],
+      "hi": ["पेड़", "घोंसला", "पिंजरा", "घर"]
+    },
+    "answer": {
+      "en": "nest",
+      "hi": "घोंसला"
+    }
+  },
+  {
+    "id": 276,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Eye is to See as Ear is to ?",
+      "hi": "समानता पूरी करें: आँख : देखना :: कान : ?"
+    },
+    "options": {
+      "en": ["Hear", "Listen", "Sound", "Noise"],
+      "hi": ["सुनना", "ध्यान देना", "ध्वनि", "शोर"]
+    },
+    "answer": {
+      "en": "Hear",
+      "hi": "सुनना"
+    }
+  },
+  {
+    "id": 277,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Hard'.",
+      "hi": "'Hard' का समानार्थक शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Tough", "Soft", "Easy", "Simple"],
+      "hi": ["कठिन", "नरम", "आसान", "सरल"]
+    },
+    "answer": {
+      "en": "Tough",
+      "hi": "कठिन"
+    }
+  },
+  {
+    "id": 278,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Short'?",
+      "hi": "'Short' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Long", "Tall", "Brief", "Tiny"],
+      "hi": ["लंबा", "ऊँचा", "संक्षिप्त", "छोटा"]
+    },
+    "answer": {
+      "en": "Long",
+      "hi": "लंबा"
+    }
+  },
+  {
+    "id": 279,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the sentence: The doctor used a _ to listen to the patient's heart.",
+      "hi": "वाक्य पूरा करें: डॉक्टर ने मरीज का दिल सुनने के लिए _ का उपयोग किया।"
+    },
+    "options": {
+      "en": ["thermometer", "microscope", "stethoscope", "scale"],
+      "hi": ["थर्मामीटर", "सूक्ष्मदर्शी", "स्टेथोस्कोप", "तराजू"]
+    },
+    "answer": {
+      "en": "stethoscope",
+      "hi": "स्टेथोस्कोप"
+    }
+  },
+  {
+    "id": 280,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Complete the analogy: Shoe is to Foot as Glove is to ?",
+      "hi": "समानता पूरी करें: जूता : पैर :: दस्ताने : ?"
+    },
+    "options": {
+      "en": ["Hand", "Finger", "Wrist", "Arm"],
+      "hi": ["हाथ", "उँगली", "कलाई", "भुजा"]
+    },
+    "answer": {
+      "en": "Hand",
+      "hi": "हाथ"
+    }
+  },
+  {
+    "id": 281,
+    "category": "Verbal Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Generous'.",
+      "hi": "'Generous' का समानार्थक शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Stingy", "Selfish", "Kind", "Greedy"],
+      "hi": ["कंजूस", "स्वार्थी", "दयालु", "लालची"]
+    },
+    "answer": {
+      "en": "Kind",
+      "hi": "दयालु"
+    }
+  }
+,
+
+
+  {
+    "id": 282,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Early'?",
+      "hi": "'Early' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Late", "Punctual", "Ahead", "Soon"],
+      "hi": ["Late", "Punctual", "Ahead", "Soon"]
+    },
+    "answer": {
+      "en": "Late",
+      "hi": "Late"
+    }
+  },
+  {
+    "id": 283,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the sentence: The angry dog started to _ at the stranger.",
+      "hi": "वाक्य पूरा करें: गुस्से वाला कुत्ता अजनबी पर _ करने लगा।"
+    },
+    "options": {
+      "en": ["wag", "bark", "purr", "meow"],
+      "hi": ["wag", "bark", "purr", "meow"]
+    },
+    "answer": {
+      "en": "bark",
+      "hi": "bark"
+    }
+  },
+  {
+    "id": 284,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Book is to Knowledge as Food is to ?",
+      "hi": "समानता पूरा करें: Book का Knowledge में वही संबंध है, जैसा Food का ? में है।"
+    },
+    "options": {
+      "en": ["Hunger", "Energy", "Taste", "Stomach"],
+      "hi": ["Hunger", "Energy", "Taste", "Stomach"]
+    },
+    "answer": {
+      "en": "Energy",
+      "hi": "Energy"
+    }
+  },
+  {
+    "id": 285,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Careful'.",
+      "hi": "'Careful' का पर्यायवाची शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Careless", "Reckless", "Cautious", "Hasty"],
+      "hi": ["Careless", "Reckless", "Cautious", "Hasty"]
+    },
+    "answer": {
+      "en": "Cautious",
+      "hi": "Cautious"
+    }
+  },
+  {
+    "id": 286,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Weak'?",
+      "hi": "'Weak' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Fragile", "Strong", "Frail", "Delicate"],
+      "hi": ["Fragile", "Strong", "Frail", "Delicate"]
+    },
+    "answer": {
+      "en": "Strong",
+      "hi": "Strong"
+    }
+  },
+  {
+    "id": 287,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the sentence: The brave soldier fought in the _ to protect his country.",
+      "hi": "वाक्य पूरा करें: बहादुर सैनिक ने अपने देश की रक्षा के लिए _ में लड़ाई लड़ी।"
+    },
+    "options": {
+      "en": ["game", "war", "peace", "race"],
+      "hi": ["game", "war", "peace", "race"]
+    },
+    "answer": {
+      "en": "war",
+      "hi": "war"
+    }
+  },
+  {
+    "id": 288,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Egg is to Bird as Seed is to ?",
+      "hi": "समानता पूरा करें: Egg का Bird में वही संबंध है, जैसा Seed का ? में है।"
+    },
+    "options": {
+      "en": ["Flower", "Plant", "Tree", "Fruit"],
+      "hi": ["Flower", "Plant", "Tree", "Fruit"]
+    },
+    "answer": {
+      "en": "Plant",
+      "hi": "Plant"
+    }
+  },
+  {
+    "id": 289,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Difficult'.",
+      "hi": "'Difficult' का पर्यायवाची शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Easy", "Simple", "Hard", "Smooth"],
+      "hi": ["Easy", "Simple", "Hard", "Smooth"]
+    },
+    "answer": {
+      "en": "Hard",
+      "hi": "Hard"
+    }
+  },
+  {
+    "id": 290,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Large'?",
+      "hi": "'Large' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Huge", "Giant", "Small", "Enormous"],
+      "hi": ["Huge", "Giant", "Small", "Enormous"]
+    },
+    "answer": {
+      "en": "Small",
+      "hi": "Small"
+    }
+  },
+  {
+    "id": 291,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the sentence: The moon shines _ in the night sky.",
+      "hi": "वाक्य पूरा करें: चाँद रात के आकाश में _ चमकता है।"
+    },
+    "options": {
+      "en": ["dimly", "brightly", "faintly", "loudly"],
+      "hi": ["dimly", "brightly", "faintly", "loudly"]
+    },
+    "answer": {
+      "en": "brightly",
+      "hi": "brightly"
+    }
+  },
+  {
+    "id": 292,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Needle is to Sew as Saw is to ?",
+      "hi": "समानता पूरा करें: Needle का Sew में वही संबंध है, जैसा Saw का ? में है।"
+    },
+    "options": {
+      "en": ["Cut", "Chop", "Wood", "Tree"],
+      "hi": ["Cut", "Chop", "Wood", "Tree"]
+    },
+    "answer": {
+      "en": "Wood",
+      "hi": "Wood"
+    }
+  },
+  {
+    "id": 293,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Begin'.",
+      "hi": "'Begin' का पर्यायवाची शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Start", "Finish", "End", "Cease"],
+      "hi": ["Start", "Finish", "End", "Cease"]
+    },
+    "answer": {
+      "en": "Start",
+      "hi": "Start"
+    }
+  },
+  {
+    "id": 294,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Hot'?",
+      "hi": "'Hot' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Warm", "Cold", "Boiling", "Steaming"],
+      "hi": ["Warm", "Cold", "Boiling", "Steaming"]
+    },
+    "answer": {
+      "en": "Cold",
+      "hi": "Cold"
+    }
+  },
+  {
+    "id": 295,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the sentence: The thirsty boy drank a glass of _.",
+      "hi": "वाक्य पूरा करें: प्यासा लड़का एक गिलास _ पी गया।"
+    },
+    "options": {
+      "en": ["juice", "milk", "water", "soda"],
+      "hi": ["juice", "milk", "water", "soda"]
+    },
+    "answer": {
+      "en": "water",
+      "hi": "water"
+    }
+  },
+  {
+    "id": 296,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the analogy: Fish is to Water as Bird is to ?",
+      "hi": "समानता पूरा करें: Fish का Water में वही संबंध है, जैसा Bird का ? में है।"
+    },
+    "options": {
+      "en": ["Sky", "Air", "Nest", "Tree"],
+      "hi": ["Sky", "Air", "Nest", "Tree"]
+    },
+    "answer": {
+      "en": "Air",
+      "hi": "Air"
+    }
+  },
+  {
+    "id": 297,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Choose the word that is a synonym of 'Calm'.",
+      "hi": "'Calm' का पर्यायवाची शब्द चुनें।"
+    },
+    "options": {
+      "en": ["Peaceful", "Rude", "Agitated", "Excited"],
+      "hi": ["Peaceful", "Rude", "Agitated", "Excited"]
+    },
+    "answer": {
+      "en": "Peaceful",
+      "hi": "Peaceful"
+    }
+  },
+  {
+    "id": 298,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Which word is an antonym of 'Rich'?",
+      "hi": "'Rich' का विलोम शब्द कौन सा है?"
+    },
+    "options": {
+      "en": ["Wealthy", "Affluent", "Poor", "Broke"],
+      "hi": ["Wealthy", "Affluent", "Poor", "Broke"]
+    },
+    "answer": {
+      "en": "Poor",
+      "hi": "Poor"
+    }
+  },
+  {
+    "id": 299,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Complete the sentence: The old man was walking with a _.",
+      "hi": "वाक्य पूरा करें: बूढ़ा आदमी _ के साथ चल रहा था।"
+    },
+    "options": {
+      "en": ["cane", "crutch", "stick", "all of the above"],
+      "hi": ["cane", "crutch", "stick", "all of the above"]
+    },
+    "answer": {
+      "en": "cane",
+      "hi": "cane"
+    }
+  },
+  {
+    "id": 300,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Five friends—A, B, C, D, E—are sitting in a row. A is to the immediate right of B. D is not at either end. C is to the left of B. E is at the far right end. Who is sitting in the middle?",
+      "hi": "पाँच दोस्त—A, B, C, D, E—एक पंक्ति में बैठे हैं। A, B के तुरंत दाईं ओर है। D किसी भी छोर पर नहीं है। C, B के बाईं ओर है। E सबसे दाईं ओर है। बीच में कौन बैठा है?"
+    },
+    "options": {
+      "en": ["A", "B", "C", "D"],
+      "hi": ["A", "B", "C", "D"]
+    },
+    "answer": {
+      "en": "A",
+      "hi": "A"
+    }
+  }
+,
+
+
+
+
+
+
+
+{
+    "id": 301,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Four books—Math, Science, History, and English—are on a shelf. The Math book is next to the English book. The History book is not at either end. The Science book is to the left of the Math book. Which book is at the far right end?",
+      "hi": "चार किताबें—गणित, विज्ञान, इतिहास, और अंग्रेजी—एक शेल्फ पर हैं। गणित की किताब अंग्रेजी की किताब के बगल में है। इतिहास की किताब किसी भी छोर पर नहीं है। विज्ञान की किताब गणित की किताब के बायें है। दायें छोर पर कौन सी किताब है?"
+    },
+    "options": {
+      "en": ["Math", "Science", "History", "English"],
+      "hi": ["गणित", "विज्ञान", "इतिहास", "अंग्रेजी"]
+    },
+    "answer": {
+      "en": "English",
+      "hi": "अंग्रेजी"
+    }
+  },
+  {
+    "id": 302,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "A, B, C, D, and E are five students in a class. B is taller than C but shorter than A. D is shorter than C. E is taller than A. Who is the tallest?",
+      "hi": "A, B, C, D, और E एक कक्षा के पाँच छात्र हैं। B, C से लंबा है लेकिन A से छोटा है। D, C से छोटा है। E, A से लंबा है। सबसे लंबा कौन है?"
+    },
+    "options": {
+      "en": ["A", "B", "C", "D", "E"],
+      "hi": ["A", "B", "C", "D", "E"]
+    },
+    "answer": {
+      "en": "E",
+      "hi": "E"
+    }
+  },
+  {
+    "id": 303,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Six people—P, Q, R, S, T, U—are standing in a line. Q is second from the right end. S is to the immediate left of Q. T is to the right of P, but to the left of Q. R is third from the left end. Who is standing at the far left end?",
+      "hi": "छह लोग—P, Q, R, S, T, U—एक पंक्ति में खड़े हैं। Q दायें छोर से दूसरा है। S, Q के ठीक बायें है। T, P के दायें है, लेकिन Q के बायें है। R बायें छोर से तीसरा है। बायें छोर पर कौन खड़ा है?"
+    },
+    "options": {
+      "en": ["P", "Q", "R", "S"],
+      "hi": ["P", "Q", "R", "S"]
+    },
+    "answer": {
+      "en": "U",
+      "hi": "U"
+    }
+  },
+  {
+    "id": 304,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "In a family, there are two fathers, two mothers, three sons, and one grandfather. What is the minimum number of people in this family?",
+      "hi": "एक परिवार में, दो पिता, दो माताएँ, तीन बेटे और एक दादा हैं। इस परिवार में न्यूनतम कितने लोग हैं?"
+    },
+    "options": {
+      "en": ["4", "5", "6", "7"],
+      "hi": ["4", "5", "6", "7"]
+    },
+    "answer": {
+      "en": "5",
+      "hi": "5"
+    }
+  },
+  {
+    "id": 305,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five colors—Red, Blue, Green, Yellow, Orange—are arranged in a sequence. Green is between Red and Yellow. Blue is to the immediate left of Green. Orange is at the far right. What is the order of the colors from left to right?",
+      "hi": "पाँच रंग—लाल, नीला, हरा, पीला, नारंगी—एक क्रम में व्यवस्थित हैं। हरा, लाल और पीले के बीच में है। नीला, हरे के ठीक बायें है। नारंगी दायें छोर पर है। बाएं से दाएं रंगों का क्रम क्या है?"
+    },
+    "options": {
+      "en": ["Blue, Green, Yellow, Red, Orange", "Red, Blue, Green, Yellow, Orange", "Blue, Red, Green, Yellow, Orange", "Green, Blue, Red, Yellow, Orange"],
+      "hi": ["नीला, हरा, पीला, लाल, नारंगी", "लाल, नीला, हरा, पीला, नारंगी", "नीला, लाल, हरा, पीला, नारंगी", "हरा, नीला, लाल, पीला, नारंगी"]
+    },
+    "answer": {
+      "en": "Blue, Red, Green, Yellow, Orange",
+      "hi": "नीला, लाल, हरा, पीला, नारंगी"
+    }
+  },
+  {
+    "id": 306,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Four items—A, B, C, D—are in a box. A is heavier than B. C is lighter than D. B is heavier than D. Which item is the heaviest?",
+      "hi": "चार वस्तुएँ—A, B, C, D—एक डिब्बे में हैं। A, B से भारी है। C, D से हल्का है। B, D से भारी है। कौन सी वस्तु सबसे भारी है?"
+    },
+    "options": {
+      "en": ["A", "B", "C", "D"],
+      "hi": ["A", "B", "C", "D"]
+    },
+    "answer": {
+      "en": "A",
+      "hi": "A"
+    }
+  },
+  {
+    "id": 307,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Six houses—H1, H2, H3, H4, H5, H6—are in a row. H2 is to the left of H4. H3 is at the far right. H1 is between H2 and H3. H6 is to the right of H5. H5 is to the immediate right of H4. What is the order of the houses from left to right?",
+      "hi": "छह घर—H1, H2, H3, H4, H5, H6—एक पंक्ति में हैं। H2, H4 के बायें है। H3 दायें छोर पर है। H1, H2 और H3 के बीच में है। H6, H5 के दायें है। H5, H4 के ठीक दायें है। बाएं से दाएं घरों का क्रम क्या है?"
+    },
+    "options": {
+      "en": ["H2, H4, H5, H6, H1, H3", "H4, H2, H1, H3, H5, H6", "H2, H1, H3, H4, H5, H6", "H2, H4, H5, H6, H1, H3"],
+      "hi": ["H2, H4, H5, H6, H1, H3", "H4, H2, H1, H3, H5, H6", "H2, H1, H3, H4, H5, H6", "H2, H4, H5, H6, H1, H3"]
+    },
+    "answer": {
+      "en": "H2, H4, H5, H6, H1, H3",
+      "hi": "H2, H4, H5, H6, H1, H3"
+    }
+  },
+  {
+    "id": 308,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Six friends—G, H, I, J, K, L—are sitting around a circular table. G is sitting to the immediate right of H. I is sitting opposite J. K is to the immediate left of G. Who is sitting opposite L?",
+      "hi": "छह दोस्त—G, H, I, J, K, L—एक गोल मेज के चारों ओर बैठे हैं। G, H के ठीक दायें बैठा है। I, J के विपरीत बैठा है। K, G के ठीक बायें है। L के विपरीत कौन बैठा है?"
+    },
+    "options": {
+      "en": ["G", "H", "I", "J"],
+      "hi": ["G", "H", "I", "J"]
+    },
+    "answer": {
+      "en": "K",
+      "hi": "K"
+    }
+  },
+  {
+    "id": 309,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five students—P, Q, R, S, T—have different scores in a test. P scored higher than R. S scored lower than Q. R scored higher than Q. T scored the lowest. Who scored the highest?",
+      "hi": "पाँच छात्रों—P, Q, R, S, T—के एक टेस्ट में अलग-अलग अंक हैं। P ने R से अधिक अंक प्राप्त किए। S ने Q से कम अंक प्राप्त किए। R ने Q से अधिक अंक प्राप्त किए। T ने सबसे कम अंक प्राप्त किए। सबसे अधिक अंक किसने प्राप्त किए?"
+    },
+    "options": {
+      "en": ["P", "Q", "R", "S"],
+      "hi": ["P", "Q", "R", "S"]
+    },
+    "answer": {
+      "en": "P",
+      "hi": "P"
+    }
+  },
+  {
+    "id": 310,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Seven people—A, B, C, D, E, F, G—are in a queue. A is behind B. C is in front of D. E is behind F. F is in front of A. G is at the end. B is behind E. Who is first in the queue?",
+      "hi": "सात लोग—A, B, C, D, E, F, G—एक कतार में हैं। A, B के पीछे है। C, D के सामने है। E, F के पीछे है। F, A के सामने है। G अंत में है। B, E के पीछे है। कतार में सबसे पहले कौन है?"
+    },
+    "options": {
+      "en": ["A", "B", "C", "D", "E"],
+      "hi": ["A", "B", "C", "D", "E"]
+    },
+    "answer": {
+      "en": "C",
+      "hi": "C"
+    }
+  },
+  {
+    "id": 311,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five cities—M, N, O, P, Q—are connected by roads. There is a road between M and N, N and O, O and P, and P and Q. There is no direct road between M and P. Which city must you pass through to get from M to P?",
+      "hi": "पाँच शहर—M, N, O, P, Q—सड़कों से जुड़े हैं। M और N, N और O, O और P, और P और Q के बीच एक सड़क है। M और P के बीच कोई सीधी सड़क नहीं है। M से P तक जाने के लिए आपको किस शहर से होकर गुजरना चाहिए?"
+    },
+    "options": {
+      "en": ["N", "O", "Q", "N and O"],
+      "hi": ["N", "O", "Q", "N और O"]
+    },
+    "answer": {
+      "en": "N and O",
+      "hi": "N और O"
+    }
+  },
+  {
+    "id": 312,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Four animals—Lion, Tiger, Bear, Wolf—are in four different cages. The Lion is not in the first cage. The Tiger is in the fourth cage. The Bear is in the third cage. Which cage is the Wolf in?",
+      "hi": "चार जानवर—शेर, बाघ, भालू, भेड़िया—चार अलग-अलग पिंजरों में हैं। शेर पहले पिंजरे में नहीं है। बाघ चौथे पिंजरे में है। भालू तीसरे पिंजरे में है। भेड़िया किस पिंजरे में है?"
+    },
+    "options": {
+      "en": ["First", "Second", "Third", "Fourth"],
+      "hi": ["पहला", "दूसरा", "तीसरा", "चौथा"]
+    },
+    "answer": {
+      "en": "First",
+      "hi": "पहला"
+    }
+  },
+  {
+    "id": 313,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Six people—A, B, C, D, E, F—are at a party. A and B are married. C is the son of A. D is the brother of B. E is the mother of C. F is the daughter of D. How is F related to C?",
+      "hi": "छह लोग—A, B, C, D, E, F—एक पार्टी में हैं। A और B शादीशुदा हैं। C, A का बेटा है। D, B का भाई है। E, C की माँ है। F, D की बेटी है। F, C से कैसे संबंधित है?"
+    },
+    "options": {
+      "en": ["Cousin", "Niece", "Aunt", "Sister"],
+      "hi": ["चचेरा भाई/बहन", "भतीजी", "चाची", "बहन"]
+    },
+    "answer": {
+      "en": "Cousin",
+      "hi": "चचेरा भाई/बहन"
+    }
+  },
+  {
+    "id": 314,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "In a parking lot, five cars—C1, C2, C3, C4, C5—are parked. C1 is to the left of C2. C3 is to the right of C4. C5 is between C2 and C3. C4 is at the far left. Which car is in the middle?",
+      "hi": "एक पार्किंग स्थल में, पाँच कारें—C1, C2, C3, C4, C5—खड़ी हैं। C1, C2 के बायें है। C3, C4 के दायें है। C5, C2 और C3 के बीच में है। C4 बायें छोर पर है। बीच में कौन सी कार है?"
+    },
+    "options": {
+      "en": ["C1", "C2", "C3", "C5"],
+      "hi": ["C1", "C2", "C3", "C5"]
+    },
+    "answer": {
+      "en": "C5",
+      "hi": "C5"
+    }
+  },
+  {
+    "id": 315,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five students—P, Q, R, S, T—are of different ages. P is older than Q. R is younger than S. T is older than R but younger than Q. Who is the youngest?",
+      "hi": "पाँच छात्र—P, Q, R, S, T—अलग-अलग उम्र के हैं। P, Q से बड़ा है। R, S से छोटा है। T, R से बड़ा है लेकिन Q से छोटा है। सबसे छोटा कौन है?"
+    },
+    "options": {
+      "en": ["P", "Q", "R", "S", "T"],
+      "hi": ["P", "Q", "R", "S", "T"]
+    },
+    "answer": {
+      "en": "S",
+      "hi": "S"
+    }
+  },
+  {
+    "id": 316,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Four cities—A, B, C, D—are in a row. A is next to B. C is not next to D. The order is either A, B, C, D or D, B, A, C. What is the order?",
+      "hi": "चार शहर—A, B, C, D—एक पंक्ति में हैं। A, B के बगल में है। C, D के बगल में नहीं है। क्रम या तो A, B, C, D है या D, B, A, C है। क्रम क्या है?"
+    },
+    "options": {
+      "en": ["A, B, C, D", "D, C, B, A", "D, B, C, A", "Cannot be determined"],
+      "hi": ["A, B, C, D", "D, C, B, A", "D, B, C, A", "निर्धारित नहीं किया जा सकता"]
+    },
+    "answer": {
+      "en": "D, C, B, A",
+      "hi": "D, C, B, A"
+    }
+  },
+  {
+    "id": 317,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Six friends—U, V, W, X, Y, Z—are sitting in a row. U is at the far right. W is to the immediate left of V. Y is to the immediate right of Z. Z is to the immediate left of W. Who is sitting in the middle two positions?",
+      "hi": "छह दोस्त—U, V, W, X, Y, Z—एक पंक्ति में बैठे हैं। U दायें छोर पर है। W, V के ठीक बायें है। Y, Z के ठीक दायें है। Z, W के ठीक बायें है। बीच की दो स्थितियों में कौन बैठा है?"
+    },
+    "options": {
+      "en": ["W and Y", "Z and W", "X and Y", "Y and W"],
+      "hi": ["W और Y", "Z और W", "X और Y", "Y और W"]
+    },
+    "answer": {
+      "en": "Z and W",
+      "hi": "Z और W"
+    }
+  },
+  {
+    "id": 318,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five houses—Red, Blue, Green, Yellow, Orange—are in a row. The Red house is next to the Green house. The Yellow house is not at either end. The Blue house is to the left of the Red house. The Orange house is at the far right. Which house is in the middle?",
+      "hi": "पाँच घर—लाल, नीला, हरा, पीला, नारंगी—एक पंक्ति में हैं। लाल घर हरे घर के बगल में है। पीला घर किसी भी छोर पर नहीं है। नीला घर लाल घर के बायें है। नारंगी घर दायें छोर पर है। बीच में कौन सा घर है?"
+    },
+    "options": {
+      "en": ["Red", "Blue", "Green", "Yellow"],
+      "hi": ["लाल", "नीला", "हरा", "पीला"]
+    },
+    "answer": {
+      "en": "Green",
+      "hi": "हरा"
+    }
+  },
+  {
+    "id": 319,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five people—P, Q, R, S, T—are of different weights. P is heavier than Q. R is lighter than S. T is heavier than R but lighter than Q. Who is the heaviest?",
+      "hi": "पाँच लोग—P, Q, R, S, T—अलग-अलग वजन के हैं। P, Q से भारी है। R, S से हल्का है। T, R से भारी है लेकिन Q से हल्का है। सबसे भारी कौन है?"
+    },
+    "options": {
+      "en": ["P", "Q", "R", "S", "T"],
+      "hi": ["P", "Q", "R", "S", "T"]
+    },
+    "answer": {
+      "en": "P",
+      "hi": "P"
+    }
+  },
+  {
+    "id": 320,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Six books—Physics, Chemistry, Biology, Math, History, English—are on a shelf. The Physics book is at the far left. The Biology book is not at either end. The Chemistry book is to the immediate right of the Physics book. The Math book is to the immediate left of the Biology book. The History book is at the far right. What is the order from left to right?",
+      "hi": "छह किताबें—भौतिकी, रसायन विज्ञान, जीव विज्ञान, गणित, इतिहास, अंग्रेजी—एक शेल्फ पर हैं। भौतिकी की किताब बायें छोर पर है। जीव विज्ञान की किताब किसी भी छोर पर नहीं है। रसायन विज्ञान की किताब भौतिकी की किताब के ठीक दायें है। गणित की किताब जीव विज्ञान की किताब के ठीक बायें है। इतिहास की किताब दायें छोर पर है। बाएं से दाएं क्रम क्या है?"
+    },
+    "options": {
+      "en": ["Physics, Chemistry, Math, Biology, English, History", "Physics, Chemistry, Biology, Math, English, History", "Physics, Math, Chemistry, Biology, History, English", "Physics, Chemistry, English, Biology, Math, History"],
+      "hi": ["भौतिकी, रसायन, गणित, जीव विज्ञान, अंग्रेजी, इतिहास", "भौतिकी, रसायन, जीव विज्ञान, गणित, अंग्रेजी, इतिहास", "भौतिकी, गणित, रसायन, जीव विज्ञान, इतिहास, अंग्रेजी", "भौतिकी, रसायन, अंग्रेजी, जीव विज्ञान, गणित, इतिहास"]
+    },
+    "answer": {
+      "en": "Physics, Chemistry, Math, Biology, English, History",
+      "hi": "भौतिकी, रसायन, गणित, जीव विज्ञान, अंग्रेजी, इतिहास"
+    }
+  },
+  {
+    "id": 321,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "In a family, there are three fathers, two mothers, three sons, and one grandfather. What is the minimum number of people in this family?",
+      "hi": "एक परिवार में, तीन पिता, दो माताएँ, तीन बेटे और एक दादा हैं। इस परिवार में न्यूनतम कितने लोग हैं?"
+    },
+    "options": {
+      "en": ["6", "7", "8", "9"],
+      "hi": ["6", "7", "8", "9"]
+    },
+    "answer": {
+      "en": "6",
+      "hi": "6"
+    }
+  },
+  {
+    "id": 322,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five friends—A, B, C, D, E—are sitting around a circular table. A is to the immediate right of B. D is sitting opposite C. E is to the immediate left of C. Who is sitting opposite A?",
+      "hi": "पाँच दोस्त—A, B, C, D, E—एक गोल मेज के चारों ओर बैठे हैं। A, B के ठीक दायें है। D, C के विपरीत बैठा है। E, C के ठीक बायें है। A के विपरीत कौन बैठा है?"
+    },
+    "options": {
+      "en": ["B", "C", "D", "E"],
+      "hi": ["B", "C", "D", "E"]
+    },
+    "answer": {
+      "en": "D",
+      "hi": "D"
+    }
+  },
+  {
+    "id": 323,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Four animals—Cow, Goat, Pig, Sheep—are in four different pens. The Cow is not in the first pen. The Goat is in the third pen. The Pig is in the second pen. Which pen is the Sheep in?",
+      "hi": "चार जानवर—गाय, बकरी, सूअर, भेड़—चार अलग-अलग बाड़ों में हैं। गाय पहले बाड़े में नहीं है। बकरी तीसरे बाड़े में है। सूअर दूसरे बाड़े में है। भेड़ किस बाड़े में है?"
+    },
+    "options": {
+      "en": ["First", "Second", "Third", "Fourth"],
+      "hi": ["पहला", "दूसरा", "तीसरा", "चौथा"]
+    },
+    "answer": {
+      "en": "First",
+      "hi": "पहला"
+    }
+  },
+  {
+    "id": 324,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Six people—P, Q, R, S, T, U—are standing in a line. P is at the far left. T is to the immediate right of P. Q is between T and R. S is to the left of U, but to the right of R. Who is standing at the far right end?",
+      "hi": "छह लोग—P, Q, R, S, T, U—एक पंक्ति में खड़े हैं। P बायें छोर पर है। T, P के ठीक दायें है। Q, T और R के बीच में है। S, U के बायें है, लेकिन R के दायें है। दायें छोर पर कौन खड़ा है?"
+    },
+    "options": {
+      "en": ["S", "T", "U", "Q"],
+      "hi": ["S", "T", "U", "Q"]
+    },
+    "answer": {
+      "en": "U",
+      "hi": "U"
+    }
+  },
+  {
+    "id": 325,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five cars—Red, Blue, Green, Yellow, Orange—are parked in a row. The Red car is to the right of the Green car. The Yellow car is to the left of the Blue car. The Orange car is at the far left. The Green car is at the far right. What is the order of the cars from left to right?",
+      "hi": "पाँच कारें—लाल, नीला, हरा, पीला, नारंगी—एक पंक्ति में खड़ी हैं। लाल कार हरी कार के दायें है। पीली कार नीली कार के बायें है। नारंगी कार बायें छोर पर है। हरी कार दायें छोर पर है। बाएं से दाएं कारों का क्रम क्या है?"
+    },
+    "options": {
+      "en": ["Orange, Yellow, Blue, Red, Green", "Orange, Blue, Yellow, Red, Green", "Orange, Yellow, Blue, Green, Red", "Yellow, Blue, Orange, Red, Green"],
+      "hi": ["नारंगी, पीली, नीली, लाल, हरी", "नारंगी, नीली, पीली, लाल, हरी", "नारंगी, पीली, नीली, हरी, लाल", "पीली, नीली, नारंगी, लाल, हरी"]
+    },
+    "answer": {
+      "en": "Orange, Yellow, Blue, Red, Green",
+      "hi": "नारंगी, पीली, नीली, लाल, हरी"
+    }
+  },
+  {
+    "id": 326,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Four boxes—B1, B2, B3, B4—are stacked. B1 is heavier than B2. B3 is lighter than B4. B2 is heavier than B4. Which box is the lightest?",
+      "hi": "चार बक्से—B1, B2, B3, B4—ढेर लगे हैं। B1, B2 से भारी है। B3, B4 से हल्का है। B2, B4 से भारी है। कौन सा बक्सा सबसे हल्का है?"
+    },
+    "options": {
+      "en": ["B1", "B2", "B3", "B4"],
+      "hi": ["B1", "B2", "B3", "B4"]
+    },
+    "answer": {
+      "en": "B3",
+      "hi": "B3"
+    }
+  },
+  {
+    "id": 327,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five friends—A, B, C, D, E—are sitting in a row. A is at the far left. B is to the immediate right of A. C is between B and D. E is to the immediate right of D. Who is at the far right?",
+      "hi": "पाँच दोस्त—A, B, C, D, E—एक पंक्ति में बैठे हैं। A बायें छोर पर है। B, A के ठीक दायें है। C, B और D के बीच में है। E, D के ठीक दायें है। दायें छोर पर कौन है?"
+    },
+    "options": {
+      "en": ["B", "C", "D", "E"],
+      "hi": ["B", "C", "D", "E"]
+    },
+    "answer": {
+      "en": "E",
+      "hi": "E"
+    }
+  },
+  {
+    "id": 328,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Six people—G, H, I, J, K, L—are sitting around a circular table. I is sitting to the immediate right of H. J is sitting opposite K. L is to the immediate left of I. Who is sitting opposite G?",
+      "hi": "छह लोग—G, H, I, J, K, L—एक गोल मेज के चारों ओर बैठे हैं। I, H के ठीक दायें बैठा है। J, K के विपरीत बैठा है। L, I के ठीक बायें है। G के विपरीत कौन बैठा है?"
+    },
+    "options": {
+      "en": ["H", "J", "K", "L"],
+      "hi": ["H", "J", "K", "L"]
+    },
+    "answer": {
+      "en": "J",
+      "hi": "J"
+    }
+  },
+
+
+
+  {
+    "id": 329,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Four books—P, Q, R, S—are on a shelf. P is to the right of Q. R is to the left of S. The order is P, Q, R, S. Is this statement true or false?",
+      "hi": "चार किताबें—P, Q, R, S—एक शेल्फ पर हैं। P, Q के दाईं ओर है। R, S के बाईं ओर है। क्रम P, Q, R, S है। क्या यह कथन सही है या गलत?"
+    },
+    "options": {
+      "en": ["True", "False"],
+      "hi": ["सही", "गलत"]
+    },
+    "answer": {
+      "en": "False",
+      "hi": "गलत"
+    }
+  },
+  {
+    "id": 330,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five students—A, B, C, D, E—have different scores. A scored higher than C. B scored lower than E. D scored higher than A. E scored lower than D. Who scored the highest?",
+      "hi": "पाँच छात्र—A, B, C, D, E—के अलग-अलग अंक हैं। A ने C से अधिक अंक पाए। B ने E से कम अंक पाए। D ने A से अधिक अंक पाए। E ने D से कम अंक पाए। सबसे अधिक अंक किसने पाए?"
+    },
+    "options": {
+      "en": ["A", "B", "C", "D", "E"],
+      "hi": ["A", "B", "C", "D", "E"]
+    },
+    "answer": {
+      "en": "D",
+      "hi": "D"
+    }
+  },
+  {
+    "id": 331,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Four people—W, X, Y, Z—are in a queue. W is in front of X. Y is behind W. Z is in front of Y. Who is last in the queue?",
+      "hi": "चार लोग—W, X, Y, Z—एक कतार में हैं। W, X के सामने है। Y, W के पीछे है। Z, Y के सामने है। कतार में आखिरी कौन है?"
+    },
+    "options": {
+      "en": ["W", "X", "Y", "Z"],
+      "hi": ["W", "X", "Y", "Z"]
+    },
+    "answer": {
+      "en": "X",
+      "hi": "X"
+    }
+  },
+  {
+    "id": 332,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Three animals—Lion, Tiger, Bear—are in a row. The Tiger is between the Lion and the Bear. What is the order?",
+      "hi": "तीन जानवर—सिंह, बाघ, भालू—एक कतार में हैं। बाघ, सिंह और भालू के बीच है। क्रम क्या है?"
+    },
+    "options": {
+      "en": ["Lion, Tiger, Bear", "Tiger, Lion, Bear", "Bear, Tiger, Lion", "Both A and C are possible"],
+      "hi": ["सिंह, बाघ, भालू", "बाघ, सिंह, भालू", "भालू, बाघ, सिंह", "A और C दोनों संभव हैं"]
+    },
+    "answer": {
+      "en": "Both A and C are possible",
+      "hi": "A और C दोनों संभव हैं"
+    }
+  },
+  {
+    "id": 333,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Six friends—P, Q, R, S, T, U—are sitting in a row. P is at the far left. Q is to the immediate right of P. R is to the immediate left of S. S is to the left of T. T is to the left of U. Who is at the far right?",
+      "hi": "छह मित्र—P, Q, R, S, T, U—एक कतार में बैठे हैं। P सबसे बाईं ओर है। Q, P के तुरंत दाईं ओर है। R, S के तुरंत बाईं ओर है। S, T के बाईं ओर है। T, U के बाईं ओर है। सबसे दाईं ओर कौन है?"
+    },
+    "options": {
+      "en": ["R", "S", "T", "U"],
+      "hi": ["R", "S", "T", "U"]
+    },
+    "answer": {
+      "en": "U",
+      "hi": "U"
+    }
+  },
+  {
+    "id": 334,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five colors—Red, Blue, Green, Yellow, Orange—are arranged in a sequence. Red is at the far left. Blue is to the immediate right of Red. Green is not at the far right. Orange is between Green and Yellow. What is the order?",
+      "hi": "पाँच रंग—लाल, नीला, हरा, पीला, नारंगी—एक क्रम में व्यवस्थित हैं। लाल सबसे बाईं ओर है। नीला लाल के तुरंत दाईं ओर है। हरा सबसे दाईं ओर नहीं है। नारंगी, हरे और पीले के बीच है। क्रम क्या है?"
+    },
+    "options": {
+      "en": ["Red, Blue, Green, Orange, Yellow", "Red, Blue, Orange, Yellow, Green", "Red, Green, Blue, Yellow, Orange", "Red, Blue, Orange, Green, Yellow"],
+      "hi": ["लाल, नीला, हरा, नारंगी, पीला", "लाल, नीला, नारंगी, पीला, हरा", "लाल, हरा, नीला, पीला, नारंगी", "लाल, नीला, नारंगी, हरा, पीला"]
+    },
+    "answer": {
+      "en": "Red, Blue, Green, Orange, Yellow",
+      "hi": "लाल, नीला, हरा, नारंगी, पीला"
+    }
+  },
+  {
+    "id": 335,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Four items—A, B, C, D—are of different weights. A is heavier than C. B is lighter than D. C is heavier than D. Which item is the lightest?",
+      "hi": "चार वस्तुएँ—A, B, C, D—विभिन्न वजन की हैं। A, C से भारी है। B, D से हल्का है। C, D से भारी है। सबसे हल्की वस्तु कौन सी है?"
+    },
+    "options": {
+      "en": ["A", "B", "C", "D"],
+      "hi": ["A", "B", "C", "D"]
+    },
+    "answer": {
+      "en": "B",
+      "hi": "B"
+    }
+  },
+  {
+    "id": 336,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Six people—A, B, C, D, E, F—are at a party. A and B are brothers. C is the son of A. D is the sister of B. E is the mother of C. F is the daughter of D. Who is the mother of F?",
+      "hi": "छह लोग—A, B, C, D, E, F—एक पार्टी में हैं। A और B भाई हैं। C, A का बेटा है। D, B की बहन है। E, C की मां है। F, D की बेटी है। F की मां कौन है?"
+    },
+    "options": {
+      "en": ["A", "B", "D", "E"],
+      "hi": ["A", "B", "D", "E"]
+    },
+    "answer": {
+      "en": "D",
+      "hi": "D"
+    }
+  },
+  {
+    "id": 337,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Five houses—H1, H2, H3, H4, H5—are in a row. H1 is at the far left. H2 is to the right of H3. H4 is to the right of H5. The order is H1, H3, H2, H5, H4. Is this a valid order?",
+      "hi": "पाँच घर—H1, H2, H3, H4, H5—एक कतार में हैं। H1 सबसे बाईं ओर है। H2, H3 के दाईं ओर है। H4, H5 के दाईं ओर है। क्रम H1, H3, H2, H5, H4 सही है या नहीं?"
+    },
+    "options": {
+      "en": ["Yes", "No"],
+      "hi": ["हाँ", "नहीं"]
+    },
+    "answer": {
+      "en": "Yes",
+      "hi": "हाँ"
+    }
+  },
+  {
+    "id": 338,
+    "category": "Analytical Reasoning",
+    "question": {
+      "en": "Six friends—U, V, W, X, Y, Z—are sitting in a row. V is to the immediate right of U. X is to the immediate left of Y. Y is between W and V. Z is at the far left. Who is at the far right?",
+      "hi": "छह मित्र—U, V, W, X, Y, Z—एक कतार में बैठे हैं। V, U के तुरंत दाईं ओर है। X, Y के तुरंत बाईं ओर है। Y, W और V के बीच है। Z सबसे बाईं ओर है। सबसे दाईं ओर कौन है?"
+    },
+    "options": {
+      "en": ["U", "V", "W", "X", "Y", "Z"],
+      "hi": ["U", "V", "W", "X", "Y", "Z"]
+    },
+    "answer": {
+      "en": "X",
+      "hi": "X"
+    }
+  }
+,
+
+  {
+    "id": 352,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the next number in the series: 3, 6, 12, 24, ?",
+      "hi": "श्रृंखला में अगला अंक क्या है: 3, 6, 12, 24, ?"
+    },
+    "options": {
+      "en": ["36", "48", "40", "52"],
+      "hi": ["36", "48", "40", "52"]
+    },
+    "answer": {
+      "en": "48",
+      "hi": "48"
+    }
+  },
+  {
+    "id": 353,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the missing number in the series: 10, 8, 6, ?, 2",
+      "hi": "श्रृंखला में लापता अंक क्या है: 10, 8, 6, ?, 2"
+    },
+    "options": {
+      "en": ["3", "4", "5", "7"],
+      "hi": ["3", "4", "5", "7"]
+    },
+    "answer": {
+      "en": "4",
+      "hi": "4"
+    }
+  },
+  {
+    "id": 354,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the next number: 5, 10, 15, 20, ?",
+      "hi": "अगला अंक क्या है: 5, 10, 15, 20, ?"
+    },
+    "options": {
+      "en": ["22", "24", "25", "30"],
+      "hi": ["22", "24", "25", "30"]
+    },
+    "answer": {
+      "en": "25",
+      "hi": "25"
+    }
+  },
+  {
+    "id": 355,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the next number in the series: 1, 4, 9, 16, ?",
+      "hi": "श्रृंखला में अगला अंक क्या है: 1, 4, 9, 16, ?"
+    },
+    "options": {
+      "en": ["20", "25", "36", "30"],
+      "hi": ["20", "25", "36", "30"]
+    },
+    "answer": {
+      "en": "25",
+      "hi": "25"
+    }
+  },
+  {
+    "id": 356,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the missing number in the series: 5, 50, ?, 5000, 50000",
+      "hi": "श्रृंखला में लापता अंक क्या है: 5, 50, ?, 5000, 50000"
+    },
+    "options": {
+      "en": ["500", "5000", "50", "100"],
+      "hi": ["500", "5000", "50", "100"]
+    },
+    "answer": {
+      "en": "500",
+      "hi": "500"
+    }
+  },
+  {
+    "id": 357,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the next number: 1, 1, 2, 3, 5, 8, ?",
+      "hi": "अगला अंक क्या है: 1, 1, 2, 3, 5, 8, ?"
+    },
+    "options": {
+      "en": ["11", "12", "13", "14"],
+      "hi": ["11", "12", "13", "14"]
+    },
+    "answer": {
+      "en": "13",
+      "hi": "13"
+    }
+  },
+  {
+    "id": 358,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the next number in the series: 7, 14, 21, 28, ?",
+      "hi": "श्रृंखला में अगला अंक क्या है: 7, 14, 21, 28, ?"
+    },
+    "options": {
+      "en": ["32", "34", "35", "36"],
+      "hi": ["32", "34", "35", "36"]
+    },
+    "answer": {
+      "en": "35",
+      "hi": "35"
+    }
+  },
+  {
+    "id": 359,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the missing number in the series: 1, 8, 27, ?, 125",
+      "hi": "श्रृंखला में लापता अंक क्या है: 1, 8, 27, ?, 125"
+    },
+    "options": {
+      "en": ["36", "49", "64", "81"],
+      "hi": ["36", "49", "64", "81"]
+    },
+    "answer": {
+      "en": "64",
+      "hi": "64"
+    }
+  },
+  {
+    "id": 360,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the next number: 100, 90, 80, 70, ?",
+      "hi": "अगला अंक क्या है: 100, 90, 80, 70, ?"
+    },
+    "options": {
+      "en": ["50", "55", "60", "65"],
+      "hi": ["50", "55", "60", "65"]
+    },
+    "answer": {
+      "en": "60",
+      "hi": "60"
+    }
+  },
+  {
+    "id": 361,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the next number in the series: 2, 5, 10, 17, ?",
+      "hi": "श्रृंखला में अगला अंक क्या है: 2, 5, 10, 17, ?"
+    },
+    "options": {
+      "en": ["24", "25", "26", "27"],
+      "hi": ["24", "25", "26", "27"]
+    },
+    "answer": {
+      "en": "26",
+      "hi": "26"
+    }
+  },
+  {
+    "id": 362,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the missing number in the series: 1, 3, 7, 15, ?",
+      "hi": "श्रृंखला में लापता अंक क्या है: 1, 3, 7, 15, ?"
+    },
+    "options": {
+      "en": ["21", "25", "31", "33"],
+      "hi": ["21", "25", "31", "33"]
+    },
+    "answer": {
+      "en": "31",
+      "hi": "31"
+    }
+  },
+  {
+    "id": 363,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the next number: 1, 2, 4, 8, 16, ?",
+      "hi": "अगला अंक क्या है: 1, 2, 4, 8, 16, ?"
+    },
+    "options": {
+      "en": ["24", "30", "32", "36"],
+      "hi": ["24", "30", "32", "36"]
+    },
+    "answer": {
+      "en": "32",
+      "hi": "32"
+    }
+  },
+  {
+    "id": 364,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the next number in the series: 20, 19, 17, 14, 10, ?",
+      "hi": "श्रृंखला में अगला अंक क्या है: 20, 19, 17, 14, 10, ?"
+    },
+    "options": {
+      "en": ["5", "6", "7", "8"],
+      "hi": ["5", "6", "7", "8"]
+    },
+    "answer": {
+      "en": "5",
+      "hi": "5"
+    }
+  },
+  {
+    "id": 365,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the missing number in the series: 1, 2, 3, 5, 8, ?",
+      "hi": "श्रृंखला में लापता अंक क्या है: 1, 2, 3, 5, 8, ?"
+    },
+    "options": {
+      "en": ["10", "11", "12", "13"],
+      "hi": ["10", "11", "12", "13"]
+    },
+    "answer": {
+      "en": "13",
+      "hi": "13"
+    }
+  },
+  {
+    "id": 366,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the next number: 2, 3, 5, 7, 11, ?",
+      "hi": "अगला अंक क्या है: 2, 3, 5, 7, 11, ?"
+    },
+    "options": {
+      "en": ["12", "13", "14", "15"],
+      "hi": ["12", "13", "14", "15"]
+    },
+    "answer": {
+      "en": "13",
+      "hi": "13"
+    }
+  },
+  {
+    "id": 367,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the next number in the series: 1, 3, 6, 10, 15, ?",
+      "hi": "श्रृंखला में अगला अंक क्या है: 1, 3, 6, 10, 15, ?"
+    },
+    "options": {
+      "en": ["18", "20", "21", "22"],
+      "hi": ["18", "20", "21", "22"]
+    },
+    "answer": {
+      "en": "21",
+      "hi": "21"
+    }
+  },
+  {
+    "id": 368,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the missing number in the series: 2, 4, 8, 16, ?, 64",
+      "hi": "श्रृंखला में लापता अंक क्या है: 2, 4, 8, 16, ?, 64"
+    },
+    "options": {
+      "en": ["24", "32", "48", "56"],
+      "hi": ["24", "32", "48", "56"]
+    },
+    "answer": {
+      "en": "32",
+      "hi": "32"
+    }
+  },
+  {
+    "id": 369,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the next number: 1, 4, 27, 256, ?",
+      "hi": "अगला अंक क्या है: 1, 4, 27, 256, ?"
+    },
+    "options": {
+      "en": ["1024", "3125", "4096", "5120"],
+      "hi": ["1024", "3125", "4096", "5120"]
+    },
+    "answer": {
+      "en": "3125",
+      "hi": "3125"
+    }
+  },
+  {
+    "id": 370,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the next number in the series: 10, 20, 30, 40, ?",
+      "hi": "श्रृंखला में अगला अंक क्या है: 10, 20, 30, 40, ?"
+    },
+    "options": {
+      "en": ["45", "50", "60", "70"],
+      "hi": ["45", "50", "60", "70"]
+    },
+    "answer": {
+      "en": "50",
+      "hi": "50"
+    }
+  },
+  {
+    "id": 371,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the missing number in the series: 2, 6, 12, 20, ?, 42",
+      "hi": "श्रृंखला में लापता अंक क्या है: 2, 6, 12, 20, ?, 42"
+    },
+    "options": {
+      "en": ["28", "30", "32", "36"],
+      "hi": ["28", "30", "32", "36"]
+    },
+    "answer": {
+      "en": "30",
+      "hi": "30"
+    }
+  },
+  {
+    "id": 372,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the next number: 1, 8, 9, 64, 25, ?",
+      "hi": "अगला अंक क्या है: 1, 8, 9, 64, 25, ?"
+    },
+    "options": {
+      "en": ["125", "216", "256", "343"],
+      "hi": ["125", "216", "256", "343"]
+    },
+    "answer": {
+      "en": "216",
+      "hi": "216"
+    }
+  },
+  {
+    "id": 373,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the next number in the series: 1, 3, 4, 7, 11, ?",
+      "hi": "श्रृंखला में अगला अंक क्या है: 1, 3, 4, 7, 11, ?"
+    },
+    "options": {
+      "en": ["15", "16", "17", "18"],
+      "hi": ["15", "16", "17", "18"]
+    },
+    "answer": {
+      "en": "18",
+      "hi": "18"
+    }
+  },
+  {
+    "id": 374,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "What is the missing number in the series: 1, 1, 2, 3, 5, ?, 13, 21",
+      "hi": "श्रृंखला में लापता अंक क्या है: 1, 1, 2, 3, 5, ?, 13, 21"
+    },
+    "options": {
+      "en": ["6", "7", "8", "9"],
+      "hi": ["6", "7", "8", "9"]
+    },
+    "answer": {
+      "en": "8",
+      "hi": "8"
+    }
+  },
+  {
+    "id": 375,
+    "category": "Logical Reasoning",
+    "question": {
+      "en": "Find the next number: 5, 10, 8, 16, 14, 28, ?",
+      "hi": "अगला अंक क्या है: 5, 10, 8, 16, 14, 28, ?"
+    },
+    "options": {
+      "en": ["26", "30", "32", "34"],
+      "hi": ["26", "30", "32", "34"]
+    },
+    "answer": {
+      "en": "26",
+      "hi": "26"
+    }
+  }
+  
+  
+
+
+
+
+
+  ]
+
+
+
+
+
+
+

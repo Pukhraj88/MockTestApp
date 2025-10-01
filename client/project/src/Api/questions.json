@@ -1,0 +1,3042 @@
+[
+
+{
+"id": 21,
+"category": "Logical Reasoning",
+"question": "Find the missing number in the series: 1, 3, 7, 13, 21, ?",
+"options": ["29", "31", "33", "35"],
+"answer": "31"
+},
+{
+"id": 22,
+"category": "Logical Reasoning",
+"question": "If 'EAT' is coded as '318', what is 'SIT' coded as?",
+"options": ["19920", "19918", "191020", "191920"],
+"answer": "19920"
+},
+{
+"id": 23,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Cow : Herd :: Fish : ?",
+"options": ["Pack", "School", "Swarm", "Flock"],
+"answer": "School"
+},
+{
+"id": 24,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Keyboard, Mouse, Monitor, Printer, CPU",
+"options": ["Keyboard", "Mouse", "Monitor", "Printer", "CPU"],
+"answer": "CPU"
+},
+{
+"id": 25,
+"category": "Logical Reasoning",
+"question": "In a certain code, 'RIVER' is written as 'REVIR'. How is 'OCEAN' written?",
+"options": ["NAECO", "NAECO", "NAOC", "NAOCE"],
+"answer": "NAECO"
+},
+{
+"id": 26,
+"category": "Logical Reasoning",
+"question": "If 'A' stands for addition, 'B' for subtraction, 'C' for multiplication, and 'D' for division, what is the value of 10C5A(6D3)?",
+"options": ["52", "54", "50", "48"],
+"answer": "52"
+},
+{
+"id": 27,
+"category": "Logical Reasoning",
+"question": "Find the missing number: 1, 8, 27, 64, ?",
+"options": ["100", "125", "144", "169"],
+"answer": "125"
+},
+{
+"id": 28,
+"category": "Logical Reasoning",
+"question": "A is the father of B. C is the daughter of A. D is the sister of B. How is D related to C?",
+"options": ["Sister", "Brother", "Daughter", "Mother"],
+"answer": "Sister"
+},
+{
+"id": 29,
+"category": "Logical Reasoning",
+"question": "Choose the odd one out: Ostrich, Penguin, Bat, Kiwi",
+"options": ["Ostrich", "Penguin", "Bat", "Kiwi"],
+"answer": "Bat"
+},
+{
+"id": 30,
+"category": "Logical Reasoning",
+"question": "Which letter replaces the question mark in the series: A, B, D, G, ?",
+"options": ["K", "L", "M", "N"],
+"answer": "K"
+},
+{
+"id": 31,
+"category": "Logical Reasoning",
+"question": "If the day before yesterday was Thursday, what will be the day after tomorrow?",
+"options": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+"answer": "Sunday"
+},
+{
+"id": 32,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Doctor : Hospital :: Teacher : ?",
+"options": ["School", "College", "University", "Student"],
+"answer": "School"
+},
+{
+"id": 33,
+"category": "Logical Reasoning",
+"question": "Find the missing number: 10, 100, 1000, ?",
+"options": ["10000", "100000", "1000000", "10000000"],
+"answer": "10000"
+},
+{
+"id": 34,
+"category": "Logical Reasoning",
+"question": "If 'GREEN' is coded as 'HFSFO', what is 'WHITE' coded as?",
+"options": ["XHJUF", "XIJUF", "XHIVF", "XIHVF"],
+"answer": "XHJUF"
+},
+{
+"id": 35,
+"category": "Logical Reasoning",
+"question": "Choose the odd one out: Triangle, Square, Pentagon, Hexagon, Circle",
+"options": ["Triangle", "Square", "Pentagon", "Hexagon", "Circle"],
+"answer": "Circle"
+},
+{
+"id": 36,
+"category": "Logical Reasoning",
+"question": "If A=1, B=2, C=3 and so on, what is the value of 'E+A+T'?",
+"options": ["24", "25", "26", "27"],
+"answer": "26"
+},
+{
+"id": 37,
+"category": "Logical Reasoning",
+"question": "If all dogs are loyal, and Max is a dog, which of the following statements is true?",
+"options": ["All loyal animals are dogs", "Max is loyal", "All dogs are Max", "Some dogs are not loyal"],
+"answer": "Max is loyal"
+},
+{
+"id": 38,
+"category": "Logical Reasoning",
+"question": "Find the next number in the series: 3, 5, 8, 12, ?",
+"options": ["15", "17", "18", "19"],
+"answer": "17"
+},
+{
+"id": 39,
+"category": "Logical Reasoning",
+"question": "In a family, there are a father, a mother, two sons, and two daughters. The two sons have one sister each. How many people are there in the family?",
+"options": ["6", "5", "7", "8"],
+"answer": "6"
+},
+{
+"id": 40,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Hand : Glove :: Foot : ?",
+"options": ["Shoe", "Sock", "Sandals", "Boot"],
+"answer": "Shoe"
+},
+{
+"id": 41,
+"category": "Logical Reasoning",
+"question": "If A is the brother of B, C is the son of A, and D is the wife of B, how is D related to C?",
+"options": ["Mother", "Aunt", "Sister", "Uncle"],
+"answer": "Aunt"
+},
+{
+"id": 42,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Mercury, Venus, Earth, Mars, Moon",
+"options": ["Mercury", "Venus", "Earth", "Mars", "Moon"],
+"answer": "Moon"
+},
+{
+"id": 43,
+"category": "Logical Reasoning",
+"question": "Which letter replaces the question mark in the series: Z, X, V, T, ?",
+"options": ["R", "S", "U", "V"],
+"answer": "R"
+},
+{
+"id": 44,
+"category": "Logical Reasoning",
+"question": "If 1 = 3, 2 = 3, 3 = 5, 4 = 4, 5 = 4, then 6 = ?",
+"options": ["3", "4", "5", "6"],
+"answer": "3"
+},
+{
+"id": 45,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Fire : Ash :: Explosion : ?",
+"options": ["Sound", "Debris", "Flame", "Heat"],
+"answer": "Debris"
+},
+{
+"id": 46,
+"category": "Logical Reasoning",
+"question": "In a race, Tom finished before John, and John finished before Peter. Who finished first?",
+"options": ["Tom", "John", "Peter", "Cannot be determined"],
+"answer": "Tom"
+},
+{
+"id": 47,
+"category": "Logical Reasoning",
+"question": "Which number is the odd one out: 12, 14, 16, 18, 20, 21",
+"options": ["12", "16", "20", "21"],
+"answer": "21"
+},
+{
+"id": 48,
+"category": "Logical Reasoning",
+"question": "If 'BIRD' is coded as 'CITE', what is 'LION' coded as?",
+"options": ["MIPQ", "MIPN", "MIPR", "MINP"],
+"answer": "MIPN"
+},
+{
+"id": 49,
+"category": "Logical Reasoning",
+"question": "If 'A' is twice as old as 'B', and 'C' is three years younger than 'B', who is the youngest?",
+"options": ["A", "B", "C", "Cannot be determined"],
+"answer": "C"
+},
+{
+"id": 50,
+"category": "Logical Reasoning",
+"question": "Which number comes next in the sequence: 5, 6, 8, 11, 15, ?",
+"options": ["18", "20", "22", "24"],
+"answer": "20"
+},
+{
+"id": 51,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Water : Ice :: Vapour : ?",
+"options": ["Liquid", "Steam", "Gas", "Cloud"],
+"answer": "Steam"
+},
+{
+"id": 52,
+"category": "Logical Reasoning",
+"question": "If 'CLOCK' is coded as '34235' and 'TIME' is coded as '8679', what is 'MOCK' coded as?",
+"options": ["7423", "7435", "7425", "7325"],
+"answer": "7425"
+},
+{
+"id": 53,
+"category": "Logical Reasoning",
+"question": "Which of the following does not belong: Red, Blue, Green, Yellow, Black",
+"options": ["Red", "Blue", "Green", "Yellow", "Black"],
+"answer": "Black"
+},
+{
+"id": 54,
+"category": "Logical Reasoning",
+"question": "Find the missing number in the series: 5, 25, 125, ?",
+"options": ["250", "625", "500", "750"],
+"answer": "625"
+},
+{
+"id": 55,
+"category": "Logical Reasoning",
+"question": "If a person is walking towards the East, and then turns right, in which direction are they facing now?",
+"options": ["North", "South", "East", "West"],
+"answer": "South"
+},
+{
+"id": 56,
+"category": "Logical Reasoning",
+"question": "If 'B' is the brother of 'C', 'C' is the sister of 'A', and 'D' is the father of 'A', how is 'B' related to 'D'?",
+"options": ["Son", "Daughter", "Father", "Grandson"],
+"answer": "Son"
+},
+{
+"id": 57,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Eye : See :: Ear : ?",
+"options": ["Hear", "Taste", "Smell", "Touch"],
+"answer": "Hear"
+},
+{
+"id": 58,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: 1, 8, 27, 36, 64",
+"options": ["1", "8", "27", "36", "64"],
+"answer": "36"
+},
+{
+"id": 59,
+"category": "Logical Reasoning",
+"question": "Which letter replaces the question mark in the series: A, E, I, O, ?",
+"options": ["U", "V", "W", "X"],
+"answer": "U"
+},
+{
+"id": 60,
+"category": "Logical Reasoning",
+"question": "If 'HOT' is coded as '26', and 'COLD' is coded as '34', what is 'WET' coded as?",
+"options": ["30", "32", "34", "36"],
+"answer": "30"
+},
+{
+"id": 61,
+"category": "Logical Reasoning",
+"question": "If 'SUN' is related to 'LIGHT', then 'MOON' is related to?",
+"options": ["NIGHT", "STARS", "DARKNESS", "TIDE"],
+"answer": "TIDE"
+},
+{
+"id": 62,
+"category": "Logical Reasoning",
+"question": "Complete the series: J, L, N, P, ?",
+"options": ["Q", "R", "S", "T"],
+"answer": "R"
+},
+{
+"id": 63,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Lion, Tiger, Elephant, Leopard, Panther",
+"options": ["Lion", "Tiger", "Elephant", "Leopard", "Panther"],
+"answer": "Elephant"
+},
+{
+"id": 64,
+"category": "Logical Reasoning",
+"question": "In a row of boys, A is 10th from the left and B is 9th from the right. If A and B interchange their positions, A becomes 15th from the left. How many boys are there in the row?",
+"options": ["21", "22", "23", "24"],
+"answer": "23"
+},
+{
+"id": 65,
+"category": "Logical Reasoning",
+"question": "If 'GOOD' is coded as '84', what is 'BAD' coded as?",
+"options": ["18", "16", "14", "20"],
+"answer": "14"
+},
+{
+"id": 66,
+"category": "Logical Reasoning",
+"question": "Which of the following is the odd one out: 4, 9, 16, 25, 30",
+"options": ["4", "9", "16", "25", "30"],
+"answer": "30"
+},
+{
+"id": 67,
+"category": "Logical Reasoning",
+"question": "If A's son is the father of B's son, how is B related to A?",
+"options": ["Brother", "Father", "Son", "Grandson"],
+"answer": "Brother"
+},
+{
+"id": 68,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Clock : Time :: Thermometer : ?",
+"options": ["Heat", "Temperature", "Scale", "Fever"],
+"answer": "Temperature"
+},
+{
+"id": 69,
+"category": "Logical Reasoning",
+"question": "Find the missing number: 2, 6, 12, 20, 30, ?",
+"options": ["36", "40", "42", "48"],
+"answer": "42"
+},
+{
+"id": 70,
+"category": "Logical Reasoning",
+"question": "If 'POND' is coded as 'RSQD', then 'LAKE' is coded as?",
+"options": ["NJLG", "NJLF", "MJLF", "MJLG"],
+"answer": "NJLG"
+},
+{
+"id": 71,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Earth, Jupiter, Saturn, Uranus, Sun",
+"options": ["Earth", "Jupiter", "Saturn", "Uranus", "Sun"],
+"answer": "Sun"
+},
+{
+"id": 72,
+"category": "Logical Reasoning",
+"question": "If 10 men can complete a job in 20 days, how many days will 20 men take to complete the same job?",
+"options": ["5", "10", "15", "20"],
+"answer": "10"
+},
+{
+"id": 73,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Water : Thirst :: Food : ?",
+"options": ["Hunger", "Taste", "Eat", "Stomach"],
+"answer": "Hunger"
+},
+{
+"id": 74,
+"category": "Logical Reasoning",
+"question": "Find the missing number: 1, 2, 3, 5, 8, ?",
+"options": ["11", "12", "13", "14"],
+"answer": "13"
+},
+{
+"id": 75,
+"category": "Logical Reasoning",
+"question": "If a person is walking towards the North, then turns left, then turns right, what direction are they facing?",
+"options": ["North", "South", "East", "West"],
+"answer": "North"
+},
+{
+"id": 76,
+"category": "Logical Reasoning",
+"question": "In a code language, 'EASY' is written as 'FVZ_'. What is the missing letter?",
+"options": ["X", "Z", "Y", "W"],
+"answer": "W"
+},
+{
+"id": 77,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Pen, Pencil, Crayon, Ink, Marker",
+"options": ["Pen", "Pencil", "Crayon", "Ink", "Marker"],
+"answer": "Ink"
+},
+{
+"id": 78,
+"category": "Logical Reasoning",
+"question": "If 'BOOK' is related to 'PAGES', then 'CAR' is related to?",
+"options": ["WHEELS", "ENGINE", "FUEL", "TIRES"],
+"answer": "ENGINE"
+},
+{
+"id": 79,
+"category": "Logical Reasoning",
+"question": "A is the son of B. C is the daughter of B. D is the mother of A. How is C related to D?",
+"options": ["Sister", "Daughter", "Granddaughter", "Niece"],
+"answer": "Daughter"
+},
+{
+"id": 80,
+"category": "Logical Reasoning",
+"question": "Find the missing number in the series: 3, 6, 10, 15, 21, ?",
+"options": ["28", "29", "30", "31"],
+"answer": "28"
+},
+{
+"id": 81,
+"category": "Logical Reasoning",
+"question": "If 'FROG' is written as 'FLOG', what is 'DUCK' written as?",
+"options": ["DUNK", "DOCK", "DACK", "DOCK"],
+"answer": "DUNK"
+},
+{
+"id": 82,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Chef : Kitchen :: Doctor : ?",
+"options": ["Patient", "Hospital", "Medicine", "Clinic"],
+"answer": "Hospital"
+},
+{
+"id": 83,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: 13, 17, 19, 21, 23",
+"options": ["13", "17", "19", "21", "23"],
+"answer": "21"
+},
+{
+"id": 84,
+"category": "Logical Reasoning",
+"question": "If 'TABLE' is coded as 'VCDNK', what is 'CHAIR' coded as?",
+"options": ["EJCKT", "EJCKP", "EJCKT", "EJCKP"],
+"answer": "EJCKT"
+},
+{
+"id": 85,
+"category": "Logical Reasoning",
+"question": "In a classroom of 30 students, 10 students like math, 15 students like science, and 5 students like both. How many students like neither math nor science?",
+"options": ["5", "10", "15", "20"],
+"answer": "10"
+},
+{
+"id": 86,
+"category": "Logical Reasoning",
+"question": "Complete the series: B, D, G, K, P, ?",
+"options": ["U", "V", "W", "X"],
+"answer": "W"
+},
+{
+"id": 87,
+"category": "Logical Reasoning",
+"question": "If 'LION' is coded as 'PMOS', what is 'TIGER' coded as?",
+"options": ["YJGHW", "YKHGT", "YJHGT", "YKHGW"],
+"answer": "YJHGT"
+},
+{
+"id": 88,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Square, Cube, Triangle, Rectangle",
+"options": ["Square", "Cube", "Triangle", "Rectangle"],
+"answer": "Cube"
+},
+{
+"id": 89,
+"category": "Logical Reasoning",
+"question": "If 'APPLE' is to 'FRUIT', then 'POTATO' is to?",
+"options": ["VEGETABLE", "ROOT", "PLANT", "FLOWER"],
+"answer": "VEGETABLE"
+},
+{
+"id": 90,
+"category": "Logical Reasoning",
+"question": "A is the father of B. B is the brother of C. C is the wife of D. How is D related to A?",
+"options": ["Son-in-law", "Daughter-in-law", "Son", "Father-in-law"],
+"answer": "Son-in-law"
+},
+{
+"id": 91,
+"category": "Logical Reasoning",
+"question": "Complete the series: 1, 2, 4, 7, 11, ?",
+"options": ["14", "15", "16", "17"],
+"answer": "16"
+},
+{
+"id": 92,
+"category": "Logical Reasoning",
+"question": "If '2' stands for 'P', '3' for 'Q', '4' for 'R', and '5' for 'S', what is '4325'?",
+"options": ["RQPS", "RPSQ", "SQPR", "PSQR"],
+"answer": "RQPS"
+},
+{
+"id": 93,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Sparrow, Crow, Eagle, Butterfly, Parrot",
+"options": ["Sparrow", "Crow", "Eagle", "Butterfly", "Parrot"],
+"answer": "Butterfly"
+},
+{
+"id": 94,
+"category": "Logical Reasoning",
+"question": "If 10 cats can catch 10 mice in 10 minutes, how many cats are needed to catch 100 mice in 100 minutes?",
+"options": ["10", "100", "20", "50"],
+"answer": "10"
+},
+{
+"id": 95,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Day : Night :: Black : ?",
+"options": ["Dark", "White", "Light", "Shadow"],
+"answer": "White"
+},
+{
+"id": 96,
+"category": "Logical Reasoning",
+"question": "Which number replaces the question mark: 5, 6, 9, 14, 21, ?",
+"options": ["30", "31", "32", "33"],
+"answer": "30"
+},
+{
+"id": 97,
+"category": "Logical Reasoning",
+"question": "If 'RAM' is coded as '27', and 'MAN' is coded as '28', what is 'BAT' coded as?",
+"options": ["23", "24", "25", "26"],
+"answer": "23"
+},
+
+{
+"id": 99,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Mumbai, Chennai, Kolkata, Delhi, Bangalore",
+"options": ["Mumbai", "Chennai", "Kolkata", "Delhi", "Bangalore"],
+"answer": "Delhi"
+},
+{
+"id": 100,
+"category": "Logical Reasoning",
+"question": "If all dogs are animals, and all animals are living beings, what can you conclude about all dogs?",
+"options": ["All dogs are living beings", "Some living beings are dogs", "All living beings are dogs", "Both A and B"],
+"answer": "Both A and B"
+},
+{
+"id": 101,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Pen : Write :: Book : ?",
+"options": ["Read", "Story", "Page", "Cover"],
+"answer": "Read"
+},
+{
+"id": 102,
+"category": "Logical Reasoning",
+"question": "Which number is missing in the series: 7, 14, 21, 28, ?",
+"options": ["30", "35", "42", "49"],
+"answer": "35"
+},
+{
+"id": 103,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Grapes, Apple, Banana, Potato",
+"options": ["Grapes", "Apple", "Banana", "Potato"],
+"answer": "Potato"
+},
+{
+"id": 104,
+"category": "Logical Reasoning",
+"question": "If 'KING' is coded as 'RFQJ', how is 'QUEEN' coded?",
+"options": ["RVFFO", "RVFFP", "RVFFO", "RVFGP"],
+"answer": "RVFFO"
+},
+{
+"id": 105,
+"category": "Logical Reasoning",
+"question": "Complete the series: 1, 1, 2, 3, 5, 8, ?",
+"options": ["11", "12", "13", "14"],
+"answer": "13"
+},
+{
+"id": 106,
+"category": "Logical Reasoning",
+"question": "If '2' means '1', and '4' means '3', then '6' means?",
+"options": ["5", "7", "8", "9"],
+"answer": "5"
+},
+{
+"id": 107,
+"category": "Logical Reasoning",
+"question": "In a family, there are three brothers, and each brother has a sister. How many sisters are there in the family?",
+"options": ["1", "2", "3", "4"],
+"answer": "1"
+},
+{
+"id": 108,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Chair, Table, Sofa, Lamp",
+"options": ["Chair", "Table", "Sofa", "Lamp"],
+"answer": "Lamp"
+},
+{
+"id": 109,
+"category": "Logical Reasoning",
+"question": "If 'APPLE' is coded as 'ELPPA', what is 'ORANGE' coded as?",
+"options": ["EGNARO", "EGNAO", "ENARO", "NRAEOG"],
+"answer": "EGNARO"
+},
+{
+"id": 110,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Heart : Circulation :: Lungs : ?",
+"options": ["Respiration", "Digestion", "Excretion", "Nervous"],
+"answer": "Respiration"
+},
+{
+"id": 111,
+"category": "Logical Reasoning",
+"question": "Find the missing number: 2, 5, 10, 17, ?",
+"options": ["24", "25", "26", "27"],
+"answer": "26"
+},
+{
+"id": 112,
+"category": "Logical Reasoning",
+"question": "If a person is 10 years older than their brother, and their brother is 5 years younger than their sister, who is the youngest?",
+"options": ["The person", "The brother", "The sister", "Cannot be determined"],
+"answer": "The brother"
+},
+{
+"id": 113,
+"category": "Logical Reasoning",
+"question": "Choose the odd one out: Car, Bicycle, Airplane, Motorcycle",
+"options": ["Car", "Bicycle", "Airplane", "Motorcycle"],
+"answer": "Airplane"
+},
+{
+"id": 114,
+"category": "Logical Reasoning",
+"question": "If 'SQUARE' is coded as 'TUVZBD', what is 'TRIANGLE' coded as?",
+"options": ["UVBHFU", "UVBHFV", "UVCGHV", "UVCGFW"],
+"answer": "UVCGFW"
+},
+{
+"id": 115,
+"category": "Logical Reasoning",
+"question": "Complete the series: A, C, F, J, ?",
+"options": ["N", "O", "P", "Q"],
+"answer": "O"
+},
+{
+"id": 116,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Gold, Silver, Iron, Diamond",
+"options": ["Gold", "Silver", "Iron", "Diamond"],
+"answer": "Diamond"
+},
+{
+"id": 117,
+"category": "Logical Reasoning",
+"question": "If A is the father of B, and B is the mother of C, how is C related to A?",
+"options": ["Son", "Daughter", "Grandson", "Granddaughter"],
+"answer": "Grandson"
+},
+{
+"id": 118,
+"category": "Logical Reasoning",
+"question": "If 'B' stands for '8', 'C' for '3', 'D' for '4', and 'E' for '5', what is 'CDEB'?",
+"options": ["3458", "3485", "3548", "3584"],
+"answer": "3458"
+},
+{
+"id": 119,
+"category": "Logical Reasoning",
+"question": "Find the missing number in the series: 1, 8, 27, 64, ?",
+"options": ["100", "125", "144", "169"],
+"answer": "125"
+},
+{
+"id": 120,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Tree : Forest :: Grass : ?",
+"options": ["Lawn", "Field", "Meadow", "Jungle"],
+"answer": "Lawn"
+},
+{
+"id": 121,
+"category": "Logical Reasoning",
+"question": "If 'PEAR' is coded as 'QFBS', what is 'APPLE' coded as?",
+"options": ["BQQM", "BQQPM", "BQQLM", "BQQML"],
+"answer": "BQQPM"
+},
+{
+"id": 122,
+"category": "Logical Reasoning",
+"question": "Which of the following is the odd one out: 2, 4, 6, 8, 9, 10",
+"options": ["2", "4", "6", "8", "9", "10"],
+"answer": "9"
+},
+{
+"id": 123,
+"category": "Logical Reasoning",
+"question": "If 5 + 3 = 16, and 8 + 4 = 24, then 10 + 2 = ?",
+"options": ["12", "18", "24", "30"],
+"answer": "24"
+},
+{
+"id": 124,
+"category": "Logical Reasoning",
+"question": "In a line of people, A is 10th from the front and B is 15th from the back. If there are 3 people between A and B, what is the total number of people in the line?",
+"options": ["28", "29", "30", "31"],
+"answer": "28"
+},
+{
+"id": 125,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Tailor : Clothes :: Carpenter : ?",
+"options": ["Furniture", "Wood", "Table", "House"],
+"answer": "Furniture"
+},
+{
+"id": 126,
+"category": "Logical Reasoning",
+"question": "If 'WATER' is coded as 'XBUFS', what is 'FIRE' coded as?",
+"options": ["GHQE", "GIRE", "GIQG", "GJSF"],
+"answer": "GIQG"
+},
+{
+"id": 127,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Carrot, Radish, Potato, Tomato, Ginger",
+"options": ["Carrot", "Radish", "Potato", "Tomato", "Ginger"],
+"answer": "Tomato"
+},
+{
+"id": 128,
+"category": "Logical Reasoning",
+"question": "Which number comes next in the sequence: 4, 16, 36, 64, ?",
+"options": ["81", "100", "121", "144"],
+"answer": "100"
+},
+{
+"id": 129,
+"category": "Logical Reasoning",
+"question": "If 'A' is the mother of 'B', and 'C' is the son of 'A', how is 'C' related to 'B'?",
+"options": ["Brother", "Sister", "Mother", "Father"],
+"answer": "Brother"
+},
+{
+"id": 130,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Bird : Nest :: Human : ?",
+"options": ["House", "Building", "Home", "Apartment"],
+"answer": "Home"
+},
+{
+"id": 131,
+"category": "Logical Reasoning",
+"question": "Find the missing number: 1, 4, 2, 8, 6, 24, ?",
+"options": ["18", "20", "22", "24"],
+"answer": "18"
+},
+{
+"id": 132,
+"category": "Logical Reasoning",
+"question": "If 'ROAD' is coded as 'SNEK', what is 'PATH' coded as?",
+"options": ["QBUG", "QBUH", "QBSI", "QBTH"],
+"answer": "QBUH"
+},
+{
+"id": 133,
+"category": "Logical Reasoning",
+"question": "Which of the following does not belong: Red, Green, Blue, Purple, Orange",
+"options": ["Red", "Green", "Blue", "Purple", "Orange"],
+"answer": "Purple"
+},
+{
+"id": 134,
+"category": "Logical Reasoning",
+"question": "In a family, there are a father, a mother, two sons, and a daughter. The two sons have a sister. How many females are in the family?",
+"options": ["2", "3", "4", "5"],
+"answer": "2"
+},
+{
+"id": 135,
+"category": "Logical Reasoning",
+"question": "Complete the series: 3, 7, 15, 31, ?",
+"options": ["61", "63", "65", "67"],
+"answer": "63"
+},
+{
+"id": 136,
+"category": "Logical Reasoning",
+"question": "If 12 x 2 = 6, and 18 x 3 = 6, then 24 x 4 = ?",
+"options": ["4", "5", "6", "8"],
+"answer": "6"
+},
+{
+"id": 137,
+"category": "Logical Reasoning",
+"question": "A is older than B, and B is younger than C. C is younger than D. Who is the oldest?",
+"options": ["A", "B", "C", "D"],
+"answer": "D"
+},
+{
+"id": 138,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: March, April, May, June, July",
+"options": ["March", "April", "May", "June", "July"],
+"answer": "April"
+},
+{
+"id": 139,
+"category": "Logical Reasoning",
+"question": "If '2' stands for 'B', '3' for 'C', '4' for 'D', and '5' for 'E', what is '3245'?",
+"options": ["CBDE", "BCDE", "CDBE", "CDEB"],
+"answer": "CBDE"
+},
+{
+"id": 140,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Wheel : Car :: Blade : ?",
+"options": ["Fan", "Propeller", "Knife", "Motor"],
+"answer": "Propeller"
+},
+{
+"id": 141,
+"category": "Logical Reasoning",
+"question": "Which number is next in the series: 2, 3, 5, 7, 11, ?",
+"options": ["13", "14", "15", "16"],
+"answer": "13"
+},
+{
+"id": 142,
+"category": "Logical Reasoning",
+"question": "If 'EAT' is coded as '26', and 'RUN' is coded as '42', what is 'SIT' coded as?",
+"options": ["30", "32", "34", "36"],
+"answer": "30"
+},
+{
+"id": 143,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Table, Chair, Cupboard, TV",
+"options": ["Table", "Chair", "Cupboard", "TV"],
+"answer": "TV"
+},
+{
+"id": 144,
+"category": "Logical Reasoning",
+"question": "If A is the father of B, and B is the son of C, how is A related to C?",
+"options": ["Husband", "Wife", "Brother", "Sister"],
+"answer": "Husband"
+},
+{
+"id": 145,
+"category": "Logical Reasoning",
+"question": "Complete the series: 10, 12, 16, 22, ?",
+"options": ["28", "30", "32", "34"],
+"answer": "30"
+},
+{
+"id": 146,
+"category": "Logical Reasoning",
+"question": "If 'RED' is coded as '342', and 'BLUE' is coded as '2768', what is 'BULL' coded as?",
+"options": ["2788", "2766", "2786", "2768"],
+"answer": "2788"
+},
+
+{
+"id": 148,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Chennai, Mumbai, Pune, Kolkata",
+"options": ["Chennai", "Mumbai", "Pune", "Kolkata"],
+"answer": "Pune"
+},
+{
+"id": 149,
+"category": "Logical Reasoning",
+"question": "If all cars have wheels, and some wheels are black, which of the following is true?",
+"options": ["All cars have black wheels", "Some cars have black wheels", "All wheels are black", "Some black things are cars"],
+"answer": "Some cars have black wheels"
+},
+{
+"id": 150,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: School : Students :: Hospital : ?",
+"options": ["Nurses", "Doctors", "Patients", "Medicines"],
+"answer": "Patients"
+},
+{
+"id": 151,
+"category": "Logical Reasoning",
+"question": "Find the missing number in the series: 2, 4, 12, 48, ?",
+"options": ["120", "144", "180", "240"],
+"answer": "240"
+},
+{
+"id": 152,
+"category": "Logical Reasoning",
+"question": "If 'TAPE' is coded as 'GZKV', what is 'WIND' coded as?",
+"options": ["DMBF", "DMCD", "DNCF", "DMCD"],
+"answer": "DNCF"
+},
+{
+"id": 153,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Rose, Tulip, Lily, Daisy, Plant",
+"options": ["Rose", "Tulip", "Lily", "Daisy", "Plant"],
+"answer": "Plant"
+},
+{
+"id": 154,
+"category": "Logical Reasoning",
+"question": "A is the mother of B. C is the father of B. D is the sister of C. How is D related to A?",
+"options": ["Sister-in-law", "Mother-in-law", "Aunt", "Daughter-in-law"],
+"answer": "Sister-in-law"
+},
+{
+"id": 155,
+"category": "Logical Reasoning",
+"question": "Complete the series: 1, 8, 27, 64, ?",
+"options": ["100", "125", "144", "169"],
+"answer": "125"
+},
+{
+"id": 156,
+"category": "Logical Reasoning",
+"question": "If 'GOOD' is coded as '25', and 'BAD' is coded as '10', what is 'DOG' coded as?",
+"options": ["20", "22", "24", "26"],
+"answer": "22"
+},
+{
+"id": 157,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: 12, 13, 14, 15, 16",
+"options": ["12", "13", "14", "15", "16"],
+"answer": "13"
+},
+{
+"id": 158,
+"category": "Logical Reasoning",
+"question": "If 10 men can complete a work in 15 days, how many men are required to complete the same work in 10 days?",
+"options": ["15", "20", "25", "30"],
+"answer": "15"
+},
+{
+"id": 159,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Lion : Cub :: Bear : ?",
+"options": ["Pup", "Kitten", "Cub", "Calf"],
+"answer": "Cub"
+},
+{
+"id": 160,
+"category": "Logical Reasoning",
+"question": "Find the missing number in the series: 1, 2, 4, 8, 16, ?",
+"options": ["24", "30", "32", "36"],
+"answer": "32"
+},
+{
+"id": 161,
+"category": "Logical Reasoning",
+"question": "If 'EAT' is coded as '84', what is 'TEA' coded as?",
+"options": ["78", "84", "86", "88"],
+"answer": "84"
+},
+{
+"id": 162,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Gold, Silver, Iron, Platinum, Diamond",
+"options": ["Gold", "Silver", "Iron", "Platinum", "Diamond"],
+"answer": "Diamond"
+},
+{
+"id": 163,
+"category": "Logical Reasoning",
+"question": "If A is taller than B, and C is taller than A, who is the tallest?",
+"options": ["A", "B", "C", "Cannot be determined"],
+"answer": "C"
+},
+{
+"id": 164,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Doctor : Patient :: Lawyer : ?",
+"options": ["Client", "Court", "Judge", "Case"],
+"answer": "Client"
+},
+{
+"id": 165,
+"category": "Logical Reasoning",
+"question": "Find the missing number: 2, 3, 5, 8, 12, ?",
+"options": ["15", "17", "18", "19"],
+"answer": "17"
+},
+{
+"id": 166,
+"category": "Logical Reasoning",
+"question": "If 'CAT' is coded as '24', what is 'DOG' coded as?",
+"options": ["25", "26", "27", "28"],
+"answer": "26"
+},
+{
+"id": 167,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Circle, Square, Sphere, Triangle",
+"options": ["Circle", "Square", "Sphere", "Triangle"],
+"answer": "Sphere"
+},
+{
+"id": 168,
+"category": "Logical Reasoning",
+"question": "If 'A' is the sister of 'B', and 'C' is the brother of 'B', how is 'A' related to 'C'?",
+"options": ["Sister", "Brother", "Mother", "Father"],
+"answer": "Sister"
+},
+{
+"id": 169,
+"category": "Logical Reasoning",
+"question": "Complete the series: Z, Y, X, W, ?",
+"options": ["V", "U", "T", "S"],
+"answer": "V"
+},
+{
+"id": 170,
+"category": "Logical Reasoning",
+"question": "If a person is walking towards the South, then turns right, and then turns right again, what direction are they facing?",
+"options": ["North", "South", "East", "West"],
+"answer": "North"
+},
+{
+"id": 171,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: 1, 4, 9, 16, 20",
+"options": ["1", "4", "9", "16", "20"],
+"answer": "20"
+},
+{
+"id": 172,
+"category": "Logical Reasoning",
+"question": "If 'APPLE' is coded as '25', what is 'ORANGE' coded as?",
+"options": ["24", "26", "28", "30"],
+"answer": "26"
+},
+{
+"id": 173,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Pen : Ink :: Pencil : ?",
+"options": ["Lead", "Graphite", "Eraser", "Wood"],
+"answer": "Graphite"
+},
+{
+"id": 174,
+"category": "Logical Reasoning",
+"question": "Find the missing number in the series: 3, 9, 27, 81, ?",
+"options": ["120", "162", "243", "324"],
+"answer": "243"
+},
+{
+"id": 175,
+"category": "Logical Reasoning",
+"question": "If A is the father of B, and B is the brother of C, and C is the daughter of D, how is D related to A?",
+"options": ["Husband", "Wife", "Mother", "Father"],
+"answer": "Wife"
+},
+{
+"id": 176,
+"category": "Logical Reasoning",
+"question": "Which of the following does not belong: Red, Blue, Green, Yellow, Brown",
+"options": ["Red", "Blue", "Green", "Yellow", "Brown"],
+"answer": "Brown"
+},
+{
+"id": 177,
+"category": "Logical Reasoning",
+"question": "If 20 apples cost $10, how much do 10 apples cost?",
+"options": ["$5", "$10", "$15", "$20"],
+"answer": "$5"
+},
+{
+"id": 178,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Doctor : Stethoscope :: Carpenter : ?",
+"options": ["Saw", "Hammer", "Nails", "Wood"],
+"answer": "Saw"
+},
+{
+"id": 179,
+"category": "Logical Reasoning",
+"question": "Find the missing number: 1, 3, 4, 7, 11, ?",
+"options": ["15", "18", "20", "22"],
+"answer": "18"
+},
+{
+"id": 180,
+"category": "Logical Reasoning",
+"question": "If 'DOG' is coded as '234', and 'CAT' is coded as '125', what is 'GOD' coded as?",
+"options": ["245", "423", "342", "425"],
+"answer": "423"
+},
+{
+"id": 181,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Table, Chair, Sofa, Bed, Pillow",
+"options": ["Table", "Chair", "Sofa", "Bed", "Pillow"],
+"answer": "Pillow"
+},
+{
+"id": 182,
+"category": "Logical Reasoning",
+"question": "If A is to the East of B, and C is to the South of B, in which direction is C from A?",
+"options": ["North-East", "North-West", "South-East", "South-West"],
+"answer": "South-West"
+},
+{
+"id": 183,
+"category": "Logical Reasoning",
+"question": "Which number is next in the series: 1, 2, 6, 24, ?",
+"options": ["48", "96", "120", "144"],
+"answer": "120"
+},
+{
+"id": 184,
+"category": "Logical Reasoning",
+"question": "If 'ORANGE' is coded as '15', what is 'APPLE' coded as?",
+"options": ["10", "15", "20", "25"],
+"answer": "20"
+},
+{
+"id": 185,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Cow : Milk :: Bee : ?",
+"options": ["Honey", "Wasp", "Hive", "Pollen"],
+"answer": "Honey"
+},
+{
+"id": 186,
+"category": "Logical Reasoning",
+"question": "If all pencils are pens, and some pens are red, which of the following is true?",
+"options": ["All pencils are red", "Some pencils are red", "All pens are red", "Some red things are pencils"],
+"answer": "Some red things are pencils"
+},
+{
+"id": 187,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: 11, 13, 15, 17, 19",
+"options": ["11", "13", "15", "17", "19"],
+"answer": "15"
+},
+{
+"id": 188,
+"category": "Logical Reasoning",
+"question": "In a row of boys, A is 10th from the left and B is 15th from the right. If they interchange their positions, A becomes 12th from the left. How many boys are there in the row?",
+"options": ["25", "26", "27", "28"],
+"answer": "26"
+},
+{
+"id": 189,
+"category": "Logical Reasoning",
+"question": "If 'TOWN' is coded as 'VQTQ', what is 'CITY' coded as?",
+"options": ["DJUZ", "DGVW", "DGUV", "DGTU"],
+"answer": "DGUV"
+},
+{
+"id": 190,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Summer : Hot :: Winter : ?",
+"options": ["Cold", "Warm", "Snow", "Rain"],
+"answer": "Cold"
+},
+{
+"id": 191,
+"category": "Logical Reasoning",
+"question": "Find the missing number: 1, 2, 4, 8, 16, ?",
+"options": ["24", "30", "32", "36"],
+"answer": "32"
+},
+{
+"id": 192,
+"category": "Logical Reasoning",
+"question": "If 'A' is the son of 'B', and 'B' is the sister of 'C', and 'C' is the father of 'D', how is 'D' related to 'A'?",
+"options": ["Cousin", "Brother", "Sister", "Uncle"],
+"answer": "Cousin"
+},
+{
+"id": 193,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: 1, 4, 9, 16, 25, 30",
+"options": ["1", "4", "9", "16", "25", "30"],
+"answer": "30"
+},
+{
+"id": 194,
+"category": "Logical Reasoning",
+"question": "If a person walks 5 km South, then turns right and walks 5 km, in which direction are they facing?",
+"options": ["East", "West", "North", "South"],
+"answer": "West"
+},
+{
+"id": 195,
+"category": "Logical Reasoning",
+"question": "Complete the analogy: Doctor : Cures :: Teacher : ?",
+"options": ["Teaches", "Learns", "Studies", "Explains"],
+"answer": "Teaches"
+},
+{
+"id": 196,
+"category": "Logical Reasoning",
+"question": "Find the missing number in the series: 5, 10, 15, 20, ?",
+"options": ["25", "30", "35", "40"],
+"answer": "25"
+},
+{
+"id": 197,
+"category": "Logical Reasoning",
+"question": "If 'WHITE' is coded as '35', what is 'BLACK' coded as?",
+"options": ["28", "30", "32", "34"],
+"answer": "30"
+},
+{
+"id": 198,
+"category": "Logical Reasoning",
+"question": "Find the odd one out: Table, Chair, Sofa, Bed, Car",
+"options": ["Table", "Chair", "Sofa", "Bed", "Car"],
+"answer": "Car"
+},
+{
+"id": 199,
+"category": "Logical Reasoning",
+"question": "If 'PEN' is related to 'WRITE', then 'ERASER' is related to?",
+"options": ["ERASE", "PENCIL", "INK", "PAPER"],
+"answer": "ERASE"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"id": 201,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Brave'.",
+"options": ["Cowardly", "Timid", "Courageous", "Weak"],
+"answer": "Courageous"
+},
+{
+"id": 202,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Ancient'?",
+"options": ["Old", "New", "Modern", "Historic"],
+"answer": "Modern"
+},
+{
+"id": 203,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The sun was shining so brightly that it was difficult to see without _.",
+"options": ["gloves", "a hat", "sunglasses", "a jacket"],
+"answer": "sunglasses"
+},
+{
+"id": 204,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Cold is to Ice as Hot is to ?",
+"options": ["Fire", "Steam", "Boil", "Warm"],
+"answer": "Steam"
+},
+{
+"id": 205,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Silent'.",
+"options": ["Loud", "Quiet", "Noisy", "Talkative"],
+"answer": "Quiet"
+},
+{
+"id": 206,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Rapid'?",
+"options": ["Slow", "Quick", "Fast", "Hasty"],
+"answer": "Slow"
+},
+{
+"id": 207,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: She was so hungry that she could not _ for the dinner bell.",
+"options": ["wait", "run", "eat", "play"],
+"answer": "wait"
+},
+{
+"id": 208,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Doctor is to Patient as Teacher is to ?",
+"options": ["School", "Lesson", "Student", "Book"],
+"answer": "Student"
+},
+{
+"id": 209,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Large'.",
+"options": ["Small", "Tiny", "Huge", "Thin"],
+"answer": "Huge"
+},
+{
+"id": 210,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Joy'?",
+"options": ["Happiness", "Sorrow", "Pleasure", "Delight"],
+"answer": "Sorrow"
+},
+{
+"id": 211,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The detective needed more _ to solve the mystery.",
+"options": ["friends", "clues", "food", "sleep"],
+"answer": "clues"
+},
+{
+"id": 212,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Bird is to Feather as Fish is to ?",
+"options": ["Scale", "Fin", "Tail", "Water"],
+"answer": "Scale"
+},
+{
+"id": 213,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Wealthy'.",
+"options": ["Poor", "Rich", "Broke", "Needy"],
+"answer": "Rich"
+},
+{
+"id": 214,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Brave'?",
+"options": ["Fearless", "Courageous", "Timid", "Bold"],
+"answer": "Timid"
+},
+{
+"id": 215,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The beautiful flowers _ the air with a sweet scent.",
+"options": ["filled", "emptied", "hid", "covered"],
+"answer": "filled"
+},
+{
+"id": 216,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Hammer is to Nail as Drill is to ?",
+"options": ["Wood", "Screw", "Hole", "Wall"],
+"answer": "Hole"
+},
+{
+"id": 217,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Happy'.",
+"options": ["Sad", "Glad", "Angry", "Tired"],
+"answer": "Glad"
+},
+{
+"id": 218,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Strong'?",
+"options": ["Powerful", "Weak", "Tough", "Solid"],
+"answer": "Weak"
+},
+{
+"id": 219,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The brave firefighter saved the cat from the _ tree.",
+"options": ["tall", "burning", "short", "old"],
+"answer": "tall"
+},
+{
+"id": 220,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Light is to Darkness as Silence is to ?",
+"options": ["Loud", "Quiet", "Noise", "Sound"],
+"answer": "Noise"
+},
+{
+"id": 221,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Clever'.",
+"options": ["Stupid", "Dumb", "Intelligent", "Silly"],
+"answer": "Intelligent"
+},
+{
+"id": 222,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Victory'?",
+"options": ["Triumph", "Success", "Defeat", "Win"],
+"answer": "Defeat"
+},
+{
+"id": 223,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The little girl sang a beautiful _.",
+"options": ["story", "book", "song", "poem"],
+"answer": "song"
+},
+{
+"id": 224,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Tree is to Forest as Star is to ?",
+"options": ["Planet", "Galaxy", "Sun", "Sky"],
+"answer": "Galaxy"
+},
+{
+"id": 225,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Polite'.",
+"options": ["Rude", "Courteous", "Mean", "Friendly"],
+"answer": "Courteous"
+},
+{
+"id": 226,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Beautiful'?",
+"options": ["Pretty", "Lovely", "Ugly", "Attractive"],
+"answer": "Ugly"
+},
+{
+"id": 227,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The hungry dog was barking loudly at the _.",
+"options": ["cat", "food", "mailman", "bone"],
+"answer": "mailman"
+},
+{
+"id": 228,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Author is to Book as Composer is to ?",
+"options": ["Song", "Poem", "Music", "Play"],
+"answer": "Music"
+},
+{
+"id": 229,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Sickness'.",
+"options": ["Health", "Wellness", "Disease", "Energy"],
+"answer": "Disease"
+},
+{
+"id": 230,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Success'?",
+"options": ["Triumph", "Failure", "Achievement", "Victory"],
+"answer": "Failure"
+},
+{
+"id": 231,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The old man told a long _ about his youth.",
+"options": ["lie", "story", "joke", "secret"],
+"answer": "story"
+},
+{
+"id": 232,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Pencil is to Write as Knife is to ?",
+"options": ["Cut", "Chop", "Slice", "All of the above"],
+"answer": "All of the above"
+},
+{
+"id": 233,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Difficult'.",
+"options": ["Easy", "Hard", "Simple", "Smooth"],
+"answer": "Hard"
+},
+{
+"id": 234,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Up'?",
+"options": ["Down", "Above", "Below", "Right"],
+"answer": "Down"
+},
+{
+"id": 235,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The small boat was sailing on the _ lake.",
+"options": ["noisy", "calm", "stormy", "cold"],
+"answer": "calm"
+},
+{
+"id": 236,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Rain is to Umbrella as Sun is to ?",
+"options": ["Shade", "Heat", "Sunglass", "Sunscreen"],
+"answer": "Sunscreen"
+},
+{
+"id": 237,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Sad'.",
+"options": ["Happy", "Joyful", "Upset", "Glad"],
+"answer": "Upset"
+},
+{
+"id": 238,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Open'?",
+"options": ["Closed", "Start", "Begin", "Unlocked"],
+"answer": "Closed"
+},
+{
+"id": 239,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The old house was full of _ and cobwebs.",
+"options": ["people", "dust", "animals", "flowers"],
+"answer": "dust"
+},
+{
+"id": 240,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Page is to Book as Leaf is to ?",
+"options": ["Tree", "Branch", "Forest", "Plant"],
+"answer": "Tree"
+},
+{
+"id": 241,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Clean'.",
+"options": ["Dirty", "Untidy", "Spotless", "Messy"],
+"answer": "Spotless"
+},
+{
+"id": 242,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Hard'?",
+"options": ["Soft", "Tough", "Rigid", "Firm"],
+"answer": "Soft"
+},
+{
+"id": 243,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The little boy was so excited that he could not _ still.",
+"options": ["sit", "run", "stand", "sleep"],
+"answer": "sit"
+},
+{
+"id": 244,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Engine is to Car as Heart is to ?",
+"options": ["Body", "Blood", "Vein", "Life"],
+"answer": "Body"
+},
+{
+"id": 245,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Fast'.",
+"options": ["Slow", "Quick", "Rapid", "Both B and C"],
+"answer": "Both B and C"
+},
+{
+"id": 246,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'High'?",
+"options": ["Tall", "Low", "Below", "Above"],
+"answer": "Low"
+},
+{
+"id": 247,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The delicious cake was made of flour, sugar, and _.",
+"options": ["salt", "water", "eggs", "oil"],
+"answer": "eggs"
+},
+{
+"id": 248,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Key is to Lock as Switch is to ?",
+"options": ["Light", "Bulb", "Electricity", "Circuit"],
+"answer": "Light"
+},
+{
+"id": 249,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Calm'.",
+"options": ["Peaceful", "Agitated", "Excited", "Nervous"],
+"answer": "Peaceful"
+},
+{
+"id": 250,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Full'?",
+"options": ["Empty", "Complete", "Packed", "Filled"],
+"answer": "Empty"
+},
+{
+"id": 251,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The tiny mouse was hiding from the big _.",
+"options": ["dog", "cat", "bird", "elephant"],
+"answer": "cat"
+},
+{
+"id": 252,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Hand is to Palm as Foot is to ?",
+"options": ["Toe", "Ankle", "Sole", "Heel"],
+"answer": "Sole"
+},
+{
+"id": 253,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Huge'.",
+"options": ["Enormous", "Tiny", "Small", "Miniature"],
+"answer": "Enormous"
+},
+{
+"id": 254,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Sweet'?",
+"options": ["Sour", "Sugar", "Bitter", "Salty"],
+"answer": "Bitter"
+},
+{
+"id": 255,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The students were sitting at their _ to study.",
+"options": ["chairs", "desks", "beds", "tables"],
+"answer": "desks"
+},
+{
+"id": 256,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Cook is to Food as Tailor is to ?",
+"options": ["Clothes", "Thread", "Needle", "Fabric"],
+"answer": "Clothes"
+},
+{
+"id": 257,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Brisk'.",
+"options": ["Slow", "Leisurely", "Quick", "Lazy"],
+"answer": "Quick"
+},
+{
+"id": 258,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Truth'?",
+"options": ["Honesty", "Fact", "Lie", "Reality"],
+"answer": "Lie"
+},
+{
+"id": 259,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The doctor gave a _ for the patient's illness.",
+"options": ["diagnosis", "prescription", "check-up", "examination"],
+"answer": "prescription"
+},
+{
+"id": 260,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Tree is to Bark as Animal is to ?",
+"options": ["Fur", "Skin", "Hair", "Feather"],
+"answer": "Skin"
+},
+{
+"id": 261,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Polite'.",
+"options": ["Rude", "Courteous", "Mean", "Friendly"],
+"answer": "Courteous"
+},
+{
+"id": 262,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Empty'?",
+"options": ["Full", "Hollow", "Void", "Vacant"],
+"answer": "Full"
+},
+{
+"id": 263,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The bright star shone _ in the night sky.",
+"options": ["dimly", "softly", "brightly", "faintly"],
+"answer": "brightly"
+},
+{
+"id": 264,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Poet is to Poem as Novelist is to ?",
+"options": ["Story", "Book", "Novel", "Writing"],
+"answer": "Novel"
+},
+{
+"id": 265,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Sad'.",
+"options": ["Happy", "Upset", "Joyful", "Glad"],
+"answer": "Upset"
+},
+{
+"id": 266,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Expensive'?",
+"options": ["Costly", "Cheap", "Pricy", "Valuable"],
+"answer": "Cheap"
+},
+{
+"id": 267,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The tired hiker needed a _ to regain his energy.",
+"options": ["rest", "run", "hike", "walk"],
+"answer": "rest"
+},
+{
+"id": 268,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Pilot is to Airplane as Captain is to ?",
+"options": ["Car", "Boat", "Bus", "Train"],
+"answer": "Boat"
+},
+{
+"id": 269,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Brave'.",
+"options": ["Cowardly", "Timid", "Courageous", "Weak"],
+"answer": "Courageous"
+},
+{
+"id": 270,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Dangerous'?",
+"options": ["Risky", "Safe", "Harmful", "Perilous"],
+"answer": "Safe"
+},
+{
+"id": 271,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The gardener planted a _ of flowers in the garden.",
+"options": ["bunch", "basket", "row", "bed"],
+"answer": "bed"
+},
+{
+"id": 272,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Milk is to Glass as Soup is to ?",
+"options": ["Bowl", "Spoon", "Plate", "Cup"],
+"answer": "Bowl"
+},
+{
+"id": 273,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Famous'.",
+"options": ["Unknown", "Obscure", "Popular", "Infamous"],
+"answer": "Popular"
+},
+{
+"id": 274,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Light'?",
+"options": ["Bright", "Dark", "Heavy", "Shadow"],
+"answer": "Dark"
+},
+{
+"id": 275,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The little bird flew out of its _.",
+"options": ["tree", "nest", "cage", "house"],
+"answer": "nest"
+},
+{
+"id": 276,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Eye is to See as Ear is to ?",
+"options": ["Hear", "Listen", "Sound", "Noise"],
+"answer": "Hear"
+},
+{
+"id": 277,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Hard'.",
+"options": ["Tough", "Soft", "Easy", "Simple"],
+"answer": "Tough"
+},
+{
+"id": 278,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Short'?",
+"options": ["Long", "Tall", "Brief", "Tiny"],
+"answer": "Long"
+},
+{
+"id": 279,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The doctor used a _ to listen to the patient's heart.",
+"options": ["thermometer", "microscope", "stethoscope", "scale"],
+"answer": "stethoscope"
+},
+{
+"id": 280,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Shoe is to Foot as Glove is to ?",
+"options": ["Hand", "Finger", "Wrist", "Arm"],
+"answer": "Hand"
+},
+{
+"id": 281,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Generous'.",
+"options": ["Stingy", "Selfish", "Kind", "Greedy"],
+"answer": "Kind"
+},
+{
+"id": 282,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Early'?",
+"options": ["Late", "Punctual", "Ahead", "Soon"],
+"answer": "Late"
+},
+{
+"id": 283,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The angry dog started to _ at the stranger.",
+"options": ["wag", "bark", "purr", "meow"],
+"answer": "bark"
+},
+{
+"id": 284,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Book is to Knowledge as Food is to ?",
+"options": ["Hunger", "Energy", "Taste", "Stomach"],
+"answer": "Energy"
+},
+{
+"id": 285,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Careful'.",
+"options": ["Careless", "Reckless", "Cautious", "Hasty"],
+"answer": "Cautious"
+},
+{
+"id": 286,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Weak'?",
+"options": ["Fragile", "Strong", "Frail", "Delicate"],
+"answer": "Strong"
+},
+{
+"id": 287,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The brave soldier fought in the _ to protect his country.",
+"options": ["game", "war", "peace", "race"],
+"answer": "war"
+},
+{
+"id": 288,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Egg is to Bird as Seed is to ?",
+"options": ["Flower", "Plant", "Tree", "Fruit"],
+"answer": "Plant"
+},
+{
+"id": 289,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Difficult'.",
+"options": ["Easy", "Simple", "Hard", "Smooth"],
+"answer": "Hard"
+},
+{
+"id": 290,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Large'?",
+"options": ["Huge", "Giant", "Small", "Enormous"],
+"answer": "Small"
+},
+{
+"id": 291,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The moon shines _ in the night sky.",
+"options": ["dimly", "brightly", "faintly", "loudly"],
+"answer": "brightly"
+},
+{
+"id": 292,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Needle is to Sew as Saw is to ?",
+"options": ["Cut", "Chop", "Wood", "Tree"],
+"answer": "Wood"
+},
+{
+"id": 293,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Begin'.",
+"options": ["Start", "Finish", "End", "Cease"],
+"answer": "Start"
+},
+{
+"id": 294,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Hot'?",
+"options": ["Warm", "Cold", "Boiling", "Steaming"],
+"answer": "Cold"
+},
+{
+"id": 295,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The thirsty boy drank a glass of _.",
+"options": ["juice", "milk", "water", "soda"],
+"answer": "water"
+},
+{
+"id": 296,
+"category": "Verbal Reasoning",
+"question": "Complete the analogy: Fish is to Water as Bird is to ?",
+"options": ["Sky", "Air", "Nest", "Tree"],
+"answer": "Air"
+},
+{
+"id": 297,
+"category": "Verbal Reasoning",
+"question": "Choose the word that is a synonym of 'Calm'.",
+"options": ["Peaceful", "Rude", "Agitated", "Excited"],
+"answer": "Peaceful"
+},
+{
+"id": 298,
+"category": "Verbal Reasoning",
+"question": "Which word is an antonym of 'Rich'?",
+"options": ["Wealthy", "Affluent", "Poor", "Broke"],
+"answer": "Poor"
+},
+{
+"id": 299,
+"category": "Verbal Reasoning",
+"question": "Complete the sentence: The old man was walking with a _.",
+"options": ["cane", "crutch", "stick", "all of the above"],
+"answer": "cane"
+}
+
+
+,
+
+
+
+
+
+
+
+
+{
+"id": 300,
+"category": "Analytical Reasoning",
+"question": "Five friends—A, B, C, D, E—are sitting in a row. A is to the immediate right of B. D is not at either end. C is to the left of B. E is at the far right end. Who is sitting in the middle?",
+"options": ["A", "B", "C", "D"],
+"answer": "A"
+},
+{
+"id": 301,
+"category": "Analytical Reasoning",
+"question": "Four books—Math, Science, History, and English—are on a shelf. The Math book is next to the English book. The History book is not at either end. The Science book is to the left of the Math book. Which book is at the far right end?",
+"options": ["Math", "Science", "History", "English"],
+"answer": "English"
+},
+{
+"id": 302,
+"category": "Analytical Reasoning",
+"question": "A, B, C, D, and E are five students in a class. B is taller than C but shorter than A. D is shorter than C. E is taller than A. Who is the tallest?",
+"options": ["A", "B", "C", "D", "E"],
+"answer": "E"
+},
+{
+"id": 303,
+"category": "Analytical Reasoning",
+"question": "Six people—P, Q, R, S, T, U—are standing in a line. Q is second from the right end. S is to the immediate left of Q. T is to the right of P, but to the left of Q. R is third from the left end. Who is standing at the far left end?",
+"options": ["P", "Q", "R", "S"],
+"answer": "U"
+},
+{
+"id": 304,
+"category": "Analytical Reasoning",
+"question": "In a family, there are two fathers, two mothers, three sons, and one grandfather. What is the minimum number of people in this family?",
+"options": ["4", "5", "6", "7"],
+"answer": "5"
+},
+{
+"id": 305,
+"category": "Analytical Reasoning",
+"question": "Five colors—Red, Blue, Green, Yellow, Orange—are arranged in a sequence. Green is between Red and Yellow. Blue is to the immediate left of Green. Orange is at the far right. What is the order of the colors from left to right?",
+"options": ["Blue, Green, Yellow, Red, Orange", "Red, Blue, Green, Yellow, Orange", "Blue, Red, Green, Yellow, Orange", "Green, Blue, Red, Yellow, Orange"],
+"answer": "Blue, Red, Green, Yellow, Orange"
+},
+{
+"id": 306,
+"category": "Analytical Reasoning",
+"question": "Four items—A, B, C, D—are in a box. A is heavier than B. C is lighter than D. B is heavier than D. Which item is the heaviest?",
+"options": ["A", "B", "C", "D"],
+"answer": "A"
+},
+{
+"id": 307,
+"category": "Analytical Reasoning",
+"question": "Six houses—H1, H2, H3, H4, H5, H6—are in a row. H2 is to the left of H4. H3 is at the far right. H1 is between H2 and H3. H6 is to the right of H5. H5 is to the immediate right of H4. What is the order of the houses from left to right?",
+"options": ["H2, H4, H5, H6, H1, H3", "H4, H2, H1, H3, H5, H6", "H2, H1, H3, H4, H5, H6", "H2, H4, H5, H6, H1, H3"],
+"answer": "H2, H4, H5, H6, H1, H3"
+},
+{
+"id": 308,
+"category": "Analytical Reasoning",
+"question": "Six friends—G, H, I, J, K, L—are sitting around a circular table. G is sitting to the immediate right of H. I is sitting opposite J. K is to the immediate left of G. Who is sitting opposite L?",
+"options": ["G", "H", "I", "J"],
+"answer": "K"
+},
+{
+"id": 309,
+"category": "Analytical Reasoning",
+"question": "Five students—P, Q, R, S, T—have different scores in a test. P scored higher than R. S scored lower than Q. R scored higher than Q. T scored the lowest. Who scored the highest?",
+"options": ["P", "Q", "R", "S"],
+"answer": "P"
+},
+{
+"id": 310,
+"category": "Analytical Reasoning",
+"question": "Seven people—A, B, C, D, E, F, G—are in a queue. A is behind B. C is in front of D. E is behind F. F is in front of A. G is at the end. B is behind E. Who is first in the queue?",
+"options": ["A", "B", "C", "D", "E"],
+"answer": "C"
+},
+{
+"id": 311,
+"category": "Analytical Reasoning",
+"question": "Five cities—M, N, O, P, Q—are connected by roads. There is a road between M and N, N and O, O and P, and P and Q. There is no direct road between M and P. Which city must you pass through to get from M to P?",
+"options": ["N", "O", "Q", "N and O"],
+"answer": "N and O"
+},
+{
+"id": 312,
+"category": "Analytical Reasoning",
+"question": "Four animals—Lion, Tiger, Bear, Wolf—are in four different cages. The Lion is not in the first cage. The Tiger is in the fourth cage. The Bear is in the third cage. Which cage is the Wolf in?",
+"options": ["First", "Second", "Third", "Fourth"],
+"answer": "First"
+},
+{
+"id": 313,
+"category": "Analytical Reasoning",
+"question": "Six people—A, B, C, D, E, F—are at a party. A and B are married. C is the son of A. D is the brother of B. E is the mother of C. F is the daughter of D. How is F related to C?",
+"options": ["Cousin", "Niece", "Aunt", "Sister"],
+"answer": "Cousin"
+},
+{
+"id": 314,
+"category": "Analytical Reasoning",
+"question": "In a parking lot, five cars—C1, C2, C3, C4, C5—are parked. C1 is to the left of C2. C3 is to the right of C4. C5 is between C2 and C3. C4 is at the far left. Which car is in the middle?",
+"options": ["C1", "C2", "C3", "C5"],
+"answer": "C5"
+},
+{
+"id": 315,
+"category": "Analytical Reasoning",
+"question": "Five students—P, Q, R, S, T—are of different ages. P is older than Q. R is younger than S. T is older than R but younger than Q. Who is the youngest?",
+"options": ["P", "Q", "R", "S", "T"],
+"answer": "S"
+},
+{
+"id": 316,
+"category": "Analytical Reasoning",
+"question": "Four cities—A, B, C, D—are in a row. A is next to B. C is not next to D. The order is either A, B, C, D or D, B, A, C. What is the order?",
+"options": ["A, B, C, D", "D, C, B, A", "D, B, C, A", "Cannot be determined"],
+"answer": "D, C, B, A"
+},
+{
+"id": 317,
+"category": "Analytical Reasoning",
+"question": "Six friends—U, V, W, X, Y, Z—are sitting in a row. U is at the far right. W is to the immediate left of V. Y is to the immediate right of Z. Z is to the immediate left of W. Who is sitting in the middle two positions?",
+"options": ["W and Y", "Z and W", "X and Y", "Y and W"],
+"answer": "Z and W"
+},
+{
+"id": 318,
+"category": "Analytical Reasoning",
+"question": "Five houses—Red, Blue, Green, Yellow, Orange—are in a row. The Red house is next to the Green house. The Yellow house is not at either end. The Blue house is to the left of the Red house. The Orange house is at the far right. Which house is in the middle?",
+"options": ["Red", "Blue", "Green", "Yellow"],
+"answer": "Green"
+},
+{
+"id": 319,
+"category": "Analytical Reasoning",
+"question": "Five people—P, Q, R, S, T—are of different weights. P is heavier than Q. R is lighter than S. T is heavier than R but lighter than Q. Who is the heaviest?",
+"options": ["P", "Q", "R", "S", "T"],
+"answer": "P"
+},
+{
+"id": 320,
+"category": "Analytical Reasoning",
+"question": "Six books—Physics, Chemistry, Biology, Math, History, English—are on a shelf. The Physics book is at the far left. The Biology book is not at either end. The Chemistry book is to the immediate right of the Physics book. The Math book is to the immediate left of the Biology book. The History book is at the far right. What is the order from left to right?",
+"options": ["Physics, Chemistry, Math, Biology, English, History", "Physics, Chemistry, Biology, Math, English, History", "Physics, Math, Chemistry, Biology, History, English", "Physics, Chemistry, English, Biology, Math, History"],
+"answer": "Physics, Chemistry, Math, Biology, English, History"
+},
+{
+"id": 321,
+"category": "Analytical Reasoning",
+"question": "In a family, there are three fathers, two mothers, three sons, and one grandfather. What is the minimum number of people in this family?",
+"options": ["6", "7", "8", "9"],
+"answer": "6"
+},
+{
+"id": 322,
+"category": "Analytical Reasoning",
+"question": "Five friends—A, B, C, D, E—are sitting around a circular table. A is to the immediate right of B. D is sitting opposite C. E is to the immediate left of C. Who is sitting opposite A?",
+"options": ["B", "C", "D", "E"],
+"answer": "D"
+},
+{
+"id": 323,
+"category": "Analytical Reasoning",
+"question": "Four animals—Cow, Goat, Pig, Sheep—are in four different pens. The Cow is not in the first pen. The Goat is in the third pen. The Pig is in the second pen. Which pen is the Sheep in?",
+"options": ["First", "Second", "Third", "Fourth"],
+"answer": "First"
+},
+{
+"id": 324,
+"category": "Analytical Reasoning",
+"question": "Six people—P, Q, R, S, T, U—are standing in a line. P is at the far left. T is to the immediate right of P. Q is between T and R. S is to the left of U, but to the right of R. Who is standing at the far right end?",
+"options": ["S", "T", "U", "Q"],
+"answer": "U"
+},
+{
+"id": 325,
+"category": "Analytical Reasoning",
+"question": "Five cars—Red, Blue, Green, Yellow, Orange—are parked in a row. The Red car is to the right of the Green car. The Yellow car is to the left of the Blue car. The Orange car is at the far left. The Green car is at the far right. What is the order of the cars from left to right?",
+"options": ["Orange, Yellow, Blue, Red, Green", "Orange, Blue, Yellow, Red, Green", "Orange, Yellow, Blue, Green, Red", "Yellow, Blue, Orange, Red, Green"],
+"answer": "Orange, Yellow, Blue, Red, Green"
+},
+{
+"id": 326,
+"category": "Analytical Reasoning",
+"question": "Four boxes—B1, B2, B3, B4—are stacked. B1 is heavier than B2. B3 is lighter than B4. B2 is heavier than B4. Which box is the lightest?",
+"options": ["B1", "B2", "B3", "B4"],
+"answer": "B3"
+},
+{
+"id": 327,
+"category": "Analytical Reasoning",
+"question": "Five friends—A, B, C, D, E—are sitting in a row. A is at the far left. B is to the immediate right of A. C is between B and D. E is to the immediate right of D. Who is at the far right?",
+"options": ["B", "C", "D", "E"],
+"answer": "E"
+},
+{
+"id": 328,
+"category": "Analytical Reasoning",
+"question": "Six people—G, H, I, J, K, L—are sitting around a circular table. I is sitting to the immediate right of H. J is sitting opposite K. L is to the immediate left of I. Who is sitting opposite G?",
+"options": ["H", "J", "K", "L"],
+"answer": "J"
+},
+{
+"id": 329,
+"category": "Analytical Reasoning",
+"question": "Four books—P, Q, R, S—are on a shelf. P is to the right of Q. R is to the left of S. The order is P, Q, R, S. Is this statement true or false?",
+"options": ["True", "False"],
+"answer": "False"
+},
+{
+"id": 330,
+"category": "Analytical Reasoning",
+"question": "Five students—A, B, C, D, E—have different scores. A scored higher than C. B scored lower than E. D scored higher than A. E scored lower than D. Who scored the highest?",
+"options": ["A", "B", "C", "D", "E"],
+"answer": "D"
+},
+{
+"id": 331,
+"category": "Analytical Reasoning",
+"question": "Four people—W, X, Y, Z—are in a queue. W is in front of X. Y is behind W. Z is in front of Y. Who is last in the queue?",
+"options": ["W", "X", "Y", "Z"],
+"answer": "X"
+},
+{
+"id": 332,
+"category": "Analytical Reasoning",
+"question": "Three animals—Lion, Tiger, Bear—are in a row. The Tiger is between the Lion and the Bear. What is the order?",
+"options": ["Lion, Tiger, Bear", "Tiger, Lion, Bear", "Bear, Tiger, Lion", "Both A and C are possible"],
+"answer": "Both A and C are possible"
+},
+{
+"id": 333,
+"category": "Analytical Reasoning",
+"question": "Six friends—P, Q, R, S, T, U—are sitting in a row. P is at the far left. Q is to the immediate right of P. R is to the immediate left of S. S is to the left of T. T is to the left of U. Who is at the far right?",
+"options": ["R", "S", "T", "U"],
+"answer": "U"
+},
+{
+"id": 334,
+"category": "Analytical Reasoning",
+"question": "Five colors—Red, Blue, Green, Yellow, Orange—are arranged in a sequence. Red is at the far left. Blue is to the immediate right of Red. Green is not at the far right. Orange is between Green and Yellow. What is the order?",
+"options": ["Red, Blue, Green, Orange, Yellow", "Red, Blue, Orange, Yellow, Green", "Red, Green, Blue, Yellow, Orange", "Red, Blue, Orange, Green, Yellow"],
+"answer": "Red, Blue, Green, Orange, Yellow"
+},
+{
+"id": 335,
+"category": "Analytical Reasoning",
+"question": "Four items—A, B, C, D—are of different weights. A is heavier than C. B is lighter than D. C is heavier than D. Which item is the lightest?",
+"options": ["A", "B", "C", "D"],
+"answer": "B"
+},
+{
+"id": 336,
+"category": "Analytical Reasoning",
+"question": "Six people—A, B, C, D, E, F—are at a party. A and B are brothers. C is the son of A. D is the sister of B. E is the mother of C. F is the daughter of D. Who is the mother of F?",
+"options": ["A", "B", "D", "E"],
+"answer": "D"
+},
+{
+"id": 337,
+"category": "Analytical Reasoning",
+"question": "Five houses—H1, H2, H3, H4, H5—are in a row. H1 is at the far left. H2 is to the right of H3. H4 is to the right of H5. The order is H1, H3, H2, H5, H4. Is this a valid order?",
+"options": ["Yes", "No"],
+"answer": "Yes"
+},
+{
+"id": 338,
+"category": "Analytical Reasoning",
+"question": "Six friends—U, V, W, X, Y, Z—are sitting in a row. V is to the immediate right of U. X is to the immediate left of Y. Y is between W and V. Z is at the far left. Who is at the far right?",
+"options": ["U", "V", "W", "X", "Y", "Z"],
+"answer": "X"
+},
+{
+"id": 339,
+"category": "Analytical Reasoning",
+"question": "Four animals—Cow, Goat, Pig, Sheep—are in four different pens. The Cow is in the first pen. The Goat is not in the third pen. The Pig is in the fourth pen. Which pen is the Goat in?",
+"options": ["First", "Second", "Third", "Fourth"],
+"answer": "Second"
+},
+{
+"id": 340,
+"category": "Analytical Reasoning",
+"question": "Five students—P, Q, R, S, T—are of different ages. P is older than Q. R is younger than S. T is older than Q. S is younger than T. Who is the oldest?",
+"options": ["P", "Q", "R", "S", "T"],
+"answer": "P"
+},
+{
+"id": 341,
+"category": "Analytical Reasoning",
+"question": "Five cars—Red, Blue, Green, Yellow, Orange—are parked in a row. The Red car is at the far left. The Blue car is between the Red car and the Green car. The Yellow car is to the right of the Orange car. The Orange car is at the far right. What is the order?",
+"options": ["Red, Blue, Green, Yellow, Orange", "Red, Green, Blue, Yellow, Orange", "Red, Blue, Green, Orange, Yellow", "Red, Yellow, Orange, Blue, Green"],
+"answer": "Red, Blue, Green, Yellow, Orange"
+},
+{
+"id": 342,
+"category": "Analytical Reasoning",
+"question": "Four people—A, B, C, D—are in a queue. A is behind B. C is in front of D. D is in front of A. Who is last in the queue?",
+"options": ["A", "B", "C", "D"],
+"answer": "B"
+},
+{
+"id": 343,
+"category": "Analytical Reasoning",
+"question": "Six friends—G, H, I, J, K, L—are sitting around a circular table. H is sitting to the immediate left of G. I is sitting opposite L. J is to the immediate right of K. Who is sitting opposite H?",
+"options": ["I", "J", "K", "L"],
+"answer": "I"
+},
+{
+"id": 344,
+"category": "Analytical Reasoning",
+"question": "In a family, there are two grandmothers, two grandfathers, and two grandchildren. What is the minimum number of people in this family?",
+"options": ["4", "5", "6", "7"],
+"answer": "4"
+},
+{
+"id": 345,
+"category": "Analytical Reasoning",
+"question": "Five books—P, Q, R, S, T—are on a shelf. P is at the far left. Q is to the immediate right of P. R is to the immediate left of S. T is between R and S. What is the order?",
+"options": ["P, Q, R, T, S", "P, Q, T, R, S", "P, Q, S, T, R", "Cannot be determined"],
+"answer": "P, Q, R, T, S"
+},
+{
+"id": 346,
+"category": "Analytical Reasoning",
+"question": "Four people—W, X, Y, Z—are in a queue. W is in front of Y. X is behind W. Z is in front of X. Who is last in the queue?",
+"options": ["W", "X", "Y", "Z"],
+"answer": "Y"
+},
+{
+"id": 347,
+"category": "Analytical Reasoning",
+"question": "Five friends—A, B, C, D, E—are sitting in a row. A is at the far left. B is to the immediate right of A. C is between B and D. E is at the far right. Who is sitting in the middle?",
+"options": ["A", "B", "C", "D"],
+"answer": "C"
+},
+{
+"id": 348,
+"category": "Analytical Reasoning",
+"question": "Six people—P, Q, R, S, T, U—are standing in a line. P is at the far left. T is to the right of Q. R is to the left of T. S is to the left of R. U is at the far right. What is the order?",
+"options": ["P, Q, S, R, T, U", "P, S, R, Q, T, U", "S, P, Q, R, T, U", "Cannot be determined"],
+"answer": "P, S, R, Q, T, U"
+},
+{
+"id": 349,
+"category": "Analytical Reasoning",
+"question": "Five colors—Red, Blue, Green, Yellow, Orange—are arranged in a sequence. Red is at the far left. Blue is not at the far right. Green is to the immediate right of Blue. Yellow is between Red and Blue. What is the order?",
+"options": ["Red, Yellow, Blue, Green, Orange", "Red, Blue, Green, Yellow, Orange", "Red, Yellow, Green, Blue, Orange", "Cannot be determined"],
+"answer": "Red, Yellow, Blue, Green, Orange"
+},
+{
+"id": 350,
+"category": "Analytical Reasoning",
+"question": "Four items—A, B, C, D—are of different weights. A is lighter than B. C is heavier than D. B is lighter than C. Which item is the heaviest?",
+"options": ["A", "B", "C", "D"],
+"answer": "C"
+}
+
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"id": 352,
+"category": "Number Series",
+"question": "What is the next number in the series: 3, 6, 12, 24, ?",
+"options": ["36", "48", "40", "52"],
+"answer": "48"
+},
+{
+"id": 353,
+"category": "Number Series",
+"question": "What is the missing number in the series: 10, 8, 6, ?, 2",
+"options": ["3", "4", "5", "7"],
+"answer": "4"
+},
+{
+"id": 354,
+"category": "Number Series",
+"question": "Find the next number: 5, 10, 15, 20, ?",
+"options": ["22", "24", "25", "30"],
+"answer": "25"
+},
+{
+"id": 355,
+"category": "Number Series",
+"question": "What is the next number in the series: 1, 4, 9, 16, ?",
+"options": ["20", "25", "36", "30"],
+"answer": "25"
+},
+{
+"id": 356,
+"category": "Number Series",
+"question": "What is the missing number in the series: 5, 50, ?, 5000, 50000",
+"options": ["500", "5000", "50", "100"],
+"answer": "500"
+},
+{
+"id": 357,
+"category": "Number Series",
+"question": "Find the next number: 1, 1, 2, 3, 5, 8, ?",
+"options": ["11", "12", "13", "14"],
+"answer": "13"
+},
+{
+"id": 358,
+"category": "Number Series",
+"question": "What is the next number in the series: 7, 14, 21, 28, ?",
+"options": ["32", "34", "35", "36"],
+"answer": "35"
+},
+{
+"id": 359,
+"category": "Number Series",
+"question": "What is the missing number in the series: 1, 8, 27, ?, 125",
+"options": ["36", "49", "64", "81"],
+"answer": "64"
+},
+{
+"id": 360,
+"category": "Number Series",
+"question": "Find the next number: 100, 90, 80, 70, ?",
+"options": ["50", "55", "60", "65"],
+"answer": "60"
+},
+{
+"id": 361,
+"category": "Number Series",
+"question": "What is the next number in the series: 2, 5, 10, 17, ?",
+"options": ["24", "25", "26", "27"],
+"answer": "26"
+},
+{
+"id": 362,
+"category": "Number Series",
+"question": "What is the missing number in the series: 1, 3, 7, 15, ?",
+"options": ["21", "25", "31", "33"],
+"answer": "31"
+},
+{
+"id": 363,
+"category": "Number Series",
+"question": "Find the next number: 1, 2, 4, 8, 16, ?",
+"options": ["24", "30", "32", "36"],
+"answer": "32"
+},
+{
+"id": 364,
+"category": "Number Series",
+"question": "What is the next number in the series: 20, 19, 17, 14, 10, ?",
+"options": ["5", "6", "7", "8"],
+"answer": "5"
+},
+{
+"id": 365,
+"category": "Number Series",
+"question": "What is the missing number in the series: 1, 2, 3, 5, 8, ?",
+"options": ["10", "11", "12", "13"],
+"answer": "13"
+},
+{
+"id": 366,
+"category": "Number Series",
+"question": "Find the next number: 2, 3, 5, 7, 11, ?",
+"options": ["12", "13", "14", "15"],
+"answer": "13"
+},
+{
+"id": 367,
+"category": "Number Series",
+"question": "What is the next number in the series: 1, 3, 6, 10, 15, ?",
+"options": ["18", "20", "21", "22"],
+"answer": "21"
+},
+{
+"id": 368,
+"category": "Number Series",
+"question": "What is the missing number in the series: 2, 4, 8, 16, ?, 64",
+"options": ["24", "32", "48", "56"],
+"answer": "32"
+},
+{
+"id": 369,
+"category": "Number Series",
+"question": "Find the next number: 1, 4, 27, 256, ?",
+"options": ["1024", "3125", "4096", "5120"],
+"answer": "3125"
+},
+{
+"id": 370,
+"category": "Number Series",
+"question": "What is the next number in the series: 10, 20, 30, 40, ?",
+"options": ["45", "50", "60", "70"],
+"answer": "50"
+},
+{
+"id": 371,
+"category": "Number Series",
+"question": "What is the missing number in the series: 2, 6, 12, 20, ?, 42",
+"options": ["28", "30", "32", "36"],
+"answer": "30"
+},
+{
+"id": 372,
+"category": "Number Series",
+"question": "Find the next number: 1, 8, 9, 64, 25, ?",
+"options": ["125", "216", "256", "343"],
+"answer": "216"
+},
+{
+"id": 373,
+"category": "Number Series",
+"question": "What is the next number in the series: 1, 3, 4, 7, 11, ?",
+"options": ["15", "16", "17", "18"],
+"answer": "18"
+},
+{
+"id": 374,
+"category": "Number Series",
+"question": "What is the missing number in the series: 1, 1, 2, 3, 5, ?, 13, 21",
+"options": ["6", "7", "8", "9"],
+"answer": "8"
+},
+{
+"id": 375,
+"category": "Number Series",
+"question": "Find the next number: 5, 10, 8, 16, 14, 28, ?",
+"options": ["26", "30", "32", "34"],
+"answer": "26"
+},
+{
+"id": 376,
+"category": "Number Series",
+"question": "What is the next number in the series: 10, 12, 16, 22, 30, ?",
+"options": ["38", "40", "42", "45"],
+"answer": "40"
+},
+{
+"id": 377,
+"category": "Number Series",
+"question": "What is the missing number in the series: 4, 6, 10, 16, ?, 34",
+"options": ["24", "26", "28", "30"],
+"answer": "26"
+},
+{
+"id": 378,
+"category": "Number Series",
+"question": "Find the next number: 1, 2, 6, 24, 120, ?",
+"options": ["360", "480", "600", "720"],
+"answer": "720"
+},
+{
+"id": 379,
+"category": "Number Series",
+"question": "What is the next number in the series: 50, 49, 47, 44, 40, ?",
+"options": ["35", "36", "37", "38"],
+"answer": "35"
+},
+{
+"id": 380,
+"category": "Number Series",
+"question": "What is the missing number in the series: 2, 9, 28, ?, 126",
+"options": ["50", "55", "65", "70"],
+"answer": "65"
+},
+{
+"id": 381,
+"category": "Number Series",
+"question": "Find the next number: 1, 4, 7, 10, 13, ?",
+"options": ["15", "16", "17", "18"],
+"answer": "16"
+},
+{
+"id": 382,
+"category": "Number Series",
+"question": "What is the next number in the series: 1, 2, 4, 7, 11, ?",
+"options": ["15", "16", "17", "18"],
+"answer": "16"
+},
+{
+"id": 383,
+"category": "Number Series",
+"question": "What is the missing number in the series: 3, 9, 27, ?, 243",
+"options": ["54", "61", "81", "100"],
+"answer": "81"
+},
+{
+"id": 384,
+"category": "Number Series",
+"question": "Find the next number: 1, 2, 5, 12, 27, ?",
+"options": ["42", "50", "58", "60"],
+"answer": "58"
+},
+{
+"id": 385,
+"category": "Number Series",
+"question": "What is the next number in the series: 1, 1, 2, 4, 8, 16, ?",
+"options": ["24", "30", "32", "36"],
+"answer": "32"
+},
+{
+"id": 386,
+"category": "Number Series",
+"question": "What is the missing number in the series: 1, 5, 13, 29, ?, 125",
+"options": ["45", "50", "55", "61"],
+"answer": "61"
+},
+{
+"id": 387,
+"category": "Number Series",
+"question": "Find the next number: 2, 3, 5, 7, 11, 13, ?",
+"options": ["15", "16", "17", "19"],
+"answer": "17"
+},
+{
+"id": 388,
+"category": "Number Series",
+"question": "What is the next number in the series: 1, 2, 3, 6, 12, 24, ?",
+"options": ["30", "48", "60", "72"],
+"answer": "48"
+},
+{
+"id": 389,
+"category": "Number Series",
+"question": "What is the missing number in the series: 5, 10, 17, 26, ?, 50",
+"options": ["30", "32", "37", "40"],
+"answer": "37"
+},
+{
+"id": 390,
+"category": "Number Series",
+"question": "Find the next number: 10, 20, 18, 36, 34, ?",
+"options": ["68", "72", "70", "74"],
+"answer": "68"
+},
+{
+"id": 391,
+"category": "Number Series",
+"question": "What is the next number in the series: 2, 4, 1, 3, 0, 2, -1, ?",
+"options": ["0", "1", "2", "3"],
+"answer": "1"
+},
+{
+"id": 392,
+"category": "Number Series",
+"question": "What is the missing number in the series: 12, 14, 18, 26, 42, ?",
+"options": ["58", "62", "70", "74"],
+"answer": "74"
+},
+{
+"id": 393,
+"category": "Number Series",
+"question": "Find the next number: 1, 4, 9, 16, 25, ?",
+"options": ["30", "36", "40", "49"],
+"answer": "36"
+},
+{
+"id": 394,
+"category": "Number Series",
+"question": "What is the next number in the series: 5, 10, 9, 18, 17, 34, ?",
+"options": ["33", "35", "37", "39"],
+"answer": "33"
+},
+{
+"id": 395,
+"category": "Number Series",
+"question": "What is the missing number in the series: 2, 5, 11, 23, ?, 95",
+"options": ["40", "45", "47", "50"],
+"answer": "47"
+},
+{
+"id": 396,
+"category": "Number Series",
+"question": "Find the next number: 100, 50, 25, 12.5, ?",
+"options": ["6", "6.25", "5", "7.5"],
+"answer": "6.25"
+},
+{
+"id": 397,
+"category": "Number Series",
+"question": "What is the next number in the series: 3, 7, 15, 31, 63, ?",
+"options": ["120", "127", "130", "135"],
+"answer": "127"
+},
+{
+"id": 398,
+"category": "Number Series",
+"question": "What is the missing number in the series: 1, 4, 10, 22, ?, 94",
+"options": ["40", "42", "46", "50"],
+"answer": "46"
+},
+{
+"id": 399,
+"category": "Number Series",
+"question": "Find the next number: 10, 11, 13, 16, 20, ?",
+"options": ["24", "25", "26", "27"],
+"answer": "25"
+},
+{
+"id": 400,
+"category": "Number Series",
+"question": "What is the next number in the series: 2, 6, 12, 20, 30, ?",
+"options": ["36", "40", "42", "44"],
+"answer": "42"
+}
+,
+
+
+
+
+
+
+
+{
+"id": 401,
+"category": "Blood Relations",
+"question": "A is the father of B. B is the sister of C. C is the son of D. How is D related to A?",
+"options": ["Wife", "Husband", "Mother", "Sister"],
+"answer": "Wife"
+},
+{
+"id": 402,
+"category": "Blood Relations",
+"question": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the man related to the woman?",
+"options": ["Son", "Brother", "Nephew", "Uncle"],
+"answer": "Son"
+},
+{
+"id": 403,
+"category": "Blood Relations",
+"question": "P is the brother of Q. R is the father of P. S is the sister of Q. How is S related to R?",
+"options": ["Daughter", "Mother", "Wife", "Sister"],
+"answer": "Daughter"
+},
+{
+"id": 404,
+"category": "Blood Relations",
+"question": "M is the son of N. O is the mother of P. P is the sister of M. How is N related to O?",
+"options": ["Father", "Son", "Husband", "Brother"],
+"answer": "Husband"
+},
+{
+"id": 405,
+"category": "Blood Relations",
+"question": "Pointing to a girl, a man said, 'She is the daughter of the only child of my father.' How is the girl related to the man?",
+"options": ["Daughter", "Mother", "Niece", "Sister"],
+"answer": "Daughter"
+},
+{
+"id": 406,
+"category": "Blood Relations",
+"question": "A is the brother of B. B is the wife of C. D is the son of A. How is D related to C?",
+"options": ["Son", "Brother", "Nephew", "Father"],
+"answer": "Nephew"
+},
+{
+"id": 407,
+"category": "Blood Relations",
+"question": "If 'A + B' means A is the brother of B, 'A - B' means A is the sister of B, and 'A × B' means A is the father of B, how is C related to B in 'C - A × B'?",
+"options": ["Aunt", "Niece", "Mother", "Sister"],
+"answer": "Aunt"
+},
+{
+"id": 408,
+"category": "Blood Relations",
+"question": "In a family, there are six members: A, B, C, D, E, and F. B is the husband of A. C is the son of A. E is the mother of C. D is the daughter of E. How is D related to B?",
+"options": ["Daughter", "Sister", "Mother", "Niece"],
+"answer": "Daughter"
+},
+{
+"id": 409,
+"category": "Blood Relations",
+"question": "P is the son of Q. Q is the mother of R. R is the sister of S. S is the son of T. How is T related to P?",
+"options": ["Father", "Uncle", "Husband", "Brother"],
+"answer": "Father"
+},
+{
+"id": 410,
+"category": "Blood Relations",
+"question": "Pointing to a photograph, a person said, 'I have no brother or sister, but that man's father is my father's son.' Who is the person in the photograph?",
+"options": ["His son", "His father", "His cousin", "His nephew"],
+"answer": "His son"
+},
+{
+"id": 411,
+"category": "Blood Relations",
+"question": "K is the brother of J. J is the sister of L. L is the father of M. How is K related to M?",
+"options": ["Uncle", "Nephew", "Cousin", "Brother"],
+"answer": "Uncle"
+},
+{
+"id": 412,
+"category": "Blood Relations",
+"question": "Introducing a man, a woman says, 'He is the only son of the mother of my sister's husband.' How is the man related to the woman?",
+"options": ["Brother", "Brother-in-law", "Cousin", "Son-in-law"],
+"answer": "Brother-in-law"
+},
+{
+"id": 413,
+"category": "Blood Relations",
+"question": "A is the son of B. B is the mother of C. D is the sister of A. How is C related to D?",
+"options": ["Brother or Sister", "Cousin", "Niece", "Aunt"],
+"answer": "Brother or Sister"
+},
+{
+"id": 414,
+"category": "Blood Relations",
+"question": "P is the father of Q. Q is the sister of R. S is the brother of P. How is S related to Q?",
+"options": ["Uncle", "Brother", "Cousin", "Father"],
+"answer": "Uncle"
+},
+{
+"id": 415,
+"category": "Blood Relations",
+"question": "A man said to a woman, 'Your mother's husband's sister is my aunt.' How is the man related to the woman?",
+"options": ["Brother", "Cousin", "Son", "Nephew"],
+"answer": "Brother"
+},
+{
+"id": 416,
+"category": "Blood Relations",
+"question": "P is the mother of Q. Q is the brother of R. R is the wife of S. How is S related to P?",
+"options": ["Son", "Son-in-law", "Nephew", "Father"],
+"answer": "Son-in-law"
+},
+{
+"id": 417,
+"category": "Blood Relations",
+"question": "Pointing to a man in a photograph, a woman said, 'The son of his mother's only daughter is my brother-in-law.' How is the woman related to the man?",
+"options": ["Sister", "Mother", "Niece", "Wife"],
+"answer": "Sister"
+},
+{
+"id": 418,
+"category": "Blood Relations",
+"question": "A is the father of B and C. B is the daughter of A. D is the brother of B. E is the mother of A. How is E related to D?",
+"options": ["Aunt", "Grandmother", "Mother", "Sister"],
+"answer": "Grandmother"
+},
+{
+"id": 419,
+"category": "Blood Relations",
+"question": "P is the son of Q. Q is the father of R. R is the daughter of S. How is S related to P?",
+"options": ["Wife", "Mother", "Aunt", "Sister"],
+"answer": "Wife"
+},
+{
+"id": 420,
+"category": "Blood Relations",
+"question": "A is the sister of B. B is the brother of C. D is the father of A. How is C related to D?",
+"options": ["Son", "Daughter", "Son or Daughter", "Brother"],
+"answer": "Son or Daughter"
+},
+{
+"id": 421,
+"category": "Blood Relations",
+"question": "Pointing to a boy, a woman said, 'His father's sister is my sister's mother.' How is the boy related to the woman?",
+"options": ["Son", "Nephew", "Cousin", "Brother"],
+"answer": "Nephew"
+},
+{
+"id": 422,
+"category": "Blood Relations",
+"question": "A is the husband of B. C is the son of A. D is the wife of C. How is D related to B?",
+"options": ["Daughter", "Daughter-in-law", "Sister", "Mother"],
+"answer": "Daughter-in-law"
+},
+{
+"id": 423,
+"category": "Blood Relations",
+"question": "P is the mother of Q. R is the father of S. S is the sister of Q. How is P related to R?",
+"options": ["Mother", "Aunt", "Wife", "Sister"],
+"answer": "Wife"
+},
+{
+"id": 424,
+"category": "Blood Relations",
+"question": "In a family, there are three generations. A is the father of B. B is the sister of C. D is the son of C. E is the wife of B. How is E related to D?",
+"options": ["Mother", "Aunt", "Sister", "Wife"],
+"answer": "Aunt"
+},
+{
+"id": 425,
+"category": "Blood Relations",
+"question": "Pointing to a man, a woman said, 'His only brother is the father of my son's father.' How is the man related to the woman?",
+"options": ["Uncle", "Brother-in-law", "Father", "Grandfather"],
+"answer": "Uncle"
+},
+{
+"id": 426,
+"category": "Blood Relations",
+"question": "A is the son of B. B is the father of C. C is the wife of D. How is D related to A?",
+"options": ["Brother", "Brother-in-law", "Sister-in-law", "Nephew"],
+"answer": "Brother-in-law"
+},
+{
+"id": 427,
+"category": "Blood Relations",
+"question": "If 'A + B' means A is the brother of B, 'A - B' means A is the daughter of B, and 'A × B' means A is the husband of B, how is C related to B in 'C + A × B'?",
+"options": ["Son", "Son-in-law", "Brother-in-law", "Father-in-law"],
+"answer": "Brother-in-law"
+},
+{
+"id": 428,
+"category": "Blood Relations",
+"question": "A is the brother of B. C is the mother of A. D is the husband of C. E is the son of B. How is E related to D?",
+"options": ["Son", "Grandson", "Nephew", "Brother"],
+"answer": "Grandson"
+},
+{
+"id": 429,
+"category": "Blood Relations",
+"question": "Pointing to a photograph of a boy, a girl said, 'He is the only son of the mother of my sister's father.' How is the boy related to the girl?",
+"options": ["Brother", "Uncle", "Cousin", "Father"],
+"answer": "Brother"
+},
+{
+"id": 430,
+"category": "Blood Relations",
+"question": "P is the father of Q and R. Q is the son of P. R is the daughter of P. How is R related to Q?",
+"options": ["Sister", "Brother", "Daughter", "Wife"],
+"answer": "Sister"
+},
+{
+"id": 431,
+"category": "Blood Relations",
+"question": "A is the mother of B. C is the father of B. D is the son of A. E is the wife of C. How is D related to E?",
+"options": ["Son", "Brother", "Nephew", "Cousin"],
+"answer": "Son"
+},
+{
+"id": 432,
+"category": "Blood Relations",
+"question": "If 'A + B' means A is the wife of B, 'A - B' means A is the father of B, and 'A × B' means A is the son of B, how is A related to C in 'A - B × C'?",
+"options": ["Son", "Daughter", "Father", "Grandson"],
+"answer": "Grandson"
+},
+{
+"id": 433,
+"category": "Blood Relations",
+"question": "A is the son of B. B is the mother of C. C is the wife of D. How is B related to D?",
+"options": ["Mother", "Mother-in-law", "Aunt", "Sister"],
+"answer": "Mother-in-law"
+},
+{
+"id": 434,
+"category": "Blood Relations",
+"question": "A is the father of B. B is the sister of C. D is the son of C. E is the wife of A. How is E related to D?",
+"options": ["Grandmother", "Mother", "Aunt", "Sister"],
+"answer": "Grandmother"
+},
+{
+"id": 435,
+"category": "Blood Relations",
+"question": "P is the brother of Q. Q is the sister of R. R is the husband of S. How is S related to P?",
+"options": ["Sister", "Sister-in-law", "Brother", "Brother-in-law"],
+"answer": "Sister-in-law"
+},
+{
+"id": 436,
+"category": "Blood Relations",
+"question": "Pointing to a girl, a man said, 'Her mother is the daughter of my father's only son.' How is the girl related to the man?",
+"options": ["Daughter", "Niece", "Sister", "Cousin"],
+"answer": "Daughter"
+},
+{
+"id": 437,
+"category": "Blood Relations",
+"question": "A is the father of B. C is the son of A. D is the son of B. How is D related to C?",
+"options": ["Brother", "Cousin", "Nephew", "Son"],
+"answer": "Cousin"
+},
+{
+"id": 438,
+"category": "Blood Relations",
+"question": "P is the mother of Q. Q is the father of R. How is R related to P?",
+"options": ["Grandson", "Granddaughter", "Grandson or Granddaughter", "Son"],
+"answer": "Grandson or Granddaughter"
+},
+{
+"id": 439,
+"category": "Blood Relations",
+"question": "A is the husband of B. C is the daughter of A. D is the brother of B. How is D related to C?",
+"options": ["Uncle", "Aunt", "Brother", "Father"],
+"answer": "Uncle"
+},
+{
+"id": 440,
+"category": "Blood Relations",
+"question": "Pointing to a man, a woman said, 'His son's father's mother is my mother-in-law.' How is the woman related to the man?",
+"options": ["Wife", "Sister", "Daughter", "Aunt"],
+"answer": "Wife"
+},
+{
+"id": 441,
+"category": "Blood Relations",
+"question": "A is the father of B. B is the son of C. C is the wife of D. How is D related to A?",
+"options": ["Husband", "Brother", "Father", "Son-in-law"],
+"answer": "Husband"
+},
+{
+"id": 442,
+"category": "Blood Relations",
+"question": "P is the son of Q. Q is the father of R. S is the sister of R. How is S related to P?",
+"options": ["Sister", "Brother", "Daughter", "Wife"],
+"answer": "Sister"
+},
+{
+"id": 443,
+"category": "Blood Relations",
+"question": "A is the brother of B. B is the wife of C. D is the son of C. How is D related to A?",
+"options": ["Nephew", "Son", "Brother", "Uncle"],
+"answer": "Nephew"
+},
+{
+"id": 444,
+"category": "Blood Relations",
+"question": "Pointing to a man, a woman said, 'He is the son of my father's father's sister.' How is the man related to the woman?",
+"options": ["Uncle", "Cousin", "Brother", "Nephew"],
+"answer": "Cousin"
+},
+{
+"id": 445,
+"category": "Blood Relations",
+"question": "A is the father of B. B is the husband of C. D is the son of C. How is D related to A?",
+"options": ["Son", "Grandson", "Nephew", "Cousin"],
+"answer": "Grandson"
+},
+{
+"id": 446,
+"category": "Blood Relations",
+"question": "P is the brother of Q. R is the father of P. S is the wife of R. How is S related to Q?",
+"options": ["Mother", "Aunt", "Sister", "Grandmother"],
+"answer": "Mother"
+},
+{
+"id": 447,
+"category": "Blood Relations",
+"question": "A is the mother of B. C is the father of B. D is the daughter of C. How is D related to A?",
+"options": ["Daughter", "Niece", "Sister", "Cousin"],
+"answer": "Daughter"
+},
+{
+"id": 448,
+"category": "Blood Relations",
+"question": "P is the son of Q. R is the daughter of Q. S is the father of R. How is P related to S?",
+"options": ["Son", "Daughter", "Brother", "Sister"],
+"answer": "Son"
+},
+{
+"id": 449,
+"category": "Blood Relations",
+"question": "A is the father of B. C is the mother of B. How is A related to C?",
+"options": ["Brother", "Husband", "Father", "Son"],
+"answer": "Husband"
+},
+{
+"id": 450,
+"category": "Blood Relations",
+"question": "A man said to a woman, 'Your father's sister is my aunt.' How is the woman related to the man?",
+"options": ["Sister", "Cousin", "Niece", "Aunt"],
+"answer": "Cousin"
+}
+
+
+
+
+
+]
